@@ -2,20 +2,19 @@
 
 ## One-Line Summary
 
-This portfolio collects selected work by Graziano Guiducci on AI systems,
-cognitive kernels, D-ND logic, autonomous labs, semantic interfaces, and
-context-preserving agent workflows.
+Graziano Guiducci builds AI systems that preserve context, expose their state,
+test their own outputs, remember failures, and convert stable procedures into
+reusable tools.
 
-## What This Shows
+## What This Shows First
 
-- Cognitive kernel design for LLM hosts.
-- Long-running autonomous cycle design.
-- Research workflow with explicit falsification.
-- Memory structures that survive context loss and model handoff.
-- Public dashboards for reading live lab state.
+- A live autonomous lab system rather than only papers or prompts.
+- Context continuity mechanisms for long AI-assisted work.
+- Self-verification and falsification loops.
+- Reusable cognitive kernels and skill taxonomies.
+- Public dashboard surfaces where state can be inspected.
 - Domain transfer across physics/math, finance, Bitcoin regime analysis, and
-  custom labs.
-- Productization path from theory to installable templates and reusable skills.
+  research monitoring.
 
 ## Why It Matters
 
@@ -44,10 +43,11 @@ should be read as a wider arc:
 
 For a technical reviewer:
 
-1. Read the [Profile](../profile/bio.md).
-2. Open the [Project Index](../projects/index.md).
+1. Read the [Evidence Map](reviewer-evidence.md).
+2. Open the live D-ND Lab dashboard.
 3. Read the [D-ND Lab](../projects/dnd-lab/README.md) card.
-4. Read the [D-ND Papers](../projects/dnd-papers/README.md) and
+4. Read [Anamnesis](../projects/anamnesis/README.md) and
+   [THIA Skill Repository](../projects/thia-skill-repository/README.md).
+5. Read the [D-ND Papers](../projects/dnd-papers/README.md) and
    [D-ND Kernel](../research/condensed-kernel.md) cards.
-5. Open the live dashboard and compare the description to the running system.
 6. Review applied and support projects for evidence of transfer.

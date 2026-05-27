@@ -3,7 +3,7 @@
 ## Summary
 
 The THIA Skill Repository is a catalog of cognitive, operative, and bridge
-skills used to structure AI agent behavior across chat, coding, and VPS
+skills used to structure AI agent behavior across chat, coding, and server
 environments.
 
 ## Problem

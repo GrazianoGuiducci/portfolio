@@ -13,13 +13,14 @@ portfolio repository.
 
 1. **Header**
    - Title: `Graziano Guiducci AI-DND Portfolio`
-   - Subtitle: `AI systems, cognitive kernels, D-ND logic, autonomous labs, and context-preserving workflows.`
+   - Subtitle: `AI systems that preserve context, test their outputs, remember failures, and turn stable procedures into reusable tools.`
 
 2. **Review Path**
-   - Start with D-ND Lab if the reader wants a live system.
-   - Start with Papers / Kernel if the reader wants the formal source.
-   - Start with Skills / Anamnesis / KPhi1 if the reader wants AI workflow
-     architecture.
+   - Live system: D-ND Lab dashboard.
+   - Core problem: AI continuity, self-verification, rejected-claim memory.
+   - Main artifacts: D-ND Lab, Anamnesis, THIA Skills, Paper Zero, Physics Lab.
+   - Evidence: screenshots, reports, public repos, selected cycle outputs.
+   - Boundary: mature systems, support architecture, prototypes.
 
 3. **Current Systems**
    - D-ND Lab dashboard
@@ -71,3 +72,13 @@ Implementation rule:
 - raw private files are never fetched;
 - each modal has an `Open on GitHub` link for source inspection;
 - long files should have a table of contents or anchor list.
+
+## First Cards
+
+The first viewport should not lead with the D-ND theory. It should show:
+
+- D-ND Lab: live autonomous lab system;
+- Anamnesis: context persistence;
+- THIA Skills: modular agent capabilities;
+- Paper Zero: formal kernel;
+- Physics Lab: applied transfer.

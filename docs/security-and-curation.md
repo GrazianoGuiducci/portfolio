@@ -7,7 +7,7 @@ private runtime state.
 
 - `.env` files;
 - API keys, tokens, cookies, auth files;
-- raw VPS logs;
+- raw runtime logs;
 - raw JSONL traces from private cycles;
 - private handover files;
 - node-specific boot instructions;
@@ -29,8 +29,7 @@ private runtime state.
 Anything copied from an internal repository must be checked for:
 
 - local paths;
-- names and notes that only make sense inside the VPS;
+- names and notes that only make sense inside the private operating environment;
 - private collaboration details;
 - irrelevant operational noise;
 - unstated assumptions.
-
