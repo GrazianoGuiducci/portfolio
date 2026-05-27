@@ -9,7 +9,7 @@ Verified on 2026-05-27 from GitHub metadata and local repository state.
 | `dnd-lab-physics` | public | 2026-05-03 | applied evidence: first Lab domain |
 | `d-nd-papers` | public | 2026-03-07 | formal support: Paper Zero / D-ND kernel |
 | `skill` | archived public | 2026-02-26 | archived support: THIA skill taxonomy snapshot |
-| `anamnesis` | archived public | 2026-02-24 | archived precursor: context persistence problem |
+| `anamnesis` | archived public | 2026-02-24 | absorbed precursor: context persistence problem now better represented by `d-nd-seed` |
 | `KPhi1-EN` | public, marked frozen in commits | 2026-02-21 | legacy kernel reference |
 | `D-ND-Omega-Kernel` | public | 2025-12-09 | older advanced technical kernel reference |
 | `D-ND_semantic_OS` | public | 2025-12-11 | earlier semantic cockpit prototype |
@@ -31,3 +31,5 @@ For a technical reviewer, the current top layer should be:
 5. live dashboard and selected reports/screenshots
 
 Archived and older repositories remain valuable only when their status is clear.
+Anamnesis should not be a main review entry while d-nd-seed carries the active
+installable version of the same concern.

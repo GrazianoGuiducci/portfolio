@@ -19,7 +19,6 @@ procedures into reusable tools.
 | THIA Skill Repository | Archived snapshot of modular skill architecture | https://github.com/GrazianoGuiducci/skill |
 | D-ND Papers | Formal source and Paper Zero | https://github.com/GrazianoGuiducci/d-nd-papers |
 | Physics Lab | Applied domain that uses the lab engine | https://github.com/GrazianoGuiducci/dnd-lab-physics |
-| Anamnesis | Archived v0.1 precursor for context-loss patterns | https://github.com/GrazianoGuiducci/anamnesis |
 
 ## What This Should Prove
 
@@ -49,7 +48,8 @@ Read the portfolio in this order:
 1. Live and inspectable systems.
 2. Support architecture that explains how they work.
 3. Formal/research kernel.
-4. Archived precursors and earlier systems as trajectory evidence.
+4. Earlier systems as trajectory evidence only after the current layer is clear.
 
-Do not treat every repository as equally mature. The value is in the chain:
-kernel -> skills/protocols -> lab runtime -> applied domains -> live dashboard.
+Do not treat every repository as equally mature. The value is in the current
+chain: seed -> skills/protocols -> lab runtime -> applied domains -> live
+dashboard.

@@ -11,7 +11,7 @@
 | `skill` | Archived THIA skill taxonomy snapshot | Keep as support/trajectory, not active |
 | `D-ND-Omega-Kernel` | Older advanced technical kernel | Keep, but frame as older component |
 | `D-ND_semantic_OS` | Semantic/cognitive cockpit prototype | Keep as trajectory/prototype |
-| `anamnesis` | Archived context-persistence precursor | Keep as precursor, not active |
+| `anamnesis` | Archived context-persistence precursor | Keep as absorbed precursor; do not put in main path |
 | `KPhi1-EN` | Frozen cognitive kernel reference | Keep as legacy kernel |
 
 ## Secondary / To Curate

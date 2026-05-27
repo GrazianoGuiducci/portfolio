@@ -22,13 +22,13 @@ trajectory. A reviewer should not read every repository as equally important.
 - [KPhi1-EN](kphi1-en/README.md) — frozen legacy cognitive kernel for LLM hosts.
 - [D-ND Omega Kernel](dnd-omega-kernel/README.md) — advanced technical kernel
   candidate; older computational implementation reference.
-- [Anamnesis](anamnesis/README.md) — archived v0.1 precursor for context
-  persistence in AI coding workflows.
 
 ## Prototypes and Trajectory
 
 - [D-ND Semantic OS](dnd-semantic-os/README.md) — semantic operating surface and
   cognitive cockpit prototype from the earlier trajectory.
+- [Anamnesis](anamnesis/README.md) — archived v0.1 precursor whose context
+  persistence idea is now better represented by `d-nd-seed`.
 - [THIA](thia/README.md) — assistant/runtime surface connecting operator,
   memory, site, and lab.
 - [Godel](godel/README.md) — semantic/logical question and inversion layer.

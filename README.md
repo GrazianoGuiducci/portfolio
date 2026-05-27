@@ -17,9 +17,7 @@ inspected, what is mature, and what remains experimental.
 4. [THIA Skill Repository](projects/thia-skill-repository/README.md) — archived
    cognitive and operative skills.
 5. [D-ND Papers](projects/dnd-papers/README.md) — formal kernel and Paper Zero.
-6. [Anamnesis](projects/anamnesis/README.md) — archived precursor for context
-   persistence.
-7. [Project Index](projects/index.md) — wider trajectory and maturity levels.
+6. [Project Index](projects/index.md) — wider trajectory and maturity levels.
 
 ## The Technical Problem
 
@@ -41,8 +39,6 @@ systems in this portfolio address that problem through:
   recovery, safety guards, skills, install profiles, and the Lab pattern.
 - **THIA Skill Repository**: an archived but useful snapshot of modular
   cognitive, operative, and bridge faculties for AI agents.
-- **Anamnesis**: an archived v0.1 precursor that isolates the context-loss
-  problem later absorbed into THIA/TM7 continuity practice.
 - **D-ND Papers / Paper Zero**: the compact formal source behind the D-ND
   operating logic.
 - **D-ND Physics Lab**: applied evidence that the lab engine transfers beyond a
