@@ -6,7 +6,9 @@ D-ND does not treat failed claims as waste. Failed claims are part of the
 working memory of the system. They explain which paths were tested, why they
 fell, and what replaced them.
 
-This document is a public-friendly extract of the private `cimitero.md` file.
+This document is a public-friendly extract of falsification memory: rejected
+claims, failed interpretations, and replacements that should guide future
+cycles.
 
 ## Pattern
 
@@ -50,4 +52,3 @@ Replacement: none yet. The tool is suspended.
 The falsification memory is the practical difference between a research lab and
 a persuasive text generator. It forces the system to remember why attractive
 claims were rejected.
-

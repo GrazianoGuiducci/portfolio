@@ -1,7 +1,7 @@
-# D-ND Portfolio
+# Graziano Guiducci AI-DND Portfolio
 
-Technical portfolio for the D-ND work: autonomous labs, falsification memory,
-research dashboards, cognitive operating protocols, and reusable domain labs.
+Technical portfolio for selected work on AI systems, D-ND logic, autonomous
+labs, cognitive kernels, semantic interfaces, and long-running agent workflows.
 
 This repository is curated for technical review. It is not a dump of the working
 VPS. Internal boot files, private logs, credentials, raw handovers, and local
@@ -10,10 +10,11 @@ runtime state stay out of scope.
 ## What to Read First
 
 1. [Portfolio Overview](docs/portfolio-overview.md)
-2. [D-ND Lab System](docs/dnd/lab-system.md)
-3. [Condensed D-ND Kernel](docs/dnd/condensed-kernel.md)
-4. [Falsification Memory](docs/dnd/falsification-memory.md)
-5. [Case Studies](docs/case-studies/index.md)
+2. [Profile](profile/bio.md)
+3. [Project Index](projects/index.md)
+4. [D-ND Lab System](projects/dnd-lab/README.md)
+5. [D-ND Kernel](research/condensed-kernel.md)
+6. [Falsification Memory](research/falsification-memory.md)
 
 ## Current Public Surfaces
 
@@ -22,16 +23,18 @@ runtime state stay out of scope.
 - Lab dashboard: https://lab.d-nd.com/dashboard/
 - Seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
 - Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
+- Portfolio repository: https://github.com/GrazianoGuiducci/portfolio
 
 ## Scope
 
 The portfolio is organized around one central question:
 
-> Can an AI-assisted research system preserve state, attack its own claims,
-> remember failures, and generate reusable tools across domains?
+> Can an AI system preserve state, inspect its own outputs, attack weak claims,
+> remember failures, and turn stable procedures into reusable tools?
 
-The D-ND work is the most complete current answer. Older work can be added under
-`docs/case-studies/legacy/` after curation.
+D-ND and the Lab are the most complete current expression of this work, but the
+portfolio also covers earlier and adjacent systems: semantic operating surfaces,
+skill kernels, context persistence, papers, and domain-specific labs.
 
 ## Review Boundary
 
@@ -41,7 +44,8 @@ Included:
 - selected lab architecture;
 - selected validated findings and negative results;
 - public dashboard and site links;
-- reusable protocols in cleaned form.
+- reusable protocols in cleaned form;
+- curated project cards for related repositories.
 
 Excluded:
 
@@ -51,3 +55,9 @@ Excluded:
 - private operator conversations;
 - unreviewed drafts presented as finished work.
 
+## Repository Status
+
+This repository is the review layer. Source repositories remain separate. A
+project card may link to a public repo, a live page, a paper, or a curated
+excerpt, but it should explain what the reviewer should look at before sending
+them into implementation details.

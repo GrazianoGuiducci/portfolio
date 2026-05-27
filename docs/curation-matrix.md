@@ -1,10 +1,12 @@
 # Curation Matrix
 
-This matrix tracks which internal artifacts can become portfolio material.
+This matrix tracks which source artifacts can become portfolio material. Source
+files may live in private or working repositories; the public form is always a
+curated document in this portfolio.
 
 | Source artifact | Portfolio status | Public form |
 |---|---:|---|
-| `CONDENSATO_ESSENZIALE.md` | high priority | `docs/dnd/condensed-kernel.md` |
+| condensed D-ND kernel source | high priority | `research/condensed-kernel.md` |
 | `CONDENSATO.md` | candidate | extended kernel page after editing |
 | `CONDENSATO_SCOPERTE.md` | candidate | discoveries / promoted findings page |
 | `cimitero.md` | candidate | falsification memory page |
@@ -20,8 +22,7 @@ This matrix tracks which internal artifacts can become portfolio material.
 ## Next Review Pass
 
 1. Select three strongest artifacts for a reviewer.
-2. Decide whether the portfolio repo should be public or private.
-3. Add screenshots from live dashboards.
-4. Add one architecture diagram.
-5. Add a site page linking to this repo.
-
+2. Add screenshots from live dashboards.
+3. Add one architecture diagram.
+4. Add a site page linking to this repo.
+5. Promote only files that have a clear reviewer-facing card.

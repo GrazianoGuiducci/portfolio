@@ -1,8 +1,8 @@
 # Condensed D-ND Kernel
 
-This is a public, review-oriented condensation of the active D-ND kernel. It is
-based on the private research file `CONDENSATO_ESSENZIALE.md`, but removes local
-paths and node-specific boot context.
+This is a public, review-oriented condensation of the active D-ND kernel. It
+keeps the mathematical and operational core while excluding local runtime paths,
+private logs, and node-specific boot context.
 
 ## Rule
 
@@ -63,4 +63,3 @@ cycle design.
 
 Only what survives doubt belongs in the kernel. What falls enters the
 falsification memory instead of disappearing.
-
