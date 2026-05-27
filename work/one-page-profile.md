@@ -42,9 +42,3 @@ processes.
 - D-ND Lab: https://github.com/GrazianoGuiducci/D-ND_LAB
 - d-nd-seed: https://github.com/GrazianoGuiducci/d-nd-seed
 - Papers: https://github.com/GrazianoGuiducci/d-nd-papers
-
-## Short Bio
-
-Independent researcher and builder working on AI systems, cognitive kernels,
-semantic interfaces and long-running agent workflows. I focus on making AI
-systems inspectable, recoverable and useful under real operational pressure.

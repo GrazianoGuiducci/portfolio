@@ -18,8 +18,8 @@ inspected, what is mature, and what remains experimental.
    cognitive and operative skills.
 5. [D-ND Papers](projects/dnd-papers/README.md) — formal kernel and Paper Zero.
 6. [Project Index](projects/index.md) — wider trajectory and maturity levels.
-7. [Career Application Pack](career/README.md) — one-page profile, target
-   shortlist, work page draft and outreach notes.
+7. [Work Profile](work/one-page-profile.md) — compact profile for roles and
+   collaborations.
 
 ## The Technical Problem
 
