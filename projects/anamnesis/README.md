@@ -2,20 +2,27 @@
 
 ## Summary
 
-Anamnesis is a context persistence system for AI coders. It is designed to help
-work survive token-window compaction and context variance.
+Anamnesis is an archived v0.1 context-persistence pattern for AI coders. It
+captures an important problem early: how reasoning survives token-window
+compaction, session boundaries, and context variance.
 
 ## Problem
 
 Long coding sessions fail when the assistant loses the operational thread:
-current goal, files touched, decisions made, unresolved risks, and next exact
-step. Anamnesis addresses this as a first-class system problem.
+current goal, files touched, decisions made, alternatives rejected, unresolved
+risks, and next exact step. Anamnesis addressed this as a first-class system
+problem before the same concern became part of the current THIA/TM7 continuity
+practice.
 
 ## System
 
-Current portfolio knowledge is based on the public repository description. A
-second pass should inspect its README, protocols, and examples before using it
-as a primary card.
+The inspected repository presents patterns and templates rather than a library:
+
+- crystallization format for active reasoning;
+- pre/post compaction hook templates;
+- context map structure;
+- recovery instructions after session restart;
+- feedback loop to test whether recovery worked.
 
 ## What to Inspect
 
@@ -23,5 +30,7 @@ as a primary card.
 
 ## Status
 
-Public candidate. Needs source-level curation before being promoted above the
-project index.
+Archived public repository. Important as a precursor and conceptual proof of the
+context-loss problem, but not a current primary system. Present it as trajectory
+evidence unless it is updated or reconnected to the present THIA/TM7/Lab
+continuity layer.

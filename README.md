@@ -12,11 +12,14 @@ inspected, what is mature, and what remains experimental.
 
 1. [Evidence Map](docs/reviewer-evidence.md) — what to inspect first and why.
 2. [D-ND Lab](projects/dnd-lab/README.md) — live autonomous lab system.
-3. [Anamnesis](projects/anamnesis/README.md) — context persistence for AI coders.
-4. [THIA Skill Repository](projects/thia-skill-repository/README.md) — modular
+3. [d-nd-seed](projects/dnd-seed/README.md) — active portable AI-coder seed,
+   hooks, memory, safety, and lab pattern.
+4. [THIA Skill Repository](projects/thia-skill-repository/README.md) — archived
    cognitive and operative skills.
 5. [D-ND Papers](projects/dnd-papers/README.md) — formal kernel and Paper Zero.
-6. [Project Index](projects/index.md) — wider trajectory and maturity levels.
+6. [Anamnesis](projects/anamnesis/README.md) — archived precursor for context
+   persistence.
+7. [Project Index](projects/index.md) — wider trajectory and maturity levels.
 
 ## The Technical Problem
 
@@ -34,10 +37,12 @@ systems in this portfolio address that problem through:
 
 - **D-ND Lab**: a live multi-domain lab runtime with cycles, reports,
   falsification, state dashboard, and reusable domain templates.
-- **Anamnesis**: a focused system for AI coding continuity across token-window
-  loss and context variance.
-- **THIA Skill Repository**: a modular taxonomy of cognitive, operative, and
-  bridge faculties for AI agents.
+- **d-nd-seed**: an active portable seed for AI coders, with hooks, compact
+  recovery, safety guards, skills, install profiles, and the Lab pattern.
+- **THIA Skill Repository**: an archived but useful snapshot of modular
+  cognitive, operative, and bridge faculties for AI agents.
+- **Anamnesis**: an archived v0.1 precursor that isolates the context-loss
+  problem later absorbed into THIA/TM7 continuity practice.
 - **D-ND Papers / Paper Zero**: the compact formal source behind the D-ND
   operating logic.
 - **D-ND Physics Lab**: applied evidence that the lab engine transfers beyond a

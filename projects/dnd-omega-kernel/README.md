@@ -2,7 +2,7 @@
 
 ## Summary
 
-D-ND Omega Kernel is represented in the current local source by a JAX-based
+D-ND Omega Kernel is represented in the inspected source by a JAX-based
 probabilistic graphical model and block Gibbs sampling library. It is a useful
 technical kernel reference for probabilistic structure, heterogeneous state, and
 sampling programs.
@@ -30,5 +30,5 @@ The inspected material describes:
 
 ## Status
 
-Candidate advanced technical component. The portfolio should present it as a
-kernel-level implementation artifact, not as a public-facing D-ND explanation.
+Older advanced technical component. Present it as a kernel-level implementation
+artifact and trajectory evidence, not as a current public-facing D-ND system.

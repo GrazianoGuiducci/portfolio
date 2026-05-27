@@ -7,11 +7,12 @@
 | `D-ND_LAB` | Main autonomous lab system | Keep as primary case study |
 | `dnd-lab-physics` | Applied domain proving transfer | Keep as applied case study |
 | `d-nd-papers` | Formal kernel and Paper Zero | Keep as research artifact |
-| `skill` | THIA skill taxonomy and modular agent design | Keep as support architecture |
-| `D-ND-Omega-Kernel` | Advanced technical kernel | Keep, but frame technically |
+| `d-nd-seed` | Active portable AI-coder continuity layer | Promote near top |
+| `skill` | Archived THIA skill taxonomy snapshot | Keep as support/trajectory, not active |
+| `D-ND-Omega-Kernel` | Older advanced technical kernel | Keep, but frame as older component |
 | `D-ND_semantic_OS` | Semantic/cognitive cockpit prototype | Keep as trajectory/prototype |
-| `anamnesis` | Context persistence for AI coders | Inspect next |
-| `KPhi1-EN` | Portable cognitive kernel | Keep as earlier portable kernel |
+| `anamnesis` | Archived context-persistence precursor | Keep as precursor, not active |
+| `KPhi1-EN` | Frozen cognitive kernel reference | Keep as legacy kernel |
 
 ## Secondary / To Curate
 

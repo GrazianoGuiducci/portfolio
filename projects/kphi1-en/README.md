@@ -2,9 +2,9 @@
 
 ## Summary
 
-KPhi1-EN is an English version of an autopoietic cognitive kernel for LLM hosts.
-It packages identity, axioms, guard rules, skills, and evolution protocols as a
-portable seed operating system.
+KPhi1-EN is a frozen legacy reference for an autopoietic cognitive kernel for
+LLM hosts. It packages identity, axioms, guard rules, skills, and evolution
+protocols as a portable seed operating system.
 
 ## Problem
 
@@ -28,5 +28,6 @@ The inspected README describes:
 
 ## Status
 
-Portable kernel / earlier cognitive architecture. Useful in the portfolio as a
-bridge between prompt systems, THIA skills, and the current D-ND Lab workflow.
+Legacy/frozen reference. Useful in the portfolio as part of the trajectory from
+prompt/kernel systems toward THIA skills, d-nd-seed and the current D-ND Lab
+workflow; should not be presented as current active infrastructure.

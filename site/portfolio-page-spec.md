@@ -18,7 +18,8 @@ portfolio repository.
 2. **Review Path**
    - Live system: D-ND Lab dashboard.
    - Core problem: AI continuity, self-verification, rejected-claim memory.
-   - Main artifacts: D-ND Lab, Anamnesis, THIA Skills, Paper Zero, Physics Lab.
+   - Main artifacts: D-ND Lab, d-nd-seed, Paper Zero, Physics Lab.
+   - Trajectory artifact: Anamnesis as archived context-persistence precursor.
    - Evidence: screenshots, reports, public repos, selected cycle outputs.
    - Boundary: mature systems, support architecture, prototypes.
 
@@ -78,7 +79,8 @@ Implementation rule:
 The first viewport should not lead with the D-ND theory. It should show:
 
 - D-ND Lab: live autonomous lab system;
-- Anamnesis: context persistence;
-- THIA Skills: modular agent capabilities;
+- d-nd-seed: active portable AI-coder continuity layer;
+- THIA Skills: archived modular agent-capability snapshot;
 - Paper Zero: formal kernel;
 - Physics Lab: applied transfer.
+- Anamnesis: archived precursor for context persistence.

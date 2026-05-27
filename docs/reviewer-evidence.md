@@ -15,10 +15,11 @@ procedures into reusable tools.
 | --- | --- | --- |
 | D-ND Lab dashboard | Live state surface for autonomous lab cycles | https://lab.d-nd.com/dashboard/ |
 | D-ND Lab repo | Runtime, domains, dashboard, cycle machinery | https://github.com/GrazianoGuiducci/D-ND_LAB |
-| Anamnesis | Direct answer to context loss in AI coding workflows | https://github.com/GrazianoGuiducci/anamnesis |
-| THIA Skill Repository | Modular skill architecture for agent behavior | https://github.com/GrazianoGuiducci/skill |
+| d-nd-seed | Active portable AI-coder seed: hooks, memory, safety, skills, lab pattern | https://github.com/GrazianoGuiducci/d-nd-seed |
+| THIA Skill Repository | Archived snapshot of modular skill architecture | https://github.com/GrazianoGuiducci/skill |
 | D-ND Papers | Formal source and Paper Zero | https://github.com/GrazianoGuiducci/d-nd-papers |
 | Physics Lab | Applied domain that uses the lab engine | https://github.com/GrazianoGuiducci/dnd-lab-physics |
+| Anamnesis | Archived v0.1 precursor for context-loss patterns | https://github.com/GrazianoGuiducci/anamnesis |
 
 ## What This Should Prove
 
@@ -48,7 +49,7 @@ Read the portfolio in this order:
 1. Live and inspectable systems.
 2. Support architecture that explains how they work.
 3. Formal/research kernel.
-4. Prototypes and earlier systems as trajectory evidence.
+4. Archived precursors and earlier systems as trajectory evidence.
 
 Do not treat every repository as equally mature. The value is in the chain:
 kernel -> skills/protocols -> lab runtime -> applied domains -> live dashboard.

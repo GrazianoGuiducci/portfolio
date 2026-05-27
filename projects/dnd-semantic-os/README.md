@@ -27,6 +27,7 @@ The inspected README describes:
 
 ## Status
 
-Prototype / earlier system. Useful to show the trajectory toward THIA and the
-current Lab dashboard, but it needs sober framing and selected screenshots
-before being used as a primary artifact.
+Prototype / earlier system, last active in the 2025 trajectory. Useful to show
+the path toward THIA and the current Lab dashboard, but it should remain in
+trajectory/prototype material unless refreshed with a current demo and sober
+screenshots.
