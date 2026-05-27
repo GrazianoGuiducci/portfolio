@@ -53,39 +53,14 @@ systems in this portfolio address that problem through:
 - Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
 - Portfolio repository: https://github.com/GrazianoGuiducci/portfolio
 
-## Maturity Boundary
+## How to Read It
 
-This is not a flat list of projects. The work is grouped by review value:
+The fastest path is practical first, theory second:
 
-- **Primary systems**: live or directly inspectable systems that demonstrate the
-  core ability.
-- **Support architecture**: kernels, skills, papers, and protocols that explain
-  how the systems are structured.
-- **Prototypes / trajectory**: earlier systems that show the evolution of the
-  design, without being presented as current production surfaces.
+- open the live Lab dashboard;
+- read the D-ND Lab and d-nd-seed cards;
+- use the evidence map to decide which repository or document to inspect;
+- read Paper Zero only after seeing what the systems do.
 
-## Review Boundary
-
-Included:
-
-- public explanations of the model;
-- selected lab architecture;
-- selected validated findings and negative results;
-- public dashboard and site links;
-- reusable protocols in cleaned form;
-- curated project cards for related repositories.
-
-Excluded:
-
-- secrets, tokens, env files, private accounts;
-- raw runtime logs and JSONL traces;
-- internal handovers and node-specific boot instructions;
-- private operator conversations;
-- unreviewed drafts presented as finished work.
-
-## Repository Status
-
-This repository is the review layer. Source repositories remain separate. A
-project card may link to a public repo, a live page, a paper, or a curated
-excerpt, but it should explain what the reviewer should look at before sending
-them into implementation details.
+Older or archived projects are included only when they explain the path toward
+the current systems.
