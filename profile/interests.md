@@ -1,19 +1,20 @@
-# Research and Work Interests
+# Ambiti di ricerca e lavoro
 
-## Machine Learning, AI Awareness, Kernels and Tools
+## Machine learning, AI awareness, kernel e tool
 
-Work on practical structures that make AI systems more stable across long
-contexts: boot protocols, memory handoff, falsification loops, reusable skills,
-and continuity packets.
+Lavoro su strutture pratiche che rendono i sistemi IA più stabili nei contesti
+lunghi: protocolli di boot, passaggi di memoria, cicli di falsificazione, skill
+riutilizzabili e packet di continuità.
 
-## UX-AI Design and Cognitive Interfaces
+## Design UX-AI, media cognitivi e interfacce
 
-Interfaces are treated as cognitive instruments and operating surfaces.
-The goal is to help a human operator read system state, see uncertainty, inspect
-evidence, and decide the next move through curated traces.
+Le interfacce sono trattate come strumenti cognitivi e superfici operative.
+Il focus è progettare media cognitivi che trasferiscono informazione,
+intenzione e inferenza tra umano, modello e sistema con minore latenza
+operativa.
 
-## Logic, Semantics, Ontology and Information Theory
+## Logica, semantica, ontologia e teoria dell'informazione
 
-D-ND is explored as a compact logical kernel and as an operational method:
-separate claim from counter-claim, preserve the residue of failed paths, and use
-recursion as a way to expose structure.
+D-ND viene esplorato come kernel logico compatto e metodo operativo: separare
+ipotesi e contro-ipotesi, preservare il residuo dei percorsi falliti e usare la
+ricorsione come modo per esporre struttura.

@@ -71,6 +71,16 @@ struttura.
 - **Kernel cognitivi portabili**: semi, skill e genomi operativi locali che
   rendono installabile un comportamento agente utile.
 
+## Ambiti di riferimento
+
+Questi ambiti funzionano come indice tecnico del lavoro attuale e della
+traiettoria in sviluppo:
+
+- machine learning, AI awareness, kernel cognitivi e strumenti agentici;
+- design UX-AI, media cognitivi e dinamiche di trasferimento
+  dell'informazione tra umano, modello e sistema;
+- logica, semantica, ontologia e teoria dell'informazione.
+
 ## Evidenze principali
 
 - **D-ND Lab**: runtime vivo multi-dominio con cicli, report, falsificazione,

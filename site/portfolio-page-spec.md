@@ -18,6 +18,8 @@ portfolio repository.
 2. **Review Path**
    - Live system: D-ND Lab dashboard.
    - Core problem: AI continuity, self-verification, rejected-claim memory.
+   - Reference areas: machine learning / AI awareness; UX-AI / cognitive
+     media; logic / semantics / ontology / information theory.
    - Main artifacts: D-ND Lab, d-nd-seed, THIA/Gödel/CEC, Physics Lab, Paper Zero.
    - Trajectory artifact: Anamnesis appears as absorbed precursor inside
      the d-nd-seed story.
@@ -47,8 +49,16 @@ portfolio repository.
    - Does it expose state clearly?
    - Does it transfer across domains?
    - Does it produce reusable tools?
+   - Does the interface reduce latency between human inference, model output
+     and system state?
 
-6. **Boundaries**
+6. **Reference Areas**
+   - Machine learning, AI awareness, cognitive kernels and agentic tools.
+   - UX-AI design, cognitive media and information-transfer dynamics between
+     human, model and system.
+   - Logic, semantics, ontology and information theory.
+
+7. **Boundaries**
    - private runtime logs excluded;
    - secrets excluded;
    - raw handovers excluded;

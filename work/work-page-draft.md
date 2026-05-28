@@ -7,8 +7,8 @@ Suggested URL: `https://d-nd.com/work` or `https://d-nd.com/ai-systems`
 ### Dal 2022, livello operativo attorno all'IA agentica.
 
 Sviluppo sistemi che preservano il contesto, verificano i propri risultati,
-ricordano i fallimenti, rendono visibile il proprio stato e trasformano le
-modalità di fallimento ricorrenti in strumenti riutilizzabili.
+ricordano i fallimenti, rendono visibile il proprio stato e integrano le
+esperienze fatte, migliorandosi ed evolvendo.
 
 High-level logic is the source layer. It takes form as operating
 infrastructure: practical tools, dashboards, safety guards, evaluation loops
@@ -21,6 +21,15 @@ Primary links:
 - Read d-nd-seed
 
 ## What I Work On
+
+### Reference areas
+
+Machine learning, AI awareness, cognitive kernels and agentic tools.
+
+UX-AI design, cognitive media and information-transfer dynamics between human,
+model and system.
+
+Logic, semantics, ontology and information theory.
 
 ### Agentic systems
 

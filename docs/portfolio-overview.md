@@ -42,6 +42,13 @@ portfolio reads as a wider arc:
 - autonomous lab runtime and public dashboard;
 - applied domains and falsification memory.
 
+## Reference Areas
+
+- Machine learning, AI awareness, cognitive kernels and agentic tools.
+- UX-AI design, cognitive media and information-transfer dynamics between
+  human, model and system.
+- Logic, semantics, ontology and information theory.
+
 ## Suggested Review Path
 
 For a technical reviewer:

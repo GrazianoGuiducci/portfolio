@@ -7,8 +7,15 @@ superfici di stato, crivelli di verifica, operatori decisionali e interfacce
 per orientare lavoro autonomo.
 
 My current work focuses on agentic systems, cognitive kernels, AI-coder
-continuity, and UX patterns for inspecting and steering long-running AI
-processes.
+continuity, and UX-AI patterns for low-latency inspection and steering of
+long-running AI processes.
+
+## Reference Areas
+
+- Machine learning, AI awareness, cognitive kernels and agentic tools.
+- UX-AI design, cognitive media and information-transfer dynamics between
+  human, model and system.
+- Logic, semantics, ontology and information theory.
 
 ## Core Strengths
 

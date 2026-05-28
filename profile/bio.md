@@ -4,18 +4,19 @@ Dal 2022 Graziano Guiducci sviluppa il livello operativo attorno all'IA
 agentica: memoria, boot, verifica, interfacce cognitive, crivelli decisionali e
 workflow agentici che preservano direzione nel tempo.
 
-The current focus is the D-ND Lab ecosystem, d-nd-seed, and THIA/Gödel/CEC:
-autonomous research labs, portable AI-coder operating rules, and live surfaces
-for memory, routing, crivello, inversion, state exposure and human steering.
+Il focus attuale è l'ecosistema D-ND Lab, d-nd-seed e THIA/Gödel/CEC: Lab
+autonomi di ricerca, regole operative portabili per AI coder e superfici vive
+per memoria, routing, crivello, inversione, stato e guida umana.
 
-## Areas of Interest
+## Ambiti di riferimento
 
-- Machine learning, AI awareness, cognitive kernels, and agentic tools.
-- UX-AI design, cognitive interfaces, and human-AI interaction.
-- Logic, semantics, ontology, and information theory.
+- Machine learning, AI awareness, kernel cognitivi e strumenti agentici.
+- Design UX-AI, media cognitivi e dinamiche di trasferimento
+  dell'informazione tra umano, modello e sistema.
+- Logica, semantica, ontologia e teoria dell'informazione.
 
-## Review Angle
+## Angolo di revisione
 
-The portfolio is meant for technical readers evaluating system design,
-operational discipline, AI workflow architecture, and the ability to transform
-abstract research into working tools.
+Il portfolio è scritto per lettori tecnici che valutano progettazione di
+sistemi, disciplina operativa, architettura di workflow IA e capacità di
+trasformare ricerca astratta in strumenti funzionanti.
