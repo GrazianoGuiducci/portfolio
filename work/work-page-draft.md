@@ -82,6 +82,8 @@ Links:
 
 I am looking for roles or collaborations around agentic AI systems, AI-native
 UX, cognitive kernels, evaluation loops, memory, safety and human-in-the-loop
-control.
+control. The strongest fit is work where applied systems and long-term research
+reinforce each other: building useful products while improving the operating
+layer that makes autonomous AI work reliable.
 
 Portfolio: https://github.com/GrazianoGuiducci/portfolio
