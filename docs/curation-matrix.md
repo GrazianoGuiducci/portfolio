@@ -19,10 +19,10 @@ curated document in this portfolio.
 | `HANDOVER_*` | exclude | internal continuity packet |
 | `tools/data/*` | exclude raw | selected charts/reports only after review |
 
-## Next Review Pass
+## Public Roadmap
 
-1. Select three strongest artifacts for a reviewer.
-2. Add screenshots from live dashboards.
-3. Add one architecture diagram.
-4. Add a site page linking to this repo.
-5. Promote only files that have a clear reviewer-facing card.
+1. Three strongest artifacts for a reviewer.
+2. Screenshots from live dashboards.
+3. One architecture diagram.
+4. A site page linking to this repo.
+5. Reviewer-facing cards for each promoted file.

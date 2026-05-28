@@ -50,6 +50,5 @@ Read the portfolio in this order:
 3. Formal/research kernel.
 4. Earlier systems as trajectory evidence only after the current layer is clear.
 
-Do not treat every repository as equally mature. The value is in the current
-chain: seed -> skills/protocols -> lab runtime -> applied domains -> live
-dashboard.
+The repositories are not equally mature. The strongest current chain is:
+seed -> skills/protocols -> lab runtime -> applied domains -> live dashboard.

@@ -11,7 +11,7 @@
 | `skill` | Archived THIA skill taxonomy snapshot | Keep as support/trajectory, not active |
 | `D-ND-Omega-Kernel` | Older advanced technical kernel | Keep, but frame as older component |
 | `D-ND_semantic_OS` | Semantic/cognitive cockpit prototype | Keep as trajectory/prototype |
-| `anamnesis` | Archived context-persistence precursor | Keep as absorbed precursor; do not put in main path |
+| `anamnesis` | Archived context-persistence precursor | Keep as absorbed precursor outside the main path |
 | `KPhi1-EN` | Frozen cognitive kernel reference | Keep as legacy kernel |
 
 ## Secondary / To Curate
@@ -23,9 +23,9 @@
 | d-nd-seed | Needs selected kernels, not a raw list |
 | Legacy systems | Need timeline and relevance filter |
 
-## Exclusion Rule
+## Selection Criterion
 
-Do not add a repository because it exists. Add it only if a reviewer can see:
+A repository belongs in the main portfolio path only when a reviewer can see:
 
 - what it does;
 - why it matters;

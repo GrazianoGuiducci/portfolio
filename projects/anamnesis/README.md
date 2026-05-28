@@ -11,8 +11,8 @@ compaction, session boundaries, and context variance.
 Long coding sessions fail when the assistant loses the operational thread:
 current goal, files touched, decisions made, alternatives rejected, unresolved
 risks, and next exact step. Anamnesis addressed this as a first-class system
-problem before the same concern became part of the current THIA/TM7 continuity
-practice.
+problem before the same concern became part of the current continuity and
+reentry layer.
 
 ## System
 
@@ -32,5 +32,5 @@ The inspected repository presents patterns and templates rather than a library:
 
 Archived public repository. Important as a precursor and conceptual proof of the
 context-loss problem, but not a current primary system. Present it as trajectory
-evidence unless it is updated or reconnected to the present THIA/TM7/Lab
-continuity layer.
+evidence unless it is updated or reconnected to the present lab and continuity
+layer.

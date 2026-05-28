@@ -3,7 +3,7 @@
 This portfolio is meant to be reviewable by technical people without exposing
 private runtime state.
 
-## Never Include
+## Outside Scope
 
 - `.env` files;
 - API keys, tokens, cookies, auth files;
@@ -24,9 +24,9 @@ private runtime state.
 - public repository links;
 - clear architecture notes.
 
-## Review Rule
+## Review Checklist
 
-Anything copied from an internal repository must be checked for:
+Curated material is checked for:
 
 - local paths;
 - names and notes that only make sense inside the private operating environment;

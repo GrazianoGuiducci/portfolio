@@ -31,5 +31,6 @@ A public page should explain:
 
 ## Boundary
 
-Do not publish raw internal notes, boot language, private paths, or operational
-state. Curate the kernel into a document that a technical reviewer can inspect.
+This page should remain a curated kernel document for technical review. Raw
+internal notes, boot language, private paths and operational state are outside
+its scope.

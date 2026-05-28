@@ -14,10 +14,10 @@ Verified on 2026-05-27 from GitHub metadata and local repository state.
 | `D-ND-Omega-Kernel` | public | 2025-12-09 | older advanced technical kernel reference |
 | `D-ND_semantic_OS` | public | 2025-12-11 | earlier semantic cockpit prototype |
 
-## Presentation Rule
+## Maturity Note
 
-Do not present archived or frozen repositories as active infrastructure. Use
-them to show trajectory, prior exploration, or the origin of later active
+Archived or frozen repositories are trajectory evidence, not active
+infrastructure. They show prior exploration and the origin of later active
 systems.
 
 ## Current Top Layer

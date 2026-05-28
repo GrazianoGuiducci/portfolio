@@ -8,8 +8,9 @@ patterns so an AI coding agent does not start from zero every session.
 
 ## What It Makes Possible
 
-d-nd-seed shows transfer: operational lessons from THIA/TM7/D-ND Lab become a
-portable system that can be installed into other projects.
+d-nd-seed shows transfer: operational lessons from current lab and agent
+workflow systems become a portable layer that can be installed into other
+projects.
 
 This is now more current than Anamnesis for the context-continuity problem.
 Anamnesis isolated the problem; d-nd-seed carries the active installable pattern.
@@ -31,8 +32,8 @@ seed can give an AI coding environment a repeatable operating layer:
   verify that its own automation works.
 - **Lab transfer**: the Lab pattern describes how to bootstrap domain labs with
   cycle, falsification, dashboard and product pipeline.
-- **Promotion lane**: useful THIA/D-ND runtime behavior can be promoted back
-  into the seed as a portable invariant.
+- **Promotion lane**: useful runtime behavior can be promoted back into the
+  seed as a portable invariant.
 
 ## System
 
