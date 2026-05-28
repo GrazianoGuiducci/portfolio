@@ -2,18 +2,51 @@
 
 Suggested public page:
 
-`https://d-nd.com/portfolio` or `https://lab.d-nd.com/portfolio.html`
+`https://d-nd.com/portfolio`
+
+## Current Decision
+
+Build this page on `d-nd.com` before the secondary pages `/thia`, `/dnd`,
+`/sistema` and `/consapevolezza`.
+
+Reason:
+
+- the homepage now gives a stable first frame for D-ND Model;
+- the portfolio page completes the Italian LinkedIn profile with a public,
+  inspectable review target;
+- after the portfolio page exists, LinkedIn can point to `d-nd.com/portfolio`
+  before the English profile pass.
 
 ## Goal
 
 Provide a single page that a technical reviewer can open before reading the
 portfolio repository.
 
+This is a professional-review page, not a generic services page. It should make
+the work legible for companies, research groups, AI-native product teams and
+technical collaborators.
+
+## Visual / UX Fit With Current Home
+
+Use the current `d-nd.com` homepage direction:
+
+- dark, quiet, technical surface;
+- restrained neon accents already used by the home: green / cyan / amber /
+  purple;
+- compact cards and thin borders;
+- no marketing hero, no generic freelance-service framing;
+- content first, proof surfaces immediately visible;
+- CTA buttons aligned with current home style.
+
 ## Page Sections
 
 1. **Header**
-   - Title: `Graziano Guiducci AI-DND Portfolio`
-   - Subtitle: `Dal 2022 sviluppo il livello operativo attorno all'IA agentica: memoria, boot, verifica, crivelli decisionali e superfici di stato.`
+   - Eyebrow: `Portfolio tecnico`
+   - Title: `Graziano Guiducci - AI-DND Portfolio`
+   - Subtitle: `Dal 2022 sviluppo il livello operativo attorno all'IA agentica: sistemi che preservano il contesto, verificano i propri risultati, ricordano i fallimenti, rendono visibile il proprio stato e integrano le esperienze fatte, migliorandosi ed evolvendo.`
+   - Primary CTA: `Mappa delle evidenze`
+   - Secondary CTA: `Dashboard Lab`
+   - Third CTA: `Repository portfolio`
 
 2. **Review Path**
    - Live system: D-ND Lab dashboard.
@@ -82,6 +115,16 @@ portfolio repository.
    - raw handovers excluded;
    - selected internal material rewritten for review.
 
+10. **LinkedIn Completion**
+   - This page becomes the first Featured link for the Italian LinkedIn profile
+     when published.
+   - Keep the public URL stable.
+   - Add metadata suitable for link preview:
+     - title: `Portfolio AI-DND - Graziano Guiducci`
+     - description: `Sistemi IA agentici, Lab autonomi, consapevolezza programmabile, CEC, seed installabili e superfici verificabili.`
+     - image: reuse a clean D-ND/portfolio preview image or the page hero
+       capture.
+
 ## Card Model
 
 Each artifact card should include:
@@ -114,3 +157,46 @@ The first viewport should open with current systems:
 - Physics Lab: applied transfer;
 - Paper Zero: formal kernel.
 - Anamnesis: optional absorbed precursor inside the seed/context-continuity card.
+
+## Links To Use
+
+- Portfolio repo: `https://github.com/GrazianoGuiducci/portfolio`
+- Evidence map: `https://github.com/GrazianoGuiducci/portfolio/blob/main/docs/reviewer-evidence.md`
+- Lab dashboard: `https://lab.d-nd.com/dashboard/`
+- D-ND Lab repo: `https://github.com/GrazianoGuiducci/D-ND_LAB`
+- d-nd-seed repo: `https://github.com/GrazianoGuiducci/d-nd-seed`
+- Gödel / CEC public surface: `https://d-nd.com/godel`
+- D-ND Papers: `https://github.com/GrazianoGuiducci/d-nd-papers`
+
+## Recommended First View
+
+The first screen should show:
+
+- title and subtitle;
+- 3 CTAs;
+- a compact `Valore trasferibile` block;
+- a `Maturità delle evidenze` strip or cards:
+  - live;
+  - repository attivo;
+  - superficie pubblica + componente interna;
+  - dominio applicato;
+  - ancoraggio formale.
+
+## Italian Copy Source
+
+Use `README.md` as the Italian source of truth for:
+
+- opening;
+- technical frame;
+- transferable value;
+- role applications;
+- reference areas;
+- strongest evidence;
+- evidence maturity.
+
+Use `docs/reviewer-evidence.md` as the technical-review source for:
+
+- proof order;
+- translated terms;
+- role translation;
+- maturity signal.
