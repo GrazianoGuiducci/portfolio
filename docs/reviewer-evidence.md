@@ -14,6 +14,10 @@ evidence is the durable harness: awareness before action, recoverability,
 explicit state, human control, evaluation loops, and portable rules that can
 outlive the first implementation.
 
+The point is not theory for its own sake. High-level logic is evaluated by what
+it turns into: live systems, dashboards, guards, evaluation loops, reusable
+seeds, and domain labs.
+
 ## What to Inspect First
 
 | Evidence | Why it matters | Link |

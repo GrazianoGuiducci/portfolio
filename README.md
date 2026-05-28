@@ -9,6 +9,10 @@ semantic interfaces, D-ND logic, context persistence, and long-running agent
 workflows. It is written for technical review: what exists, what can be
 inspected, what is mature, and what remains experimental.
 
+The work starts from high-level reasoning, but its value is practical: the
+logic becomes tools, dashboards, safety guards, evaluation loops, and reusable
+operating patterns.
+
 ## Start Here
 
 1. [Evidence Map](docs/reviewer-evidence.md) — what to inspect first and why.

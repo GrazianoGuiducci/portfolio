@@ -10,6 +10,9 @@ I design and build the operating layer around agentic AI: memory, goal loops,
 tool use, evaluation, guardrails, recovery, state exposure and interfaces that
 keep autonomous workflows inspectable and steerable.
 
+I work where high-level logic becomes operating infrastructure: practical
+tools, dashboards, safety guards, evaluation loops and reusable patterns.
+
 Primary links:
 
 - View portfolio
