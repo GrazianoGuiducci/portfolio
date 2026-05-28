@@ -10,6 +10,19 @@ My current work focuses on agentic systems, cognitive kernels, AI-coder
 continuity, and UX-AI patterns for low-latency inspection and steering of
 long-running AI processes.
 
+## Transferable Value
+
+I bring methods and tools for making AI agents more continuous, verifiable,
+inspectable and capable of operating across long cycles.
+
+## Role Fit
+
+- Agentic AI systems.
+- AI-native UX and Human-AI interaction.
+- Evaluation loops, safety and observability.
+- Memory, tool use and context persistence.
+- Research tooling and autonomous Lab workflows.
+
 ## Reference Areas
 
 - Machine learning, AI awareness, cognitive kernels and agentic tools.

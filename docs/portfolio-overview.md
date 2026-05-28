@@ -18,6 +18,23 @@ decisionali e modelli operativi riutilizzabili.
 - CEC/Gödel surfaces where users or Labs bring real tensions and receive a
   sifted result, a shifted viewpoint and a next question.
 
+## Transferable Value
+
+Methods and tools for making AI agents more continuous, verifiable,
+inspectable, and capable of operating across long cycles.
+
+The theoretical horizon is broad. The review path starts from inspectable
+surfaces: live Labs, repositories, seeds, evaluation sieves, dashboards,
+operational memory and agentic workflows.
+
+## Role Translation
+
+- Agentic AI systems.
+- AI-native UX and Human-AI interaction.
+- Evaluation loops, safety and observability.
+- Memory, tool use and context persistence.
+- Research tooling and autonomous Lab workflows.
+
 ## Why It Matters
 
 Most AI coding and research workflows fail in three places:

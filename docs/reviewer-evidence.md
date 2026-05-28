@@ -17,6 +17,26 @@ implementation.
 High-level logic has its own value and a direct operating expression: live
 systems, dashboards, guards, evaluation loops, reusable seeds, and domain labs.
 
+## Transferable Value
+
+I bring methods and tools for making AI agents more continuous, verifiable,
+inspectable, and capable of operating across long cycles.
+
+The work has a broad theoretical horizon and the portfolio presents inspectable
+surfaces: autonomous Labs, installable seeds, evaluation sieves, state
+dashboards, operational memory, and agentic workflows.
+
+## Role Translation
+
+- Agentic AI systems: memory, tool use, context persistence, long-running
+  workflows.
+- AI-native UX and Human-AI interaction: cognitive media, state surfaces,
+  observability, delegation, human steering.
+- Evaluation, safety and observability: CEC-style sieves, counterproofs,
+  dashboards, failure memory, operating boundaries.
+- Research tooling: autonomous Labs, cognitive kernels, research workflows,
+  cross-domain transfer.
+
 ## What to Inspect First
 
 | Evidence | Why it matters | Link |
@@ -27,6 +47,17 @@ systems, dashboards, guards, evaluation loops, reusable seeds, and domain labs.
 | THIA / Gödel / CEC | Live operating surface where memory, routing, crivello, inversion and Lab workflows meet | https://d-nd.com/godel |
 | Physics Lab | Applied domain that uses the lab engine | https://github.com/GrazianoGuiducci/dnd-lab-physics |
 | D-ND Papers | Formal source and Paper Zero | https://github.com/GrazianoGuiducci/d-nd-papers |
+
+## Evidence Maturity
+
+| Evidence | Maturity | Inspection path |
+| --- | --- | --- |
+| D-ND Lab | live | dashboard, runtime, cycles, reports, domain templates |
+| d-nd-seed | active repository | boot, recovery, hooks, safety, skills, Lab pattern |
+| THIA / Gödel / CEC | public surface and internal component | Gödel page, CEC crivello, routing, operational memory |
+| D-ND Physics Lab | applied domain | Lab engine transfer into mathematical/physics research |
+| D-ND Papers / Paper Zero | formal anchor | theoretical kernel and operating-logic source |
+| Earlier projects | lineage | genealogy of kernels, interfaces and cognitive systems |
 
 ## What This Should Prove
 

@@ -14,6 +14,13 @@ High-level logic is the source layer. It takes form as operating
 infrastructure: practical tools, dashboards, safety guards, evaluation loops
 and reusable patterns.
 
+Porto metodi e strumenti per rendere agenti IA più continui, verificabili,
+ispezionabili e capaci di operare su cicli lunghi.
+
+Il lavoro ha un orizzonte teorico ampio e la pagina presenta superfici
+verificabili: Lab autonomi, seed installabili, crivelli di valutazione,
+dashboard di stato, memoria operativa e workflow agentici.
+
 Primary links:
 
 - View portfolio
@@ -21,6 +28,12 @@ Primary links:
 - Read d-nd-seed
 
 ## What I Work On
+
+### Role fit
+
+Agentic AI systems, AI-native UX, Human-AI interaction, evaluation loops,
+safety, observability, memory, tool use, context persistence, research tooling
+and autonomous Lab workflows.
 
 ### Reference areas
 

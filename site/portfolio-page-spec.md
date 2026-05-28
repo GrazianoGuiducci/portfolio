@@ -18,6 +18,9 @@ portfolio repository.
 2. **Review Path**
    - Live system: D-ND Lab dashboard.
    - Core problem: AI continuity, self-verification, rejected-claim memory.
+   - Transferable value: methods and tools for making AI agents more
+     continuous, verifiable, inspectable and capable of operating across long
+     cycles.
    - Reference areas: machine learning / AI awareness; UX-AI / cognitive
      media; logic / semantics / ontology / information theory.
    - Main artifacts: D-ND Lab, d-nd-seed, THIA/Gödel/CEC, Physics Lab, Paper Zero.
@@ -52,13 +55,28 @@ portfolio repository.
    - Does the interface reduce latency between human inference, model output
      and system state?
 
-6. **Reference Areas**
+6. **Role Fit**
+   - Agentic AI systems.
+   - AI-native UX and Human-AI interaction.
+   - Evaluation loops, safety and observability.
+   - Memory, tool use and context persistence.
+   - Research tooling and autonomous Lab workflows.
+
+7. **Evidence Maturity**
+   - Live: D-ND Lab dashboard.
+   - Active repositories: D-ND Lab and d-nd-seed.
+   - Public surface plus internal component: THIA / Gödel / CEC.
+   - Applied domain: D-ND Physics Lab.
+   - Formal anchor: D-ND Papers / Paper Zero.
+   - Lineage: older kernel, interface and cognitive-system projects.
+
+8. **Reference Areas**
    - Machine learning, AI awareness, cognitive kernels and agentic tools.
    - UX-AI design, cognitive media and information-transfer dynamics between
      human, model and system.
    - Logic, semantics, ontology and information theory.
 
-7. **Boundaries**
+9. **Boundaries**
    - private runtime logs excluded;
    - secrets excluded;
    - raw handovers excluded;

@@ -58,6 +58,25 @@ Il punto operativo è semplice: il lavoro dell'IA diventa affidabile quando
 contesto, verifica, memoria, visibilità e crescita interna diventano
 struttura.
 
+## Valore trasferibile
+
+Porto metodi e strumenti per rendere agenti IA più continui, verificabili,
+ispezionabili e capaci di operare su cicli lunghi.
+
+Il lavoro ha un orizzonte teorico ampio e il portfolio presenta superfici
+verificabili: Lab autonomi, seed installabili, crivelli di valutazione,
+dashboard di stato, memoria operativa e workflow agentici.
+
+## Applicazioni verso ruoli
+
+- Agentic AI systems: memoria, tool use, continuità del contesto e cicli lunghi.
+- AI-native UX e Human-AI interaction: interfacce, media cognitivi,
+  osservabilità, delega e guida umana.
+- Evaluation, safety e observability: crivelli, controprove, dashboard,
+  memoria dei fallimenti e confini operativi.
+- Research tooling: Lab autonomi, kernel cognitivi, workflow di ricerca,
+  trasferimento tra domini.
+
 ## Assi del portfolio
 
 - **Consapevolezza programmabile**: boot, memoria, stato, recupero, verifica e
@@ -94,6 +113,17 @@ traiettoria in sviluppo:
   un dominio di ricerca.
 - **D-ND Papers / Paper Zero**: sorgente formale compatta della logica
   operativa D-ND.
+
+## Maturità delle evidenze
+
+| Evidenza | Stato | Cosa controllare |
+| --- | --- | --- |
+| D-ND Lab | live | dashboard, runtime, cicli, report e template di dominio |
+| d-nd-seed | repository attivo | boot, recovery, hook, safety, skill e pattern Lab |
+| THIA / Gödel / CEC | superficie pubblica e componente interna | pagina Gödel, crivello CEC, routing e memoria operativa |
+| D-ND Physics Lab | dominio applicato | trasferimento del motore Lab in ricerca matematica/fisica |
+| D-ND Papers / Paper Zero | ancoraggio formale | kernel teorico e sorgente della logica operativa |
+| Progetti precedenti | traiettoria | genealogia di kernel, interfacce e sistemi cognitivi |
 
 ## Superfici pubbliche attuali
 
