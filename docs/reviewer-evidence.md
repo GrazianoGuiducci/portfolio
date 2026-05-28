@@ -24,9 +24,9 @@ systems, dashboards, guards, evaluation loops, reusable seeds, and domain labs.
 | D-ND Lab dashboard | Live state surface for autonomous lab cycles | https://lab.d-nd.com/dashboard/ |
 | D-ND Lab repo | Runtime, domains, dashboard, cycle machinery | https://github.com/GrazianoGuiducci/D-ND_LAB |
 | d-nd-seed | Active portable AI-coder operating layer: hooks, memory, safety, skills, lab pattern | https://github.com/GrazianoGuiducci/d-nd-seed |
-| THIA Skill Repository | Archived snapshot of modular skill architecture | https://github.com/GrazianoGuiducci/skill |
-| D-ND Papers | Formal source and Paper Zero | https://github.com/GrazianoGuiducci/d-nd-papers |
+| THIA / Godel | Live operating surface for memory, routing, inversion, and public use | https://d-nd.com/godel |
 | Physics Lab | Applied domain that uses the lab engine | https://github.com/GrazianoGuiducci/dnd-lab-physics |
+| D-ND Papers | Formal source and Paper Zero | https://github.com/GrazianoGuiducci/d-nd-papers |
 
 ## What This Should Prove
 
@@ -56,7 +56,8 @@ Read the portfolio in this order:
 1. Live and inspectable systems.
 2. Support architecture that explains how they work.
 3. Formal/research kernel.
-4. Earlier systems as trajectory evidence only after the current layer is clear.
+4. Earlier systems as trajectory evidence after the current layer is clear.
 
 Repository maturity varies. The strongest current chain is:
-seed -> skills/protocols -> lab runtime -> applied domains -> live dashboard.
+seed -> lab runtime -> applied domains -> THIA/Godel operating surface -> live
+dashboard.

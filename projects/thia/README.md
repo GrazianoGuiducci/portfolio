@@ -7,10 +7,30 @@ memory, site actions, lab state, and agent workflows.
 
 ## Portfolio Role
 
-THIA should be presented as the human-AI operational layer: where the user can
-ask, inspect, route, and act on readable system state.
+THIA is the human-AI operational layer: the place where user intent, project
+memory, public surfaces, Lab state, agent routing, and reviewable actions meet.
+
+It is the strongest current proof that awareness can be made operational:
+orientation, memory, ownership, side-effect awareness, routing, runtime state,
+and cross-surface propagation are handled as system behavior.
+
+## What It Shows
+
+- Distributed agent work across human, site, Lab, bot and VPS surfaces.
+- Durable memory and working state for long-running AI workflows.
+- COWORK/Sinapsi-style coordination between nodes and workstreams.
+- Bridges from user request to site action, Lab cycle, development task or
+  public tool.
+- A runtime where useful corrections can become rules, docs and later seed
+  material.
+
+## What to Inspect
+
+- Main public surface: https://d-nd.com
+- Lab dashboard connected to the operating system: https://lab.d-nd.com/dashboard/
+- Godel public surface: https://d-nd.com/godel
 
 ## Status
 
-To curate. The public card should be built from reviewed screenshots, selected
-architecture notes, and non-sensitive behavior descriptions.
+Active internal/live system with public surfaces. Public portfolio copy should
+use sanitized behavior descriptions and selected screenshots.

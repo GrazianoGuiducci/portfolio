@@ -1,48 +1,88 @@
 # Case Studies
 
-## D-ND Lab Dashboard
+These are the current proof surfaces for technical review. Each case study
+connects a problem, a mechanism, visible evidence, and reusable value.
 
-Public surface: https://lab.d-nd.com/dashboard/
+## 1. D-ND Lab
 
-Shows how the lab exposes active domains, cycle state, rejected material,
-current verdicts, and operational health.
+Problem: long-running AI research drifts, repeats weak hypotheses, and hides
+uncertainty inside fluent reports.
 
-## Bitcoin Regime Lab
+Mechanism: the Lab runs cycles with domain state, claims, falsifiers, nulls,
+reports, rejected-claim memory, dashboard state, and reusable domain templates.
 
-Goal: test BTC regime hypotheses with methods, baselines, paper simulation, and
-falsification gates.
+Evidence:
 
-Important boundary: the Lab uses paper simulation and diagnostic language unless
-explicitly configured otherwise. The value is in testing whether a method holds
-against controls before treating it as operational.
+- Live dashboard: https://lab.d-nd.com/dashboard/
+- Repository: https://github.com/GrazianoGuiducci/D-ND_LAB
+- Public lab surface: https://lab.d-nd.com
 
-## Finance Lab
+Reusable value: autonomous research workflow, evaluation loop, domain template,
+failure memory, and inspectable state surface.
 
-Goal: make market regime-shift hypotheses testable against data windows, nulls,
-costs, and decision constraints.
+## 2. d-nd-seed
 
-Current value: transfer of the lab cycle into a market domain, with attention to
-baseline/null separation and operational readiness.
+Problem: AI coding sessions lose state, repeat corrected mistakes, and restart
+from partial memory after compaction or handoff.
 
-## Physics/Math Research Lab
+Mechanism: the seed packages boot routing, compact recovery, hooks, memory,
+safety checks, skills, promotion rules, and Lab transfer patterns.
 
-Goal: original research field where the model, numerical experiments, papers,
-and discovery pipeline matured.
+Evidence:
 
-Public material can include selected site-ready papers, condensed findings, and
-dashboard-linked discoveries after review.
+- Repository: https://github.com/GrazianoGuiducci/d-nd-seed
 
-## Research Radar
+Reusable value: installable operating layer for AI coders and agentic projects.
+The seed turns repeated failures into portable rules.
 
-Goal: track research and technology claims with source discipline. Source-backed
-claims can enter discovery; unsupported claims stay in watch/reject.
+## 3. THIA / Godel
 
-## Future Legacy Section
+Problem: autonomous systems need a live surface where memory, routing, public
+interaction, decision support, and human authority meet.
 
-Earlier projects can be added here after curation:
+Mechanism: THIA connects operator intent, memory, site actions, Lab state,
+agent routing, Sinapsi/COWORK coordination, and public tools. Godel adds an
+inversion operator: a user brings a tension, the system returns a shifted
+viewpoint, a residue, and the next useful question.
 
-- THIA;
-- Godel D-ND;
-- Omega Kernel / semantic OS work;
-- KPhi variants;
-- seed tooling and plugins.
+Evidence:
+
+- Public Godel page: https://d-nd.com/godel
+- Main public system surface: https://d-nd.com
+- Lab dashboard connected to the runtime: https://lab.d-nd.com/dashboard/
+
+Reusable value: distributed agent operations, human-in-the-loop routing,
+public/private lens separation, decision support, and state-aware interfaces.
+
+## 4. D-ND Physics Lab
+
+Problem: a generic research engine needs applied proof inside a domain with
+real claims, failed paths, tools, and experiments.
+
+Mechanism: the Physics Lab provides domain assertions, context, cimitero,
+seed tensions, and experiment tools that the Lab engine can run and evaluate.
+
+Evidence:
+
+- Repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
+- Live dashboard: https://lab.d-nd.com/dashboard/
+
+Reusable value: domain-transfer proof for autonomous research Labs and
+falsification memory.
+
+## Formal Anchor
+
+D-ND Papers / Paper Zero provide the compact mathematical source behind the
+operating logic.
+
+- Repository: https://github.com/GrazianoGuiducci/d-nd-papers
+
+## Lineage
+
+Earlier systems remain useful as trajectory evidence:
+
+- Anamnesis: compaction-aware memory precursor.
+- KPhi1-EN: identity and local-genome ancestor.
+- THIA Skill Repository: faculty taxonomy snapshot.
+- D-ND Semantic OS: agentic UX ancestor.
+- D-ND Omega Kernel: physical/probabilistic computation branch.

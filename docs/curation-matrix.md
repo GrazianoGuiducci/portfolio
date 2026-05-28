@@ -10,14 +10,14 @@ curated document in this portfolio.
 | `CONDENSATO.md` | candidate | extended kernel page after editing |
 | `CONDENSATO_SCOPERTE.md` | candidate | discoveries / promoted findings page |
 | `cimitero.md` | candidate | falsification memory page |
-| `LAB_MANUAL.md` | partial only | lab architecture overview |
+| `LAB_MANUAL.md` | partial extract | lab architecture overview |
 | `MANIFESTO.md` | candidate | short manifesto after tone pass |
-| `AGENTS.md` | exclude raw | extract generic cycle-agent principles only |
-| `CLAUDE.md` | exclude raw | extract role model only if needed |
+| `AGENTS.md` | exclude raw | extract generic cycle-agent principles |
+| `CLAUDE.md` | exclude raw | extract role model if needed |
 | `COWORK_CONTEXT.md` | exclude | private collaboration state |
 | `SENTINEL_STATE.md` | exclude raw | historical state can be summarized |
 | `HANDOVER_*` | exclude | internal continuity packet |
-| `tools/data/*` | exclude raw | selected charts/reports only after review |
+| `tools/data/*` | exclude raw | selected charts/reports after review |
 
 ## Public Roadmap
 

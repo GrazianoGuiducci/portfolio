@@ -29,7 +29,7 @@ private runtime state.
 Curated material is checked for:
 
 - local paths;
-- names and notes that only make sense inside the private operating environment;
+- names and notes meaningful inside the private operating environment;
 - private collaboration details;
 - irrelevant operational noise;
 - unstated assumptions.

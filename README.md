@@ -18,11 +18,13 @@ dashboards, safety guards, evaluation loops, and reusable operating patterns.
 2. [D-ND Lab](projects/dnd-lab/README.md) — live autonomous lab system.
 3. [d-nd-seed](projects/dnd-seed/README.md) — active portable AI-coder seed,
    hooks, memory, safety, and lab pattern.
-4. [THIA Skill Repository](projects/thia-skill-repository/README.md) — archived
-   cognitive and operative skills.
-5. [D-ND Papers](projects/dnd-papers/README.md) — formal kernel and Paper Zero.
-6. [Project Index](projects/index.md) — wider trajectory and maturity levels.
-7. [Work Profile](work/one-page-profile.md) — compact profile for roles and
+4. [THIA](projects/thia/README.md) and [Godel](projects/godel/README.md) —
+   live operating surfaces for memory, routing, inversion, and public use.
+5. [D-ND Physics Lab](projects/dnd-lab-physics/README.md) — applied research
+   domain proving Lab transfer.
+6. [D-ND Papers](projects/dnd-papers/README.md) — formal kernel and Paper Zero.
+7. [Project Index](projects/index.md) — wider trajectory and maturity levels.
+8. [Work Profile](work/one-page-profile.md) — compact profile for roles and
    collaborations.
 
 ## The Technical Problem
@@ -46,18 +48,31 @@ operating rules into reusable seeds.
 The core claim is simple: repeated failures of AI work can become reusable
 operating structures.
 
+## Portfolio Axes
+
+- **Programmable awareness**: boot, memory, state, recovery, verification, and
+  handoff rules for long-running AI agents.
+- **Autonomous research labs**: cycles that generate claims, test them, record
+  failures, and move across domains.
+- **Inversion and decision operators**: tools that turn a tension into a
+  shifted viewpoint, a residue, and a next question.
+- **Agentic UX and state surfaces**: dashboards and interfaces that expose
+  live state, constraints, uncertainty, and review paths.
+- **Portable cognitive kernels**: seeds, skills, and local operating genomes
+  that make useful agent behavior installable.
+
 ## Strongest Evidence
 
 - **D-ND Lab**: a live multi-domain lab runtime with cycles, reports,
   falsification, state dashboard, and reusable domain templates.
 - **d-nd-seed**: an active portable seed for AI coders, with hooks, compact
   recovery, safety guards, skills, install profiles, and the Lab pattern.
-- **THIA Skill Repository**: a useful archived snapshot of modular
-  cognitive, operative, and bridge faculties for AI agents.
-- **D-ND Papers / Paper Zero**: the compact formal source behind the D-ND
-  operating logic.
+- **THIA / Godel**: a live distributed operating surface with memory,
+  routing, public/private lenses, inversion, and user-facing decision support.
 - **D-ND Physics Lab**: applied evidence that the lab engine transfers beyond a
   demo surface.
+- **D-ND Papers / Paper Zero**: the compact formal source behind the D-ND
+  operating logic.
 
 ## Current Public Surfaces
 

@@ -2,9 +2,9 @@
 
 ## Profile
 
-I design and build AI systems that preserve context, expose state, test their
-own outputs, remember failures, and keep humans in control of autonomous
-workflows.
+I design and build programmable awareness layers for AI systems: memory, boot,
+state exposure, verification loops, decision operators, and interfaces for
+steering autonomous work.
 
 My current work focuses on agentic systems, cognitive kernels, AI-coder
 continuity, and UX patterns for inspecting and steering long-running AI
@@ -29,11 +29,11 @@ processes.
   falsification memory and reusable domain patterns.
 - d-nd-seed: portable AI-coder seed with hooks, compact recovery, safety guards,
   memory, skills and Lab pattern.
+- THIA / Godel: live operating surface for memory, routing, public/private
+  lenses, inversion and decision support.
 - D-ND Physics Lab: applied domain showing transfer from generic lab runtime to
   mathematical/physics research.
 - D-ND Papers / Paper Zero: formal kernel behind the D-ND operating logic.
-- THIA Skill Repository: archived taxonomy of cognitive, operative and bridge
-  skills for agent behavior.
 
 ## Links
 
@@ -41,4 +41,5 @@ processes.
 - Lab dashboard: https://lab.d-nd.com/dashboard/
 - D-ND Lab: https://github.com/GrazianoGuiducci/D-ND_LAB
 - d-nd-seed: https://github.com/GrazianoGuiducci/d-nd-seed
+- Godel: https://d-nd.com/godel
 - Papers: https://github.com/GrazianoGuiducci/d-nd-papers

@@ -8,12 +8,12 @@ and continuity packets.
 
 ## UX-AI Design and Cognitive Interfaces
 
-Interfaces are treated as cognitive instruments, not just presentation layers.
+Interfaces are treated as cognitive instruments and operating surfaces.
 The goal is to help a human operator read system state, see uncertainty, inspect
-evidence, and decide the next move without being buried under raw traces.
+evidence, and decide the next move through curated traces.
 
 ## Logic, Semantics, Ontology and Information Theory
 
 D-ND is explored as a compact logical kernel and as an operational method:
 separate claim from counter-claim, preserve the residue of failed paths, and use
-recursion as a way to expose structure rather than as a slogan.
+recursion as a way to expose structure.

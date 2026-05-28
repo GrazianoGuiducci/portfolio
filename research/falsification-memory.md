@@ -1,7 +1,8 @@
 # Falsification Memory
 
 The cimitero/falsification memory is one of the strongest parts of the D-ND
-workflow. It shows not only what the system claims, but what it rejected and why.
+workflow. It shows what the system claims, what it rejected, and why the next
+cycle changed.
 
 ## Public Framing
 
@@ -11,7 +12,8 @@ Use this as:
 Negative results and rejected claims
 ```
 
-not as a raw dump of internal lab memory.
+Frame it as reviewed evidence, with selected claims, verdicts and changes in
+the following cycle.
 
 ## What to Include
 

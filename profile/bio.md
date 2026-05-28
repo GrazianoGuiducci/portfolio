@@ -1,11 +1,12 @@
 # Profile
 
-Graziano Guiducci works on AI systems, D-ND logic, cognitive interfaces, and
-agentic workflows that preserve context across long-running work.
+Graziano Guiducci works on programmable awareness for AI systems: memory,
+boot, verification, cognitive interfaces, decision operators, and agentic
+workflows that preserve direction across long-running work.
 
-The current focus is the D-ND Lab ecosystem: autonomous research labs that run
-cycles, test claims, remember failures, expose operational state, and turn
-stable procedures into reusable kernels or templates.
+The current focus is the D-ND Lab ecosystem, d-nd-seed, and THIA/Godel:
+autonomous research labs, portable AI-coder operating rules, and live surfaces
+for memory, routing, inversion, state exposure and human steering.
 
 ## Areas of Interest
 

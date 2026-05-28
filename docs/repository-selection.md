@@ -25,7 +25,7 @@
 
 ## Selection Criterion
 
-A repository belongs in the main portfolio path only when a reviewer can see:
+A repository belongs in the main portfolio path when a reviewer can see:
 
 - what it does;
 - why it matters;

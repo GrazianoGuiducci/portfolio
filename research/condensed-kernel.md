@@ -1,7 +1,7 @@
 # Condensed D-ND Kernel
 
 This page is the public-review version of the D-ND condensed kernel. It should
-be developed from curated source material, not copied as a raw internal file.
+be developed from curated source material as a clean technical artifact.
 
 ## Core Object
 
@@ -25,7 +25,7 @@ A public page should explain:
 - the matrix;
 - the role of `det(M) = -1`;
 - why the first iteration matters;
-- `R + 1 = R` as fixed-point condition, not as a slogan;
+- `R + 1 = R` as fixed-point condition;
 - what is a mathematical statement, what is a model interpretation, and what is
   an operational analogy used by the Lab.
 

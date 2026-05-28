@@ -13,13 +13,13 @@ portfolio repository.
 
 1. **Header**
    - Title: `Graziano Guiducci AI-DND Portfolio`
-   - Subtitle: `AI systems that preserve context, test their outputs, remember failures, and turn stable procedures into reusable tools.`
+   - Subtitle: `Programmable awareness for agentic AI systems: memory, boot, verification, decision operators and state surfaces.`
 
 2. **Review Path**
    - Live system: D-ND Lab dashboard.
    - Core problem: AI continuity, self-verification, rejected-claim memory.
-   - Main artifacts: D-ND Lab, d-nd-seed, Paper Zero, Physics Lab.
-   - Trajectory artifact: Anamnesis can appear only as absorbed precursor inside
+   - Main artifacts: D-ND Lab, d-nd-seed, THIA/Godel, Physics Lab, Paper Zero.
+   - Trajectory artifact: Anamnesis appears as absorbed precursor inside
      the d-nd-seed story.
    - Evidence: screenshots, reports, public repos, selected cycle outputs.
    - Boundary: mature systems, support architecture, prototypes.
@@ -28,6 +28,7 @@ portfolio repository.
    - D-ND Lab dashboard
    - Lab runtime repository
    - Seed repository
+   - THIA/Godel operating surface
    - Main model site
 
 4. **Core Artifacts**
@@ -35,8 +36,9 @@ portfolio repository.
    - Lab System Overview
    - Falsification Memory
    - Case Studies
-   - THIA Skill Taxonomy
-   - Context Persistence / Anamnesis
+   - THIA / Godel
+   - Context Persistence / Anamnesis lineage
+   - THIA Skill Taxonomy lineage
    - Semantic OS / KPhi1 trajectory
 
 5. **What to Evaluate**
@@ -65,23 +67,22 @@ Each artifact card should include:
 ## Modal Reader
 
 The site page can open curated Markdown files from the portfolio repository in
-modals. This is useful because a reviewer can inspect the work without jumping
-immediately into GitHub navigation.
+modals. This gives a reviewer a fast inspection path before opening GitHub.
 
 Implementation rule:
 
-- modals read only curated files from this repository;
+- modals read curated files from this repository;
 - raw private files are never fetched;
 - each modal has an `Open on GitHub` link for source inspection;
 - long files should have a table of contents or anchor list.
 
 ## First Cards
 
-The first viewport should not lead with the D-ND theory. It should show:
+The first viewport should open with current systems:
 
 - D-ND Lab: live autonomous lab system;
 - d-nd-seed: active portable AI-coder continuity layer;
-- THIA Skills: archived modular agent-capability snapshot;
-- Paper Zero: formal kernel;
-- Physics Lab: applied transfer.
+- THIA/Godel: live operating and inversion surface;
+- Physics Lab: applied transfer;
+- Paper Zero: formal kernel.
 - Anamnesis: optional absorbed precursor inside the seed/context-continuity card.

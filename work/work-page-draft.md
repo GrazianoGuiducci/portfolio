@@ -4,7 +4,7 @@ Suggested URL: `https://d-nd.com/work` or `https://d-nd.com/ai-systems`
 
 ## Hero
 
-### AI systems that preserve context, test their outputs and remain steerable.
+### Programmable awareness for agentic AI systems.
 
 I design and build the operating layer around agentic AI: memory, goal loops,
 tool use, evaluation, guardrails, recovery, state exposure and interfaces that
@@ -44,6 +44,11 @@ learns from errors and carries state across sessions.
 Interfaces for delegation, transparency, interruption, reviewability, autonomy
 levels and human control over AI work.
 
+### Inversion and decision operators
+
+Tools that turn a real tension into a shifted viewpoint, a residue, and the
+next useful question.
+
 ## Case Studies
 
 ### D-ND Lab
@@ -66,6 +71,18 @@ Links:
 
 - Repository: https://github.com/GrazianoGuiducci/d-nd-seed
 
+### THIA / Godel
+
+Live operating surface for memory, routing, public/private lenses, inversion
+and decision support. THIA connects user intent, site actions, lab state and
+agent workflows. Godel gives visitors and internal nodes an inversion operator
+for decisions and hidden assumptions.
+
+Links:
+
+- Godel: https://d-nd.com/godel
+- Main site: https://d-nd.com
+
 ### D-ND Physics Lab
 
 Applied domain showing how the Lab runtime transfers into mathematical/physics
@@ -79,6 +96,7 @@ Links:
 
 - Live dashboard exposing current Lab state.
 - Public repositories for runtime, seed and applied domain.
+- Public Godel surface for decision/inversion workflow.
 - Paper Zero as formal source.
 - Repository maturity audit and evidence map in the portfolio repo.
 

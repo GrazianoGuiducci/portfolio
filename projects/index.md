@@ -10,15 +10,17 @@ trajectory. Review priority follows maturity and current relevance.
   templates.
 - [d-nd-seed](dnd-seed/README.md) — active portable seed for AI coders: hooks,
   memory, compact recovery, safety, skills, and lab pattern.
+- [THIA](thia/README.md) and [Godel](godel/README.md) — live operating surface
+  for memory, routing, public/private lenses, inversion, and decision support.
 - [D-ND Physics Lab](dnd-lab-physics/README.md) — applied domain proving the
   Lab pattern in research work.
 
 ## Support Architecture
 
-- [THIA Skill Repository](thia-skill-repository/README.md) — taxonomy of
-  cognitive, operative, and bridge faculties for AI agents; archived snapshot.
 - [D-ND Papers](dnd-papers/README.md) — formal/research layer around the D-ND
   map and Paper Zero.
+- [THIA Skill Repository](thia-skill-repository/README.md) — taxonomy of
+  cognitive, operative, and bridge faculties for AI agents; archived snapshot.
 - [KPhi1-EN](kphi1-en/README.md) — frozen legacy cognitive kernel for LLM hosts.
 - [D-ND Omega Kernel](dnd-omega-kernel/README.md) — advanced technical kernel
   candidate; older computational implementation reference.
@@ -29,10 +31,7 @@ trajectory. Review priority follows maturity and current relevance.
   cognitive cockpit prototype from the earlier trajectory.
 - [Anamnesis](anamnesis/README.md) — archived v0.1 precursor whose context
   persistence idea is now better represented by `d-nd-seed`.
-- [THIA](thia/README.md) — assistant/runtime surface connecting operator,
-  memory, site, and lab.
-- [Godel](godel/README.md) — semantic/logical question and inversion layer.
 
 ## To Curate Next
 
-- Legacy projects — selected earlier work only after curation.
+- Legacy projects — selected earlier work after curation.
