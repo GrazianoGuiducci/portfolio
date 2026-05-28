@@ -5,9 +5,14 @@ work is real, inspectable, and relevant to advanced AI systems.
 
 ## Core Claim
 
-The portfolio demonstrates systems for long-running AI work: preserving context,
-testing outputs, exposing state, remembering failures, and turning stable
-procedures into reusable tools.
+The portfolio demonstrates an operating layer for long-running agentic AI work:
+preserving context, testing outputs, exposing state, remembering failures, and
+turning repeated failure modes into reusable procedures.
+
+Some mechanisms are temporary scaffolds for current LLM limits. The deeper
+evidence is the durable harness: awareness before action, recoverability,
+explicit state, human control, evaluation loops, and portable rules that can
+outlive the first implementation.
 
 ## What to Inspect First
 
@@ -15,7 +20,7 @@ procedures into reusable tools.
 | --- | --- | --- |
 | D-ND Lab dashboard | Live state surface for autonomous lab cycles | https://lab.d-nd.com/dashboard/ |
 | D-ND Lab repo | Runtime, domains, dashboard, cycle machinery | https://github.com/GrazianoGuiducci/D-ND_LAB |
-| d-nd-seed | Active portable AI-coder seed: hooks, memory, safety, skills, lab pattern | https://github.com/GrazianoGuiducci/d-nd-seed |
+| d-nd-seed | Active portable AI-coder operating layer: hooks, memory, safety, skills, lab pattern | https://github.com/GrazianoGuiducci/d-nd-seed |
 | THIA Skill Repository | Archived snapshot of modular skill architecture | https://github.com/GrazianoGuiducci/skill |
 | D-ND Papers | Formal source and Paper Zero | https://github.com/GrazianoGuiducci/d-nd-papers |
 | Physics Lab | Applied domain that uses the lab engine | https://github.com/GrazianoGuiducci/dnd-lab-physics |

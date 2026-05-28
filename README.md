@@ -1,7 +1,8 @@
 # Graziano Guiducci AI-DND Portfolio
 
-I build AI systems that preserve context, test their own outputs, remember
-failures, and turn stable reasoning patterns into reusable tools.
+I build the operating layer around agentic AI: systems that preserve context,
+test their own outputs, remember failures, expose state, and turn repeated
+failure modes into reusable tools.
 
 This portfolio presents selected work on autonomous labs, cognitive kernels,
 semantic interfaces, D-ND logic, context persistence, and long-running agent
@@ -32,6 +33,15 @@ systems in this portfolio address that problem through:
 - claim/counter-claim loops instead of one-pass generation;
 - dashboards that expose live state and uncertainty;
 - reusable kernels, skills, and lab templates.
+
+Some scaffolds in this work respond to current model limitations: context
+windows, session resets, and explicit boot/reentry procedures. Those techniques
+may change as LLMs improve. The durable value is the harness around autonomous
+work: awareness before action, state exposure, verification, human control,
+failure memory, and promotion of stable operating rules into reusable seeds.
+
+The core claim is simple: repeated failures of AI work can become reusable
+operating structures.
 
 ## Strongest Evidence
 

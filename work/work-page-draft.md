@@ -6,9 +6,9 @@ Suggested URL: `https://d-nd.com/work` or `https://d-nd.com/ai-systems`
 
 ### AI systems that preserve context, test their outputs and remain steerable.
 
-I design and build agentic systems, cognitive kernels and UX patterns for
-human-AI collaboration: memory, goal loops, tool use, evaluation, guardrails,
-recovery and interfaces that expose state instead of hiding it.
+I design and build the operating layer around agentic AI: memory, goal loops,
+tool use, evaluation, guardrails, recovery, state exposure and interfaces that
+keep autonomous workflows inspectable and steerable.
 
 Primary links:
 
@@ -22,6 +22,13 @@ Primary links:
 
 Multi-step AI workflows with memory, tool use, domain state, recovery, eval
 loops and clear operational boundaries.
+
+### Operating scaffolds
+
+Some mechanisms are built for today's model limits, such as explicit boot,
+reentry and compact recovery. The lasting layer is the harness: awareness
+before action, state exposure, safety boundaries, failure memory and promotion
+of stable rules into reusable seeds.
 
 ### Cognitive kernels
 
@@ -47,8 +54,9 @@ Links:
 
 ### d-nd-seed
 
-Portable AI-coder seed with boot routing, compact recovery, memory, safety
-guards, hook tests, skills and Lab pattern.
+Portable AI-coder seed that turns repeated failures of AI work into installable
+operating structures: boot routing, compact recovery, memory, safety guards,
+hook tests, skills and Lab patterns.
 
 Links:
 

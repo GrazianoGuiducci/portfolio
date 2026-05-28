@@ -2,9 +2,10 @@
 
 ## Summary
 
-d-nd-seed is an active portable seed for AI coders. It installs project-local
-hooks, memory, safety guards, skills, boot routing, compact recovery, and lab
-patterns so an AI coding agent does not start from zero every session.
+d-nd-seed is an active portable operating layer for AI coders. It installs
+project-local hooks, memory, safety guards, skills, boot routing, compact
+recovery, and lab patterns so an AI coding agent does not start from zero every
+session.
 
 ## What It Makes Possible
 
@@ -17,6 +18,12 @@ Anamnesis isolated the problem; d-nd-seed carries the active installable pattern
 
 The useful reviewer-facing point is not that it has many files. It is that the
 seed can give an AI coding environment a repeatable operating layer:
+
+Some parts are practical scaffolds for today's LLM limits: explicit boot,
+reentry, context compaction and session recovery. The more durable value is the
+harness they express: awareness before action, memory of failures, safety before
+execution, state exposure, human control, and promotion of stable procedures
+into portable rules.
 
 - **Reentry awareness**: boot routing classifies new session, post-compact,
   crash recovery, correction, field reentry or unclear signal before action.
