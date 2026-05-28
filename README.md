@@ -1,16 +1,19 @@
 # Graziano Guiducci AI-DND Portfolio
 
-I build the operating layer around agentic AI: systems that preserve context,
-test their own outputs, remember failures, expose state, and turn repeated
-failure modes into reusable tools.
+Dal 2022 sviluppo il livello operativo attorno all'IA agentica: sistemi che
+preservano il contesto, verificano i propri risultati, ricordano i fallimenti,
+rendono visibile il proprio stato e trasformano le modalità di fallimento
+ricorrenti in strumenti riutilizzabili.
 
-This portfolio presents selected work on autonomous labs, cognitive kernels,
-semantic interfaces, D-ND logic, context persistence, and long-running agent
-workflows. It is written for technical review: what exists, what can be
-inspected, what is mature, and what remains experimental.
+Questo portfolio presenta una selezione di lavori su laboratori autonomi,
+kernel cognitivi, interfacce semantiche, logica D-ND, persistenza del contesto
+e flussi di lavoro di agenti a lungo termine. È scritto per una revisione
+tecnica: cosa esiste, cosa può essere ispezionato, cosa è maturo e cosa rimane
+sperimentale.
 
-High-level reasoning is the source layer of this work. It gives shape to tools,
-dashboards, safety guards, evaluation loops, and reusable operating patterns.
+Il ragionamento di alto livello sul modello D-ND è il livello di base di
+questo lavoro. Dà forma a meta-prompt, strumenti, dashboard, misure di
+sicurezza, cicli di valutazione e modelli operativi riutilizzabili.
 
 ## Start Here
 
@@ -18,8 +21,8 @@ dashboards, safety guards, evaluation loops, and reusable operating patterns.
 2. [D-ND Lab](projects/dnd-lab/README.md) — live autonomous lab system.
 3. [d-nd-seed](projects/dnd-seed/README.md) — active portable AI-coder seed,
    hooks, memory, safety, and lab pattern.
-4. [THIA](projects/thia/README.md) and [Godel](projects/godel/README.md) —
-   live operating surfaces for memory, routing, inversion, and public use.
+4. [THIA](projects/thia/README.md) and [Gödel / CEC](projects/godel/README.md)
+   — operating surface, crivello, inversion, memory, routing and public use.
 5. [D-ND Physics Lab](projects/dnd-lab-physics/README.md) — applied research
    domain proving Lab transfer.
 6. [D-ND Papers](projects/dnd-papers/README.md) — formal kernel and Paper Zero.
@@ -27,26 +30,29 @@ dashboards, safety guards, evaluation loops, and reusable operating patterns.
 8. [Work Profile](work/one-page-profile.md) — compact profile for roles and
    collaborations.
 
-## The Technical Problem
+## Il quadro tecnico
 
-Long-running AI work breaks through context loss, repeated errors, persuasive
-untested text, and opaque state. The systems in this portfolio address that
-problem through:
+Il lavoro nasce da un problema operativo e da una direzione più ampia: rendere
+i sistemi di IA capaci di occuparsi di processi complessi in modo affidabile,
+ispezionabile e consapevole. La continuità comprende il recupero del contesto e
+la capacità del sistema di osservare il proprio stato, verificare le proprie
+uscite, imparare dai fallimenti e propagare le regole che funzionano.
 
-- context continuity across sessions and compaction;
-- explicit memory of decisions, failures, and next actions;
-- claim/counter-claim loops with iterative generation checks;
-- dashboards that expose live state and uncertainty;
-- reusable kernels, skills, and lab templates.
+Questo quadro include:
 
-Current model limits shape some scaffolds in this work: context windows,
-session resets, and explicit boot/reentry procedures. The same work expresses a
-durable harness around autonomous work: awareness before action, state
-exposure, verification, human control, failure memory, and promotion of stable
-operating rules into reusable seeds.
+- continuità del contesto tra sessioni, compattazioni e passaggi di nodo;
+- memoria esplicita di decisioni, fallimenti, residui e prossime azioni;
+- cicli claim / contro-claim con crivello CEC, Domandatore, Gödel,
+  controprove, Proiettore e cristallizzazione;
+- dashboard e superfici che rendono visibile stato, incertezza, vincoli e
+  traiettoria;
+- kernel cognitivi, meta-prompt, skill, seed installabili e template di Lab;
+- autologica e autopoiesi: il sistema osserva il proprio funzionamento e
+  trasforma ciò che regge in regola operativa.
 
-The core claim is simple: repeated failures of AI work can become reusable
-operating structures.
+Il punto operativo è semplice: il lavoro dell'IA diventa affidabile quando
+contesto, verifica, memoria, visibilità e crescita interna diventano
+struttura.
 
 ## Portfolio Axes
 
@@ -54,8 +60,8 @@ operating structures.
   handoff rules for long-running AI agents.
 - **Autonomous research labs**: cycles that generate claims, test them, record
   failures, and move across domains.
-- **Inversion and decision operators**: tools that turn a tension into a
-  shifted viewpoint, a residue, and a next question.
+- **CEC, inversion and decision operators**: tools that turn a tension into a
+  crivello, a shifted viewpoint, a residue, and a next question.
 - **Agentic UX and state surfaces**: dashboards and interfaces that expose
   live state, constraints, uncertainty, and review paths.
 - **Portable cognitive kernels**: seeds, skills, and local operating genomes
@@ -67,8 +73,8 @@ operating structures.
   falsification, state dashboard, and reusable domain templates.
 - **d-nd-seed**: an active portable seed for AI coders, with hooks, compact
   recovery, safety guards, skills, install profiles, and the Lab pattern.
-- **THIA / Godel**: a live distributed operating surface with memory,
-  routing, public/private lenses, inversion, and user-facing decision support.
+- **THIA / Gödel / CEC**: a live operating surface where memory, routing,
+  public/private lenses, crivello, inversion and Lab workflows meet.
 - **D-ND Physics Lab**: applied evidence that the lab engine transfers beyond a
   demo surface.
 - **D-ND Papers / Paper Zero**: the compact formal source behind the D-ND

@@ -2,13 +2,14 @@
 
 ## Summary
 
-THIA is the operative assistant and system surface that connects user intent,
-memory, site actions, lab state, and agent workflows.
+THIA is the operative system surface that connects user intent, memory, public
+surfaces, Lab state, CEC/Gödel, and agent workflows.
 
 ## Portfolio Role
 
 THIA is the human-AI operational layer: the place where user intent, project
-memory, public surfaces, Lab state, agent routing, and reviewable actions meet.
+memory, public surfaces, Lab state, crivello, agent routing, and reviewable
+actions meet.
 
 It is the strongest current proof that awareness can be made operational:
 orientation, memory, ownership, side-effect awareness, routing, runtime state,
@@ -16,9 +17,11 @@ and cross-surface propagation are handled as system behavior.
 
 ## What It Shows
 
-- Distributed agent work across human, site, Lab, bot and VPS surfaces.
+- Distributed agent work across human, site, Lab, bot and runtime surfaces.
 - Durable memory and working state for long-running AI workflows.
-- COWORK/Sinapsi-style coordination between nodes and workstreams.
+- CEC-style evaluation through Domandatore, Gödel, Controprove, Proiettore and
+  crystallization.
+- Coordination between nodes and workstreams.
 - Bridges from user request to site action, Lab cycle, development task or
   public tool.
 - A runtime where useful corrections can become rules, docs and later seed
@@ -28,7 +31,7 @@ and cross-surface propagation are handled as system behavior.
 
 - Main public surface: https://d-nd.com
 - Lab dashboard connected to the operating system: https://lab.d-nd.com/dashboard/
-- Godel public surface: https://d-nd.com/godel
+- Gödel public surface: https://d-nd.com/godel
 
 ## Status
 

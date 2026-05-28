@@ -13,12 +13,12 @@ portfolio repository.
 
 1. **Header**
    - Title: `Graziano Guiducci AI-DND Portfolio`
-   - Subtitle: `Programmable awareness for agentic AI systems: memory, boot, verification, decision operators and state surfaces.`
+   - Subtitle: `Dal 2022 sviluppo il livello operativo attorno all'IA agentica: memoria, boot, verifica, crivelli decisionali e superfici di stato.`
 
 2. **Review Path**
    - Live system: D-ND Lab dashboard.
    - Core problem: AI continuity, self-verification, rejected-claim memory.
-   - Main artifacts: D-ND Lab, d-nd-seed, THIA/Godel, Physics Lab, Paper Zero.
+   - Main artifacts: D-ND Lab, d-nd-seed, THIA/Gödel/CEC, Physics Lab, Paper Zero.
    - Trajectory artifact: Anamnesis appears as absorbed precursor inside
      the d-nd-seed story.
    - Evidence: screenshots, reports, public repos, selected cycle outputs.
@@ -28,7 +28,7 @@ portfolio repository.
    - D-ND Lab dashboard
    - Lab runtime repository
    - Seed repository
-   - THIA/Godel operating surface
+   - THIA/Gödel/CEC operating surface
    - Main model site
 
 4. **Core Artifacts**
@@ -36,7 +36,7 @@ portfolio repository.
    - Lab System Overview
    - Falsification Memory
    - Case Studies
-   - THIA / Godel
+   - THIA / Gödel / CEC
    - Context Persistence / Anamnesis lineage
    - THIA Skill Taxonomy lineage
    - Semantic OS / KPhi1 trajectory
@@ -82,7 +82,7 @@ The first viewport should open with current systems:
 
 - D-ND Lab: live autonomous lab system;
 - d-nd-seed: active portable AI-coder continuity layer;
-- THIA/Godel: live operating and inversion surface;
+- THIA/Gödel/CEC: live operating, crivello and inversion surface;
 - Physics Lab: applied transfer;
 - Paper Zero: formal kernel.
 - Anamnesis: optional absorbed precursor inside the seed/context-continuity card.

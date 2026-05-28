@@ -14,7 +14,7 @@ curated document in this portfolio.
 | `MANIFESTO.md` | candidate | short manifesto after tone pass |
 | `AGENTS.md` | exclude raw | extract generic cycle-agent principles |
 | `CLAUDE.md` | exclude raw | extract role model if needed |
-| `COWORK_CONTEXT.md` | exclude | private collaboration state |
+| collaboration context files | exclude | private collaboration state |
 | `SENTINEL_STATE.md` | exclude raw | historical state can be summarized |
 | `HANDOVER_*` | exclude | internal continuity packet |
 | `tools/data/*` | exclude raw | selected charts/reports after review |

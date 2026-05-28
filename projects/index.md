@@ -10,8 +10,9 @@ trajectory. Review priority follows maturity and current relevance.
   templates.
 - [d-nd-seed](dnd-seed/README.md) — active portable seed for AI coders: hooks,
   memory, compact recovery, safety, skills, and lab pattern.
-- [THIA](thia/README.md) and [Godel](godel/README.md) — live operating surface
-  for memory, routing, public/private lenses, inversion, and decision support.
+- [THIA](thia/README.md) and [Gödel / CEC](godel/README.md) — live operating
+  surface where memory, routing, crivello, public/private lenses, inversion and
+  Lab workflows meet.
 - [D-ND Physics Lab](dnd-lab-physics/README.md) — applied domain proving the
   Lab pattern in research work.
 

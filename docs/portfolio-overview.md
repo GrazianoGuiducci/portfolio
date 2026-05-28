@@ -2,9 +2,9 @@
 
 ## One-Line Summary
 
-Graziano Guiducci builds programmable awareness layers for AI systems: memory,
-boot, state exposure, verification loops, decision operators, and reusable
-operating rules.
+Dal 2022 Graziano Guiducci sviluppa il livello operativo attorno all'IA
+agentica: memoria, boot, superfici di stato, crivelli di verifica, operatori
+decisionali e modelli operativi riutilizzabili.
 
 ## What This Shows First
 
@@ -15,8 +15,8 @@ operating rules.
 - Public dashboard surfaces where state can be inspected.
 - Domain transfer across physics/math, finance, Bitcoin regime analysis, and
   research monitoring.
-- Decision and inversion surfaces where users bring real tensions and receive
-  a shifted viewpoint plus a next question.
+- CEC/Gödel surfaces where users or Labs bring real tensions and receive a
+  sifted result, a shifted viewpoint and a next question.
 
 ## Why It Matters
 
@@ -31,13 +31,13 @@ proposal, attack, verdict, memory, next action.
 
 ## Current Focus and Wider Arc
 
-The recent work is centered on D-ND Lab, d-nd-seed and THIA/Godel. The
+The recent work is centered on D-ND Lab, d-nd-seed and THIA/Gödel/CEC. The
 portfolio reads as a wider arc:
 
 - D-ND mathematical/research kernel;
 - portable cognitive kernels such as KPhi1;
 - THIA operating memory and routing;
-- Godel inversion and decision support;
+- Gödel inversion inside the CEC crivello;
 - semantic cockpit prototypes;
 - autonomous lab runtime and public dashboard;
 - applied domains and falsification memory.
@@ -51,7 +51,7 @@ For a technical reviewer:
 3. Read the [D-ND Lab](../projects/dnd-lab/README.md) card.
 4. Read the [d-nd-seed](../projects/dnd-seed/README.md) card.
 5. Read [THIA](../projects/thia/README.md) and
-   [Godel](../projects/godel/README.md).
+   [Gödel / CEC](../projects/godel/README.md).
 6. Read the [D-ND Physics Lab](../projects/dnd-lab-physics/README.md) card.
 7. Read the [D-ND Papers](../projects/dnd-papers/README.md) and
    [D-ND Kernel](../research/condensed-kernel.md) cards.

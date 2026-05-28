@@ -1,12 +1,12 @@
 # Profile
 
-Graziano Guiducci works on programmable awareness for AI systems: memory,
-boot, verification, cognitive interfaces, decision operators, and agentic
-workflows that preserve direction across long-running work.
+Dal 2022 Graziano Guiducci sviluppa il livello operativo attorno all'IA
+agentica: memoria, boot, verifica, interfacce cognitive, crivelli decisionali e
+workflow agentici che preservano direzione nel tempo.
 
-The current focus is the D-ND Lab ecosystem, d-nd-seed, and THIA/Godel:
+The current focus is the D-ND Lab ecosystem, d-nd-seed, and THIA/Gödel/CEC:
 autonomous research labs, portable AI-coder operating rules, and live surfaces
-for memory, routing, inversion, state exposure and human steering.
+for memory, routing, crivello, inversion, state exposure and human steering.
 
 ## Areas of Interest
 

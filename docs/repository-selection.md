@@ -19,7 +19,7 @@
 | Area | Needed before primary placement |
 | --- | --- |
 | THIA | Needs public-safe architecture and screenshots |
-| Godel | Needs source review and a clear example |
+| Gödel / CEC | Active public surface plus internal crivello component |
 | d-nd-seed | Needs selected kernels and a curated path |
 | Legacy systems | Need timeline and relevance filter |
 

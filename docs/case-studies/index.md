@@ -35,24 +35,28 @@ Evidence:
 Reusable value: installable operating layer for AI coders and agentic projects.
 The seed turns repeated failures into portable rules.
 
-## 3. THIA / Godel
+## 3. THIA / Gödel / CEC
 
-Problem: autonomous systems need a live surface where memory, routing, public
-interaction, decision support, and human authority meet.
+Problem: autonomous systems need a crivello: a cycle that can observe
+conditions, discriminate structure, expand a tension, invert the presupposition,
+test the residue, and crystallize what survives.
 
-Mechanism: THIA connects operator intent, memory, site actions, Lab state,
-agent routing, Sinapsi/COWORK coordination, and public tools. Godel adds an
-inversion operator: a user brings a tension, the system returns a shifted
-viewpoint, a residue, and the next useful question.
+Mechanism: THIA connects operator intent, memory, public surfaces, Lab state
+and agent routing. CEC is the operating sieve used by the system and by the
+Lab: Domandatore expands the tension, Gödel performs inversion on the
+resultant, Controprove and Proiettore test and project it, and the surviving
+result can enter memory, Lab direction or public surface. The public Gödel page
+is one exposed interface of this deeper cycle.
 
 Evidence:
 
-- Public Godel page: https://d-nd.com/godel
+- Public Gödel page: https://d-nd.com/godel
 - Main public system surface: https://d-nd.com
 - Lab dashboard connected to the runtime: https://lab.d-nd.com/dashboard/
 
 Reusable value: distributed agent operations, human-in-the-loop routing,
-public/private lens separation, decision support, and state-aware interfaces.
+public/private lens separation, CEC-style evaluation, decision support, and
+state-aware interfaces.
 
 ## 4. D-ND Physics Lab
 

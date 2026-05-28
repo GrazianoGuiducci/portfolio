@@ -4,11 +4,11 @@ Suggested URL: `https://d-nd.com/work` or `https://d-nd.com/ai-systems`
 
 ## Hero
 
-### Programmable awareness for agentic AI systems.
+### Dal 2022, livello operativo attorno all'IA agentica.
 
-I design and build the operating layer around agentic AI: memory, goal loops,
-tool use, evaluation, guardrails, recovery, state exposure and interfaces that
-keep autonomous workflows inspectable and steerable.
+Sviluppo sistemi che preservano il contesto, verificano i propri risultati,
+ricordano i fallimenti, rendono visibile il proprio stato e trasformano le
+modalità di fallimento ricorrenti in strumenti riutilizzabili.
 
 High-level logic is the source layer. It takes form as operating
 infrastructure: practical tools, dashboards, safety guards, evaluation loops
@@ -44,10 +44,10 @@ learns from errors and carries state across sessions.
 Interfaces for delegation, transparency, interruption, reviewability, autonomy
 levels and human control over AI work.
 
-### Inversion and decision operators
+### CEC, inversion and decision operators
 
-Tools that turn a real tension into a shifted viewpoint, a residue, and the
-next useful question.
+Tools that turn a real tension into a crivello, a shifted viewpoint, a residue,
+and the next useful question.
 
 ## Case Studies
 
@@ -71,16 +71,16 @@ Links:
 
 - Repository: https://github.com/GrazianoGuiducci/d-nd-seed
 
-### THIA / Godel
+### THIA / Gödel / CEC
 
-Live operating surface for memory, routing, public/private lenses, inversion
-and decision support. THIA connects user intent, site actions, lab state and
-agent workflows. Godel gives visitors and internal nodes an inversion operator
-for decisions and hidden assumptions.
+Live operating surface where memory, routing, crivello, public/private lenses,
+inversion and Lab workflows meet. THIA connects user intent, site actions, Lab
+state and agent workflows. Gödel is the inversion component inside the CEC path
+used by the system and exposed publicly through one usable surface.
 
 Links:
 
-- Godel: https://d-nd.com/godel
+- Gödel: https://d-nd.com/godel
 - Main site: https://d-nd.com
 
 ### D-ND Physics Lab
@@ -96,7 +96,7 @@ Links:
 
 - Live dashboard exposing current Lab state.
 - Public repositories for runtime, seed and applied domain.
-- Public Godel surface for decision/inversion workflow.
+- Public Gödel surface for decision/inversion workflow and CEC lineage.
 - Paper Zero as formal source.
 - Repository maturity audit and evidence map in the portfolio repo.
 
