@@ -22,7 +22,7 @@ The inspected material presents:
 - trace and determinant;
 - convergence to phi;
 - `R + 1 = R` as fixed-point condition;
-- boundaries about what the claim is and is not.
+- explicit claim boundaries.
 
 ## What to Inspect
 

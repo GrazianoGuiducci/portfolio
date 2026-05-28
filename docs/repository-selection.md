@@ -8,19 +8,19 @@
 | `dnd-lab-physics` | Applied domain proving transfer | Keep as applied case study |
 | `d-nd-papers` | Formal kernel and Paper Zero | Keep as research artifact |
 | `d-nd-seed` | Active portable AI-coder continuity layer | Promote near top |
-| `skill` | Archived THIA skill taxonomy snapshot | Keep as support/trajectory, not active |
-| `D-ND-Omega-Kernel` | Older advanced technical kernel | Keep, but frame as older component |
+| `skill` | Archived THIA skill taxonomy snapshot | Keep as archived support/trajectory |
+| `D-ND-Omega-Kernel` | Older advanced technical kernel | Keep as older component |
 | `D-ND_semantic_OS` | Semantic/cognitive cockpit prototype | Keep as trajectory/prototype |
 | `anamnesis` | Archived context-persistence precursor | Keep as absorbed precursor outside the main path |
 | `KPhi1-EN` | Frozen cognitive kernel reference | Keep as legacy kernel |
 
 ## Secondary / To Curate
 
-| Area | Why not primary yet |
+| Area | Needed before primary placement |
 | --- | --- |
 | THIA | Needs public-safe architecture and screenshots |
 | Godel | Needs source review and a clear example |
-| d-nd-seed | Needs selected kernels, not a raw list |
+| d-nd-seed | Needs selected kernels and a curated path |
 | Legacy systems | Need timeline and relevance filter |
 
 ## Selection Criterion
@@ -30,5 +30,5 @@ A repository belongs in the main portfolio path only when a reviewer can see:
 - what it does;
 - why it matters;
 - what is inspectable;
-- what is mature versus experimental;
+- current maturity level;
 - how it connects to the broader AI/D-ND trajectory.

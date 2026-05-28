@@ -8,7 +8,7 @@ memory, site actions, lab state, and agent workflows.
 ## Portfolio Role
 
 THIA should be presented as the human-AI operational layer: where the user can
-ask, inspect, route, and act on system state without reading raw logs.
+ask, inspect, route, and act on readable system state.
 
 ## Status
 

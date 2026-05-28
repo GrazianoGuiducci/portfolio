@@ -27,6 +27,6 @@ The inspected material uses a three-plane taxonomy:
 
 ## Status
 
-Archived public snapshot, last pushed in February 2026. Useful as evidence of
-the modular skill taxonomy, but not the active runtime layer. The active
-portable continuation is better represented by `d-nd-seed`.
+Archived public snapshot, last pushed in February 2026. It documents the
+modular skill taxonomy. The active portable continuation is represented by
+`d-nd-seed`.

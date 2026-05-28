@@ -2,9 +2,8 @@
 
 ## Purpose
 
-D-ND does not treat failed claims as waste. Failed claims are part of the
-working memory of the system. They explain which paths were tested, why they
-fell, and what replaced them.
+D-ND treats failed claims as working memory. They explain which paths were
+tested, why they fell, and what replaced them.
 
 This document is a public-friendly extract of falsification memory: rejected
 claims, failed interpretations, and replacements that should guide future
@@ -24,11 +23,10 @@ Each rejected item should answer:
 ### r-ratio as Prime Signal
 
 The initial idea was that the r-ratio carried direct information about prime
-structure. Decomposition showed that the value was explained by the deterministic
-sieve structure rather than by independent signal beyond it.
+structure. Decomposition showed that the deterministic sieve structure explained
+the value.
 
-Replacement: use stability and residual structure as the real target, not the
-raw ratio.
+Replacement: use stability and residual structure as the real target.
 
 ### Autocorrelation Under M
 
@@ -36,8 +34,7 @@ The initial interpretation treated gap autocorrelation as a structural property
 of primes. Shuffle tests showed that most of the effect was mechanical, created
 by the shared term in consecutive ratios.
 
-Replacement: isolate the residual signal instead of preserving the full
-autocorrelation claim.
+Replacement: isolate the residual signal.
 
 ### LVL-2 With Phi Target
 

@@ -9,14 +9,13 @@ The portfolio demonstrates an operating layer for long-running agentic AI work:
 preserving context, testing outputs, exposing state, remembering failures, and
 turning repeated failure modes into reusable procedures.
 
-Some mechanisms are temporary scaffolds for current LLM limits. The deeper
-evidence is the durable harness: awareness before action, recoverability,
-explicit state, human control, evaluation loops, and portable rules that can
-outlive the first implementation.
+Current LLM limits shape some temporary scaffolds. The deeper evidence is the
+durable harness: awareness before action, recoverability, explicit state, human
+control, evaluation loops, and portable rules that can outlive the first
+implementation.
 
-The point is not theory for its own sake. High-level logic is evaluated by what
-it turns into: live systems, dashboards, guards, evaluation loops, reusable
-seeds, and domain labs.
+High-level logic has its own value and a direct operating expression: live
+systems, dashboards, guards, evaluation loops, reusable seeds, and domain labs.
 
 ## What to Inspect First
 
@@ -33,13 +32,13 @@ seeds, and domain labs.
 
 - The work is implemented across repositories and live surfaces.
 - The same architecture transfers across domains.
-- Failures are not hidden; they are remembered and used to steer later cycles.
-- The interface is used to expose operational state, not just present results.
+- Failures are stored and used to steer later cycles.
+- The interface exposes operational state and presents results.
 - The research layer and the engineering layer are connected.
 
 ## Terms Translated
 
-Some D-ND terms are useful internally but should be read technically:
+Some D-ND terms are useful internally and map to technical readings:
 
 | Internal term | Technical reading |
 | --- | --- |
@@ -59,5 +58,5 @@ Read the portfolio in this order:
 3. Formal/research kernel.
 4. Earlier systems as trajectory evidence only after the current layer is clear.
 
-The repositories are not equally mature. The strongest current chain is:
+Repository maturity varies. The strongest current chain is:
 seed -> skills/protocols -> lab runtime -> applied domains -> live dashboard.

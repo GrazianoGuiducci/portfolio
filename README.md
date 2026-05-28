@@ -9,9 +9,8 @@ semantic interfaces, D-ND logic, context persistence, and long-running agent
 workflows. It is written for technical review: what exists, what can be
 inspected, what is mature, and what remains experimental.
 
-The work starts from high-level reasoning, but its value is practical: the
-logic becomes tools, dashboards, safety guards, evaluation loops, and reusable
-operating patterns.
+High-level reasoning is the source layer of this work. It gives shape to tools,
+dashboards, safety guards, evaluation loops, and reusable operating patterns.
 
 ## Start Here
 
@@ -28,21 +27,21 @@ operating patterns.
 
 ## The Technical Problem
 
-Long-running AI work breaks when the model loses context, repeats old errors,
-produces persuasive text without tests, or hides state from the operator. The
-systems in this portfolio address that problem through:
+Long-running AI work breaks through context loss, repeated errors, persuasive
+untested text, and opaque state. The systems in this portfolio address that
+problem through:
 
 - context continuity across sessions and compaction;
 - explicit memory of decisions, failures, and next actions;
-- claim/counter-claim loops instead of one-pass generation;
+- claim/counter-claim loops with iterative generation checks;
 - dashboards that expose live state and uncertainty;
 - reusable kernels, skills, and lab templates.
 
-Some scaffolds in this work respond to current model limitations: context
-windows, session resets, and explicit boot/reentry procedures. Those techniques
-may change as LLMs improve. The durable value is the harness around autonomous
-work: awareness before action, state exposure, verification, human control,
-failure memory, and promotion of stable operating rules into reusable seeds.
+Current model limits shape some scaffolds in this work: context windows,
+session resets, and explicit boot/reentry procedures. The same work expresses a
+durable harness around autonomous work: awareness before action, state
+exposure, verification, human control, failure memory, and promotion of stable
+operating rules into reusable seeds.
 
 The core claim is simple: repeated failures of AI work can become reusable
 operating structures.
@@ -53,7 +52,7 @@ operating structures.
   falsification, state dashboard, and reusable domain templates.
 - **d-nd-seed**: an active portable seed for AI coders, with hooks, compact
   recovery, safety guards, skills, install profiles, and the Lab pattern.
-- **THIA Skill Repository**: an archived but useful snapshot of modular
+- **THIA Skill Repository**: a useful archived snapshot of modular
   cognitive, operative, and bridge faculties for AI agents.
 - **D-ND Papers / Paper Zero**: the compact formal source behind the D-ND
   operating logic.
@@ -76,7 +75,6 @@ The fastest path is practical first, theory second:
 - open the live Lab dashboard;
 - read the D-ND Lab and d-nd-seed cards;
 - use the evidence map to decide which repository or document to inspect;
-- read Paper Zero only after seeing what the systems do.
+- then read Paper Zero with the systems already in view.
 
-Older or archived projects are included only when they explain the path toward
-the current systems.
+Older or archived projects provide trajectory context for the current systems.

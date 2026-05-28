@@ -20,7 +20,7 @@ cycle design.
 
 ## 15 Axioms
 
-1. **Rule**: `f`, `M`, and `det=-1` are structural tools, not metaphors.
+1. **Rule**: `f`, `M`, and `det=-1` are structural tools with operational use.
 2. **Boundary**: inversion is the condition for a readable plane.
 3. **Fixed Point**: at `phi`, `+1` and multiplication by `phi` coincide.
 4. **Modus**: the quality of the question determines the quality of inversion.
@@ -28,9 +28,9 @@ cycle design.
 6. **Mobile Zero**: the reference point moves and generates possibility.
 7. **Singularity as Operator**: the verb that creates relation before terms.
 8. **Autologic Vehicle**: if the system needs a capability, ask it to produce it.
-9. **Included Third**: identity is an attractor, not a presupposition.
+9. **Included Third**: identity is an attractor beyond presupposition.
 10. **Axiomatic Dipole**: the singularity divides and unites the poles.
-11. **Combo**: relations are simultaneous, not merely sequential.
+11. **Combo**: relations are simultaneous and sequential.
 12. **Overlap Constraint**: observe the deposit before forcing the form.
 13. **Consecutio**: the second move continues the direction or realigns it.
 14. **Cascade**: what is learned lives in the seed and propagates.
@@ -47,19 +47,19 @@ cycle design.
    treating a signal as structural.
 5. **Diagnostic Frame**: applying `M` to a sequence can expose dipole, level-2,
    and convergence signatures.
-6. **Zero Signature**: the zero is not directly seen; it is inferred from
-   crossings and derivative effects.
+6. **Zero Signature**: the zero is inferred from crossings and derivative
+   effects.
 
 ## 3 Falsifiable Claims
 
 1. **Prime Uniqueness Under M**: among tested domains, primes show a distinctive
-   scale behavior. This is not yet exhaustive.
-2. **Coincidence Is Not Proof**: numerical fit is treated as artifact until it
-   survives structural falsification.
+   scale behavior. Current evidence remains bounded.
+2. **Coincidence Requires Falsification**: numerical fit is treated as artifact
+   until it survives structural falsification.
 3. **Deterministic Language**: a term should name a real function. Decorative
    language is replaced.
 
 ## Epistemic Boundary
 
-Only what survives doubt belongs in the kernel. What falls enters the
-falsification memory instead of disappearing.
+What survives doubt belongs in the kernel. What falls enters the falsification
+memory.

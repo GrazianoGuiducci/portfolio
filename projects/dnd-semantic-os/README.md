@@ -27,7 +27,7 @@ The inspected README describes:
 
 ## Status
 
-Prototype / earlier system, last active in the 2025 trajectory. Useful to show
-the path toward THIA and the current Lab dashboard, but it should remain in
-trajectory/prototype material unless refreshed with a current demo and sober
+Prototype / earlier system, last active in the 2025 trajectory. It shows the
+path toward THIA and the current Lab dashboard. It belongs in
+trajectory/prototype material until refreshed with a current demo and sober
 screenshots.

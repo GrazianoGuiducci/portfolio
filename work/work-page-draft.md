@@ -10,8 +10,9 @@ I design and build the operating layer around agentic AI: memory, goal loops,
 tool use, evaluation, guardrails, recovery, state exposure and interfaces that
 keep autonomous workflows inspectable and steerable.
 
-I work where high-level logic becomes operating infrastructure: practical
-tools, dashboards, safety guards, evaluation loops and reusable patterns.
+High-level logic is the source layer. It takes form as operating
+infrastructure: practical tools, dashboards, safety guards, evaluation loops
+and reusable patterns.
 
 Primary links:
 
@@ -28,10 +29,10 @@ loops and clear operational boundaries.
 
 ### Operating scaffolds
 
-Some mechanisms are built for today's model limits, such as explicit boot,
-reentry and compact recovery. The lasting layer is the harness: awareness
-before action, state exposure, safety boundaries, failure memory and promotion
-of stable rules into reusable seeds.
+Today's model limits shape mechanisms such as explicit boot, reentry and
+compact recovery. The lasting layer is the harness: awareness before action,
+state exposure, safety boundaries, failure memory and promotion of stable rules
+into reusable seeds.
 
 ### Cognitive kernels
 

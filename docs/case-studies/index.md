@@ -34,8 +34,8 @@ dashboard-linked discoveries after review.
 
 ## Research Radar
 
-Goal: track research and technology claims with source discipline. A claim
-without source remains watch/reject, not discovery.
+Goal: track research and technology claims with source discipline. Source-backed
+claims can enter discovery; unsupported claims stay in watch/reject.
 
 ## Future Legacy Section
 
@@ -46,4 +46,3 @@ Earlier projects can be added here after curation:
 - Omega Kernel / semantic OS work;
 - KPhi variants;
 - seed tooling and plugins.
-

@@ -16,9 +16,8 @@ Verified on 2026-05-27 from GitHub metadata and local repository state.
 
 ## Maturity Note
 
-Archived or frozen repositories are trajectory evidence, not active
-infrastructure. They show prior exploration and the origin of later active
-systems.
+Archived or frozen repositories are trajectory evidence. They show prior
+exploration and the origin of later active systems.
 
 ## Current Top Layer
 
@@ -30,6 +29,6 @@ For a technical reviewer, the current top layer should be:
 4. `d-nd-papers`
 5. live dashboard and selected reports/screenshots
 
-Archived and older repositories remain valuable only when their status is clear.
-Anamnesis should not be a main review entry while d-nd-seed carries the active
-installable version of the same concern.
+Archived and older repositories remain valuable with clear status. Anamnesis is
+trajectory evidence; d-nd-seed carries the active installable version of the
+same concern.

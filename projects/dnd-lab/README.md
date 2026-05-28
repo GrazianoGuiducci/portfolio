@@ -10,9 +10,9 @@ into reusable tools or lab templates.
 ## Problem
 
 Long AI-assisted work often fails because the system forgets prior decisions,
-repeats bad hypotheses after context loss, and produces fluent reports without
-testing them. D-ND Lab treats research as a loop: propose, falsify, remember,
-adjust, and expose state.
+repeats bad hypotheses after context loss, and produces fluent untested reports.
+D-ND Lab treats research as a loop: propose, falsify, remember, adjust, and
+expose state.
 
 ## System
 

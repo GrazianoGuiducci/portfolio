@@ -1,7 +1,7 @@
 # Project Index
 
 This index separates mature evidence, support architecture, and earlier
-trajectory. A reviewer should not read every repository as equally important.
+trajectory. Review priority follows maturity and current relevance.
 
 ## Primary Evidence
 
@@ -10,8 +10,8 @@ trajectory. A reviewer should not read every repository as equally important.
   templates.
 - [d-nd-seed](dnd-seed/README.md) — active portable seed for AI coders: hooks,
   memory, compact recovery, safety, skills, and lab pattern.
-- [D-ND Physics Lab](dnd-lab-physics/README.md) — applied domain proving that
-  the Lab is not only a demo.
+- [D-ND Physics Lab](dnd-lab-physics/README.md) — applied domain proving the
+  Lab pattern in research work.
 
 ## Support Architecture
 

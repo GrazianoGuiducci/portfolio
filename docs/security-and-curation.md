@@ -1,6 +1,6 @@
 # Security and Curation Boundary
 
-This portfolio is meant to be reviewable by technical people without exposing
+This portfolio is meant to be reviewable by technical people while protecting
 private runtime state.
 
 ## Outside Scope

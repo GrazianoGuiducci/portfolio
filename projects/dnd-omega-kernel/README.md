@@ -31,4 +31,4 @@ The inspected material describes:
 ## Status
 
 Older advanced technical component. Present it as a kernel-level implementation
-artifact and trajectory evidence, not as a current public-facing D-ND system.
+artifact and trajectory evidence.

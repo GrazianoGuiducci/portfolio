@@ -16,7 +16,8 @@ reentry layer.
 
 ## System
 
-The inspected repository presents patterns and templates rather than a library:
+The inspected repository presents patterns and templates as an archived design
+surface:
 
 - crystallization format for active reasoning;
 - pre/post compaction hook templates;
@@ -31,6 +32,5 @@ The inspected repository presents patterns and templates rather than a library:
 ## Status
 
 Archived public repository. Important as a precursor and conceptual proof of the
-context-loss problem, but not a current primary system. Present it as trajectory
-evidence unless it is updated or reconnected to the present lab and continuity
-layer.
+context-loss problem. Present it as trajectory evidence until it is updated or
+reconnected to the present lab and continuity layer.

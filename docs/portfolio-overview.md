@@ -8,7 +8,7 @@ reusable tools.
 
 ## What This Shows First
 
-- A live autonomous lab system rather than only papers or prompts.
+- A live autonomous lab system with papers and prompts as supporting material.
 - Context continuity mechanisms for long AI-assisted work.
 - Self-verification and falsification loops.
 - Reusable cognitive kernels and skill taxonomies.
@@ -22,15 +22,15 @@ Most AI coding and research workflows fail in three places:
 
 - they forget why a decision was made;
 - they repeat errors after context compression;
-- they produce persuasive text without a falsification loop.
+- they produce persuasive text missing a falsification loop.
 
 D-ND addresses those failures by treating every output as part of a cycle:
 proposal, attack, verdict, memory, next action.
 
 ## Current Focus and Wider Arc
 
-The recent work is centered on D-ND Lab and lab.d-nd.com, but the portfolio
-should be read as a wider arc:
+The recent work is centered on D-ND Lab and lab.d-nd.com. The portfolio reads
+as a wider arc:
 
 - D-ND mathematical/research kernel;
 - portable cognitive kernels such as KPhi1;

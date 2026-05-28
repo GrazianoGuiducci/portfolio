@@ -8,8 +8,8 @@ protocols as a portable seed operating system.
 
 ## Problem
 
-LLM workflows need structure that can be moved between hosts without losing
-identity, validation, memory behavior, and tool-generation patterns.
+LLM workflows need portable structure that preserves identity, validation,
+memory behavior, and tool-generation patterns across hosts.
 
 ## System
 
@@ -30,4 +30,4 @@ The inspected README describes:
 
 Legacy/frozen reference. Useful in the portfolio as part of the trajectory from
 prompt/kernel systems toward THIA skills, d-nd-seed and the current D-ND Lab
-workflow; should not be presented as current active infrastructure.
+workflow. Present it as legacy support for the current active infrastructure.

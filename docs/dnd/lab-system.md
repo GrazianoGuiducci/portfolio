@@ -2,9 +2,9 @@
 
 ## Purpose
 
-The Lab is a reusable cycle system for domains where a single LLM answer is not
-enough. It keeps state, runs repeated cycles, attacks its own claims, and exposes
-the result in a dashboard that a human can inspect.
+The Lab is a reusable cycle system for domains that require more than a single
+LLM answer. It keeps state, runs repeated cycles, attacks its own claims, and
+exposes the result in a dashboard that a human can inspect.
 
 ## Cycle Shape
 
@@ -22,8 +22,7 @@ Each cycle has a simple operating structure:
 ### Field Memory
 
 The Lab keeps track of hypotheses, baselines, controls, verdicts, rejected
-claims, and next actions. The next cycle starts from that field instead of from
-an empty prompt.
+claims, and next actions. The next cycle starts from that stored field.
 
 ### Separate Verification
 
@@ -32,8 +31,8 @@ break it. This is the basic producer/counter-pole structure.
 
 ### Falsification Memory
 
-Rejected or declassified claims are not erased. They become filter memory, so
-the system can avoid repeating weak paths.
+Rejected or declassified claims become filter memory, so the system can avoid
+repeating weak paths.
 
 ### Reusable Tools
 
@@ -57,8 +56,6 @@ can become part of the domain template.
 
 ## Technical Review Notes
 
-The public dashboard is intentionally not just a marketing page. It shows domain
-state, cycle traces, rejected material, current verdicts, and operational
-status. That makes it useful for evaluating whether the Lab is actually learning
-from prior cycles.
-
+The public dashboard is an operational review surface. It shows domain state,
+cycle traces, rejected material, current verdicts, and operational status. That
+makes it useful for evaluating whether the Lab is learning from prior cycles.
