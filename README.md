@@ -1,91 +1,149 @@
 # AI-DND Portfolio — Graziano Guiducci
 
-Technical portfolio on agentic AI systems, programmable awareness, autonomous Labs, cognitive kernels, context persistence and AI-native operational interfaces.
+Technical portfolio on agentic AI systems, the D-ND model, THIA, autonomous Labs, installable seeds, cognitive kernels, context persistence and AI-native operational interfaces.
 
-Since 2022, I have been developing the operational layer around agentic AI: systems that preserve context, verify their own outputs, remember failures, expose their state and transform stable procedures into reusable operational rules.
+Since 2022 I have been developing the operational layer around agentic AI: systems that preserve context, verify their own outputs, remember failures, expose state, recover from discontinuity and transform stable procedures into reusable operational rules.
 
-This repository is a technical evidence map. It explains what exists, what can be inspected, what is public, what is internal, what is mature and what remains experimental.
+This repository is a technical evidence map. It explains what exists, what can be inspected, what is public, what is internal, what is mature and how the public surfaces, repositories, Labs and installable outputs connect.
 
-The central point is not a single repository. The work is a pipeline:
+The main entry point is the public site:
 
-> THIA keeps the D-ND model active.  
-> The central AI Lab tests and filters the model through research cycles.  
-> Domain Labs export the Lab method into external fields.  
-> Seeds package the surviving functions into installable tools for other AI systems.
+- https://d-nd.com
 
 ---
 
-## What this portfolio shows
+## One-line summary
 
-The work starts from a practical problem:
-
-> How can AI systems operate on long cycles without losing context, state, failures, decisions and orientation?
-
-The answer explored here is an architecture based on:
-
-- context continuity across sessions, compactions and node transitions;
-- explicit memory of decisions, failures, residues and next actions;
-- claim / counter-claim cycles with CEC-style sieves and counterproofs;
-- state dashboards that expose uncertainty, constraints and trajectory;
-- autonomous Labs that test ideas through cycles, reports and falsification memory;
-- portable cognitive kernels, skills, hooks, seeds and Lab templates;
-- operational self-observation: the system turns what holds into reusable rules.
-
-The D-ND model is the theoretical and operational base behind this work. It shapes the meta-prompts, tools, dashboards, safety rules, evaluation cycles and reusable agentic workflows presented here.
+D-ND is a research and operating architecture for agentic AI systems that preserve context, expose state, test their own outputs, remember failures and turn surviving procedures into reusable tools.
 
 ---
 
-## System architecture
+## Core structure
 
-The portfolio is organized around one central research system and two public transfer channels.
+The central point is not a single repository.
+
+The work is an ecosystem:
 
 ```text
-THIA / D-ND Model
+D-ND Model
+logical source: dual / non-dual structure, included third, CEC, operational logic
+        ↓
+THIA
+operating system / awareness layer of the D-ND ecosystem
         ↓
 Central AI Lab
+internal research Lab where the model is tested, filtered and transformed
         ↓
- ┌───────────────┬────────────────┐
- │               │                │
-Domain Labs     Seeds            Formal papers
-external use    installable      theoretical anchor
+ ┌───────────────────────┬────────────────────────┬───────────────────────┐
+ │                       │                        │                       │
+Domain Labs             Seeds                    Papers / formal anchor
+external transfer        installable outputs      theoretical source
 ```
 
+In this structure:
+
+- **D-ND Model** is the logical center.
+- **THIA** is the living operating system that contains and coordinates the ecosystem.
+- **The central AI Lab** is the internal research Lab where the model is tested.
+- **Domain Labs** export the Lab method into external domains.
+- **Seeds** package the surviving functions into installable tools for other AI systems.
+- **Papers** provide the formal and theoretical anchor.
+
 ---
 
-## 1. THIA / D-ND Model
+## D-ND Model
 
-THIA is the private central AGI-oriented operating project behind the D-ND model.
+The D-ND Model is the logical source of the work.
 
-It keeps the model active across:
+It provides the structure used to transform dual processes into operational cycles through the logic of the included third.
 
+Its role is not only theoretical. The model gives form to:
+
+- CEC-style evaluation cycles;
+- claim / counterclaim structures;
+- inversion and residue handling;
+- memory of failed paths;
+- operational state transitions;
+- Lab cycles;
+- installable rules;
+- agentic workflow patterns.
+
+The mathematical and formal side is documented through D-ND Papers and Paper Zero:
+
+- https://github.com/GrazianoGuiducci/d-nd-papers
+
+---
+
+## THIA
+
+THIA is the operating system / awareness layer of the D-ND ecosystem.
+
+It is not just one repository. THIA is the system that contains and coordinates the project across:
+
+- public sites;
+- repositories;
+- Labs;
+- coders and coding agents;
+- assistants;
 - memory;
-- orientation;
 - routing;
-- internal Lab work;
-- operational transfer;
-- public and private system surfaces.
+- operational surfaces;
+- public and private lenses;
+- research cycles;
+- transfer paths.
 
-The THIA repository is private. It is not presented here as open-source code.
+The THIA repository is private. That privacy refers to the implementation repository, not to THIA as a system.
 
-A public operating surface is available here:
+THIA has public surfaces, including:
 
+- https://d-nd.com
 - https://d-nd.com/thia
 
-THIA is the source system where the model is kept alive, tested, oriented and transformed into reusable operational forms.
+THIA operationalizes the D-ND model: it turns the logic of the included third into working surfaces, Lab cycles, routing, memory, state exposure and reusable functions.
 
 ---
 
-## 2. Central AI Lab
+## Operational awareness note
 
-The central AI Lab is the internal research Lab of the D-ND model.
+In this portfolio, “awareness” is used in an operational sense.
+
+It is not a claim of sentience or subjective consciousness.
+
+It means that a system can:
+
+- preserve context;
+- expose its state;
+- track failures;
+- recover after discontinuity;
+- route attention;
+- evaluate outputs;
+- remember decisions;
+- transform stable procedures into reusable rules.
+
+This is why terms such as **programmable awareness**, **operational awareness** and **state-aware agentic systems** are used throughout the portfolio.
+
+---
+
+## Central AI Lab
+
+The central AI Lab is the internal research Lab of the D-ND model inside the THIA ecosystem.
 
 - https://d-nd.com/ai-lab
 
 This is where the model is tested as a living research process.
 
-The Lab cycle generates claims, attacks them, filters them, compares them, retains what survives and stores what fails as memory of the filter.
+The Lab cycle:
 
-The central AI Lab does not only produce reports. It produces operational residues:
+1. reads the current field;
+2. generates or receives a claim;
+3. attacks the claim through a separate critical pole;
+4. compares it against constraints, nulls and prior failures;
+5. stores what fails as filter memory;
+6. promotes what survives into a seed, procedure, report, template or next cycle.
+
+The central AI Lab does not only produce reports.
+
+It produces operational residues:
 
 - reusable procedures;
 - filters;
@@ -93,23 +151,25 @@ The central AI Lab does not only produce reports. It produces operational residu
 - domain structures;
 - evaluation patterns;
 - installable functions;
-- Lab templates.
+- Lab templates;
+- public or internal review surfaces.
 
 This is the research source from which domain Labs and seeds are derived.
 
 ---
 
-## 3. Domain Labs
+## Domain Labs
 
 Domain Labs are the export form of the central Lab method.
 
 - https://lab.d-nd.com/
+- https://lab.d-nd.com/dashboard/
 
-They apply the D-ND Lab cycle to external or specific domains such as physics, finance, biology, enterprise research or other complex fields.
+They apply the D-ND Lab cycle to external or specific domains such as mathematical physics, finance, biology, enterprise research or other complex fields.
 
-A domain Lab is not just a dashboard. It is a transfer mechanism.
+A domain Lab is not just a dashboard.
 
-It takes the D-ND operational cycle and makes it inspectable inside a chosen domain through:
+It is a transfer mechanism: it takes the D-ND operational cycle and makes it inspectable inside a chosen domain through:
 
 - claims;
 - counterclaims;
@@ -118,23 +178,32 @@ It takes the D-ND operational cycle and makes it inspectable inside a chosen dom
 - failures;
 - dashboards;
 - state memory;
-- reusable domain templates.
+- domain templates;
+- reusable review paths.
 
-Examples:
+Current or visible examples include:
 
-- D-ND Physics Lab — first applied domain Lab for mathematical and physical research.
-- AI-Lab D-ND Finance — domain Lab for regime shifts in FX, crypto and equity markets.
+- **D-ND Physics Lab** — applied domain for mathematical and physical research.
+- **AI-Lab D-ND Finance** — domain Lab for regime shifts in FX, crypto and equity markets.
+
+Public Lab repository:
+
+- https://github.com/GrazianoGuiducci/D-ND_LAB
+
+Applied Physics Lab repository:
+
+- https://github.com/GrazianoGuiducci/dnd-lab-physics
 
 ---
 
-## 4. Seeds
+## Seeds
 
 Seeds are the installable outputs of the research.
 
 - https://seed.d-nd.com/
 - https://github.com/GrazianoGuiducci/d-nd-seed
 
-They package what survives the research process into portable functions for AI coders and agentic systems.
+They package what survives the THIA / D-ND / AI Lab process into portable functions for AI coders and agentic systems.
 
 The seed layer includes:
 
@@ -150,17 +219,29 @@ The seed layer includes:
 
 The purpose of the seed is to make useful agentic behavior portable across tools, coding assistants and AI workflows.
 
+In short:
+
+```text
+research residue → stable procedure → seed function → installable agent behavior
+```
+
 ---
 
-## 5. Formal anchor
+## What this portfolio shows
 
-The formal and theoretical source of the work is documented through the D-ND papers.
+The work starts from a practical problem:
 
-- https://github.com/GrazianoGuiducci/d-nd-papers
+> How can AI systems operate on long cycles without losing context, state, failures, decisions and orientation?
 
-D-ND Papers and Paper Zero provide the compact formal anchor for the D-ND logic and its mathematical lineage.
+The answer explored here is an architecture based on:
 
-They are not the only output of the work. They define the source logic from which the operational systems are derived.
+- context continuity across sessions, compactions and node transitions;
+- explicit memory of decisions, failures, residues and next actions;
+- claim / counterclaim cycles with CEC-style sieves and counterproofs;
+- state dashboards that expose uncertainty, constraints and trajectory;
+- autonomous Labs that test ideas through cycles, reports and falsification memory;
+- portable cognitive kernels, skills, hooks, seeds and Lab templates;
+- operational self-observation: the system turns what holds into reusable rules.
 
 ---
 
@@ -169,29 +250,38 @@ They are not the only output of the work. They define the source logic from whic
 1. [Evidence map](docs/reviewer-evidence.md)  
    What to inspect first and why.
 
-2. [D-ND Lab](projects/dnd-lab/README.md)  
-   Live autonomous Lab runtime and domain transfer mechanism.
+2. Public D-ND site  
+   https://d-nd.com
 
-3. [d-nd-seed](projects/dnd-seed/README.md)  
+3. THIA public surface  
+   https://d-nd.com/thia
+
+4. Central AI Lab  
+   https://d-nd.com/ai-lab
+
+5. Domain Lab dashboard  
+   https://lab.d-nd.com/dashboard/
+
+6. [D-ND Lab](projects/dnd-lab/README.md)  
+   Domain Lab runtime and export mechanism.
+
+7. [d-nd-seed](projects/dnd-seed/README.md)  
    Portable installable seed for AI coders and agentic systems.
 
-4. [THIA](projects/thia/README.md)  
-   Public surface of the private central operating system.
-
-5. [Gödel / CEC](projects/godel/README.md)  
+8. [Gödel / CEC](projects/godel/README.md)  
    Sieve, inversion, routing and evaluation surface.
 
-6. [D-ND Physics Lab](projects/dnd-lab-physics/README.md)  
+9. [D-ND Physics Lab](projects/dnd-lab-physics/README.md)  
    Applied research domain showing Lab transfer.
 
-7. [D-ND Papers](projects/dnd-papers/README.md)  
-   Formal anchor and Paper Zero.
+10. [D-ND Papers](projects/dnd-papers/README.md)  
+    Formal anchor and Paper Zero.
 
-8. [Project index](projects/index.md)  
-   Broader trajectory and maturity levels.
+11. [Project index](projects/index.md)  
+    Broader trajectory and maturity levels.
 
-9. [One-page work profile](work/one-page-profile.md)  
-   Compact profile for roles and collaborations.
+12. [One-page work profile](work/one-page-profile.md)  
+    Compact profile for roles and collaborations.
 
 ---
 
@@ -204,12 +294,15 @@ I build methods and tools that make AI agents more:
 - verifiable;
 - memory-aware;
 - failure-aware;
+- recoverable after discontinuity;
 - useful over long cycles;
 - safer to operate in complex workflows.
 
 The portfolio shows this through public and inspectable surfaces:
 
-- autonomous Labs;
+- THIA public surfaces;
+- central AI Lab;
+- domain Labs;
 - installable seeds;
 - evaluation sieves;
 - state dashboards;
@@ -239,9 +332,21 @@ CEC-style sieves, counterproofs, dashboards, failure memory, operational boundar
 
 Autonomous Labs, cognitive kernels, research workflows, domain transfer and AI-assisted inquiry.
 
+### AI-coder infrastructure
+
+Boot routing, compact recovery, hooks, project memory, safety guards, installable skills and operational continuity.
+
 ---
 
 ## Portfolio axes
+
+### D-ND operational logic
+
+The logical source: dual / non-dual structure, included third, CEC, inversion, residue and transition.
+
+### THIA as ecosystem operating system
+
+The layer that coordinates sites, repos, Labs, coders, assistants, memory, routing and public/private surfaces.
 
 ### Programmable awareness
 
@@ -269,7 +374,8 @@ Seeds, skills and local operational genomes that make useful agentic behavior in
 
 | Evidence | Status | What it shows |
 | --- | --- | --- |
-| THIA / D-ND Model | Private central system with public surface | The model has an operating center: memory, orientation, routing, Lab and transfer |
+| D-ND Model | Formal / operational source | Logical center: included third, CEC, dual/non-dual structure and operating logic |
+| THIA | Ecosystem operating system with public surfaces | Coordination of sites, repos, Labs, coders, assistants, memory, routing and state |
 | Central AI Lab | Public surface / internal research process | The model can run research cycles, filters, reports and operational residues |
 | Domain Labs | Public/live export surfaces | The Lab method can be transferred into external domains |
 | d-nd-seed | Active public repository | Research residues can become installable functions, kernels and agentic patterns |
@@ -281,24 +387,26 @@ Seeds, skills and local operational genomes that make useful agentic behavior in
 
 ## Evidence access
 
-This portfolio separates public evidence from internal systems.
+This portfolio separates public evidence from internal implementation.
 
 ### Public and inspectable
 
-- D-ND portfolio page;
+- Main D-ND site;
 - THIA public surface;
 - central AI Lab public surface;
 - Lab dashboard;
 - domain Lab surfaces;
+- seed landing page;
 - d-nd-seed repository;
 - D-ND_LAB repository;
 - D-ND Physics Lab repository;
-- D-ND Papers / Paper Zero.
+- D-ND Papers / Paper Zero;
+- selected portfolio documents and evidence maps.
 
 ### Private or partially private
 
-- THIA is the central private AGI-oriented operating project.
-- Some repositories remain private because they include runtime state, unpublished orchestration, internal memory, experimental code or active infrastructure.
+- The THIA repository is private.
+- Some repositories or internal materials remain private because they include runtime state, unpublished orchestration, internal memory, experimental code, private handovers or active infrastructure.
 
 Private systems are documented through:
 
@@ -309,6 +417,8 @@ Private systems are documented through:
 - case studies;
 - behavior descriptions;
 - review material available on request.
+
+The boundary is intentional: the portfolio exposes the system, evidence and transferable outputs without exposing private runtime state or sensitive infrastructure.
 
 ---
 
@@ -323,6 +433,7 @@ Private systems are documented through:
 - Seed surface: https://seed.d-nd.com/
 - d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
 - D-ND Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
+- D-ND Physics Lab repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
 - D-ND Papers repository: https://github.com/GrazianoGuiducci/d-nd-papers
 - Portfolio repository: https://github.com/GrazianoGuiducci/portfolio
 
@@ -332,8 +443,8 @@ Private systems are documented through:
 
 The fastest path is practical first, theoretical after.
 
-1. Open the public portfolio page.
-2. Open the THIA public surface to understand the central operating system.
+1. Open the main site: https://d-nd.com
+2. Open the THIA public surface to understand the ecosystem operating layer.
 3. Open the central AI Lab to see the internal research cycle.
 4. Open the Lab dashboard to inspect live domain cycles.
 5. Inspect `d-nd-seed` to see how research residues become installable functions.
@@ -345,6 +456,24 @@ Previous and archived projects provide the trajectory behind the current systems
 
 ---
 
-## One-line summary
+## What this should prove
 
-D-ND is a research and operating architecture for agentic AI systems that preserve context, expose state, test their own outputs, remember failures and turn surviving procedures into reusable tools.
+- The work is implemented across sites, repositories and live surfaces.
+- The D-ND model is not only theoretical: it has operating expressions.
+- THIA acts as an ecosystem-level operating layer, not as a single isolated app.
+- The central AI Lab tests and filters the model through cycles.
+- Domain Labs export the method into external fields.
+- Seeds make research residues installable in other AI systems.
+- Failures are not discarded silently; they become filter memory.
+- Interfaces expose operational state instead of hiding it inside fluent text.
+- The research layer and the engineering layer are connected.
+
+---
+
+## Final note
+
+The portfolio is written for technical reviewers, companies, research groups and AI-native product teams who need to evaluate one question:
+
+> Can this work make AI systems more continuous, inspectable, verifiable and useful over long cycles?
+
+The answer is shown through the public site, THIA surfaces, the central AI Lab, domain Labs, installable seeds, formal papers and the repository evidence map.
