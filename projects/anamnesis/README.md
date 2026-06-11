@@ -3,7 +3,7 @@
 ## Summary
 
 Anamnesis is an archived v0.1 context-persistence pattern for AI coders. It
-captures an important problem early: how reasoning survives token-window
+captures an important problem early: how reasoning survives context-window
 compaction, session boundaries, and context variance.
 
 ## Problem

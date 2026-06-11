@@ -21,10 +21,8 @@ verified operational residue into reusable procedures.
 
 ## What exists
 
-The work is not a single repository and not only a theoretical model.
-
-It is an ecosystem of public surfaces, repositories, Labs, installable seeds,
-runtime coordination and formal anchors:
+The work is an ecosystem of public surfaces, repositories, Labs, installable
+seeds, runtime coordination and formal anchors:
 
 - **AI Lab**: a self-maintaining research cycle with field reconstruction,
   reports, falsifiers, gates, memory and reentry.
@@ -179,7 +177,7 @@ Start here:
 5. [Claim Boundaries](docs/claim-boundaries.md)
 6. [Site Coherence](docs/site-coherence.md)
 7. [Evidence Access](docs/evidence-access.md)
-8. [AI4I Pilot Brief](docs/ai4i-pilot-brief.md)
+8. [R&D Pilot Brief](docs/rd-pilot-brief.md)
 9. [Project Index](projects/index.md)
 10. [One-page work profile](work/one-page-profile.md)
 

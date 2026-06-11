@@ -56,7 +56,7 @@ Keep out of first-contact public material:
 - raw logs;
 - internal VPS paths;
 - bridge details;
-- secrets or environment values;
+- credentials or environment values;
 - private runtime authority;
 - unfiltered Physics Lab claims;
 - private repository internals.
@@ -116,4 +116,3 @@ AI Lab -> Domain Labs -> Seed -> THIA -> D-ND kernel
 
 Do not make D-ND theory, consciousness, physics or full autonomy the first
 object a reviewer must accept.
-

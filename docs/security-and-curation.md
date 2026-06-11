@@ -6,7 +6,7 @@ private runtime state.
 ## Outside Scope
 
 - `.env` files;
-- API keys, tokens, cookies, auth files;
+- API keys, session credentials, cookies, auth files;
 - raw runtime logs;
 - raw JSONL traces from private cycles;
 - private handover files;

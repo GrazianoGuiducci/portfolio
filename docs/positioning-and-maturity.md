@@ -50,7 +50,7 @@ Use these tags internally before publishing claims.
 | d-nd-seed | demonstrated | portable procedure layer |
 | THIA | demonstrated with private implementation | coordination/runtime layer with public surfaces |
 | D-ND kernel | formal / deep layer | introduced after evidence |
-| AI4I pilot route | proposal | bounded 6-8 week applied R&D evaluation path |
+| R&D pilot route | proposal | bounded applied R&D evaluation path |
 | memory pruning / autonomous curator | planned / partial | do not overclaim without implementation boundary |
 | persistent sub-agent governors | planned / partial | resource-activated potential |
 

@@ -1,7 +1,8 @@
-# AI4I Pilot Brief
+# R&D Pilot Brief
 
-This brief adapts the portfolio frame for a possible AI4I technical-fit
-conversation or pilot proposal.
+This brief adapts the portfolio frame for a possible R&D collaboration,
+spontaneous application or bounded pilot with an applied AI research institute,
+industrial AI lab or technical partner.
 
 It is not the first page of the portfolio. It is a collaboration route after
 the public evidence map is coherent.
@@ -87,6 +88,6 @@ The claim is operational:
 
 ## Request
 
-A short technical conversation to evaluate whether the architecture fits an
-AI4I R&D collaboration, spontaneous application or bounded pilot proposal.
-
+A short technical conversation to evaluate whether the architecture fits a
+research collaboration, spontaneous application or bounded pilot proposal with
+an applied AI research institute, industrial AI lab or technical partner.

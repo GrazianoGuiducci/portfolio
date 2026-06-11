@@ -6,7 +6,7 @@ This document explains what is public, what is internal, what is repository-base
 
 The portfolio separates public evidence from internal implementation.
 
-The goal is to make the work reviewable without exposing private runtime state, sensitive infrastructure, raw logs, secrets, bridge internals, private handovers or unpublished orchestration.
+The goal is to make the work reviewable without exposing private runtime state, sensitive infrastructure, raw logs, credentials, bridge internals, private handovers or unpublished orchestration.
 
 ## Public and inspectable
 
@@ -59,7 +59,7 @@ Private or partially private material may include:
 - private handovers;
 - unpublished orchestration;
 - internal memory;
-- secrets and environment files;
+- credentials and environment files;
 - active infrastructure;
 - operator conversations;
 - experimental code not ready for review.
