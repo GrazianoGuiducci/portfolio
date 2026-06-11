@@ -1,38 +1,42 @@
 # Project Index
 
-This index separates mature evidence, support architecture, and earlier
-trajectory. Review priority follows maturity and current relevance.
+This index separates operating systems, transfer surfaces, portable outputs, formal kernel material and earlier trajectory.
 
-## Primary Evidence
+Review priority follows current relevance and inspectability.
 
-- [D-ND Lab](dnd-lab/README.md) — autonomous multi-domain lab runtime,
-  dashboard, falsifier, rejected-claim memory, cycle traces, and reusable lab
-  templates.
-- [d-nd-seed](dnd-seed/README.md) — active portable seed for AI coders: hooks,
-  memory, compact recovery, safety, skills, and lab pattern.
-- [THIA](thia/README.md) and [Gödel / CEC](godel/README.md) — live operating
-  surface where memory, routing, crivello, public/private lenses, inversion and
-  Lab workflows meet.
-- [D-ND Physics Lab](dnd-lab-physics/README.md) — applied domain proving the
-  Lab pattern in research work.
+## Current operating layer
 
-## Support Architecture
+- [THIA](thia/README.md) — coordination/runtime layer for sites, repositories, Labs, coders, assistants, memory, routing and public/private surfaces.
+- AI Lab — self-maintaining research cycle: https://d-nd.com/ai-lab
+- [D-ND Lab](dnd-lab/README.md) — domain Lab runtime, dashboard, falsifier, rejected-claim memory, transfer templates and Lab product direction.
 
-- [D-ND Papers](dnd-papers/README.md) — formal/research layer around the D-ND
-  map and Paper Zero.
-- [THIA Skill Repository](thia-skill-repository/README.md) — taxonomy of
-  cognitive, operative, and bridge faculties for AI agents; archived snapshot.
+## Transfer and portability
+
+- [d-nd-seed](dnd-seed/README.md) — active portable seed for AI coders: hooks, memory, compact recovery, safety, skills and Lab patterns.
+- lab.d-nd.com — domain transfer surface: https://lab.d-nd.com/
+- MetaLab direction — domain + intent + materials → blueprint → Lab template → cycle contract. Status: prototype / in refinement.
+
+## Formal kernel / source layer
+
+- [D-ND Papers](dnd-papers/README.md) — formal/research layer around the D-ND map and Paper Zero.
+- [Condensed D-ND Kernel](../research/condensed-kernel.md) — compact technical reading of the operating logic.
+
+## Applied stress tests
+
+- [D-ND Physics Lab](dnd-lab-physics/README.md) — high-friction Physics/Math domain used to test falsification, non-promotion and controlled regeneration.
+- Gödel / CEC — inversion, crivello and evaluation path inside the wider D-ND operating cycle.
+
+## Support architecture and lineage
+
 - [KPhi1-EN](kphi1-en/README.md) — frozen legacy cognitive kernel for LLM hosts.
-- [D-ND Omega Kernel](dnd-omega-kernel/README.md) — advanced technical kernel
-  candidate; older computational implementation reference.
+- [D-ND Omega Kernel](dnd-omega-kernel/README.md) — older advanced technical kernel branch.
+- [D-ND Semantic OS](dnd-semantic-os/README.md) — semantic operating surface and cognitive cockpit prototype.
+- [Anamnesis](anamnesis/README.md) — archived context persistence precursor, now better represented by `d-nd-seed`.
+- [THIA Skill Repository](thia-skill-repository/README.md) — archived taxonomy of cognitive, operative and bridge faculties.
 
-## Prototypes and Trajectory
+## Next curation pass
 
-- [D-ND Semantic OS](dnd-semantic-os/README.md) — semantic operating surface and
-  cognitive cockpit prototype from the earlier trajectory.
-- [Anamnesis](anamnesis/README.md) — archived v0.1 precursor whose context
-  persistence idea is now better represented by `d-nd-seed`.
-
-## To Curate Next
-
-- Legacy projects — selected earlier work after curation.
+- Add maturity tags to every project card.
+- Add screenshots for THIA, AI Lab, lab.d-nd.com and seed.d-nd.com.
+- Add a short MetaLab/Domain Transfer card after the product direction stabilizes.
+- Keep D-ND deep model pages behind the practical review path.

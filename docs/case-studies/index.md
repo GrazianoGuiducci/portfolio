@@ -1,85 +1,102 @@
 # Case Studies
 
-These are the current proof surfaces for technical review. Each case study
-connects a problem, a mechanism, visible evidence, and reusable value.
+These are the current proof surfaces for technical review.
 
-## 1. D-ND Lab
+Each case study connects a problem, a mechanism, visible evidence and reusable value.
 
-Problem: long-running AI research drifts, repeats weak hypotheses, and hides
-uncertainty inside fluent reports.
+## 1. AI Lab / self-maintaining research cycle
 
-Mechanism: the Lab runs cycles with domain state, claims, falsifiers, nulls,
-reports, rejected-claim memory, dashboard state, and reusable domain templates.
+Problem: AI-assisted research often produces fluent outputs without a durable way to test, remember, block or promote them.
+
+Mechanism: the Lab reconstructs a live field, turns tensions into experiments or tools, falsifies outputs, applies gates, stores useful residue and updates the next cycle.
 
 Evidence:
 
+- AI Lab: https://d-nd.com/ai-lab
+- Lab dashboard: https://lab.d-nd.com/dashboard/
+
+Reusable value: an operating cycle for R&D workflows where outputs must remain inspectable and non-promoted until they hold.
+
+## 2. Domain Labs / lab.d-nd.com
+
+Problem: a Lab method must transfer beyond its original domain.
+
+Mechanism: domain + intent + candidate material becomes a Lab surface, blueprint, cycle contract, dashboard and reviewable operating path.
+
+Evidence:
+
+- Lab surface: https://lab.d-nd.com/
 - Live dashboard: https://lab.d-nd.com/dashboard/
-- Repository: https://github.com/GrazianoGuiducci/D-ND_LAB
-- Public lab surface: https://lab.d-nd.com
+- D-ND Lab project/repository: https://github.com/GrazianoGuiducci/D-ND_LAB
 
-Reusable value: autonomous research workflow, evaluation loop, domain template,
-failure memory, and inspectable state surface.
+Reusable value: domain transfer, custom Lab creation, public/manager boundary and reusable templates.
 
-## 2. d-nd-seed
+## 3. d-nd-seed
 
-Problem: AI coding sessions lose state, repeat corrected mistakes, and restart
-from partial memory after compaction or handoff.
+Problem: AI coding sessions lose state, repeat corrected mistakes and restart from partial memory after compaction or handoff.
 
-Mechanism: the seed packages boot routing, compact recovery, hooks, memory,
-safety checks, skills, promotion rules, and Lab transfer patterns.
+Mechanism: seed packages boot routing, compact recovery, hooks, memory, safety checks, skills, evals and Lab transfer patterns.
 
 Evidence:
 
+- Seed surface: https://seed.d-nd.com/
 - Repository: https://github.com/GrazianoGuiducci/d-nd-seed
 
 Reusable value: installable operating layer for AI coders and agentic projects.
-The seed turns repeated failures into portable rules.
 
-## 3. THIA / Gödel / CEC
+## 4. THIA
 
-Problem: autonomous systems need a crivello: a cycle that can observe
-conditions, discriminate structure, expand a tension, invert the presupposition,
-test the residue, and crystallize what survives.
+Problem: a complex AI ecosystem needs coordination across public sites, runtime, APIs, memory, Labs, coders, repositories and private/public surfaces.
 
-Mechanism: THIA connects operator intent, memory, public surfaces, Lab state
-and agent routing. CEC is the operating sieve used by the system and by the
-Lab: Domandatore expands the tension, Gödel performs inversion on the
-resultant, Controprove and Proiettore test and project it, and the surviving
-result can enter memory, Lab direction or public surface. The public Gödel page
-is one exposed interface of this deeper cycle.
+Mechanism: THIA acts as coordination/runtime layer.
 
 Evidence:
 
-- Public Gödel page: https://d-nd.com/godel
-- Main public system surface: https://d-nd.com
-- Lab dashboard connected to the runtime: https://lab.d-nd.com/dashboard/
+- Main site: https://d-nd.com
+- THIA public surface: https://d-nd.com/thia
+- AI Lab: https://d-nd.com/ai-lab
 
-Reusable value: distributed agent operations, human-in-the-loop routing,
-public/private lens separation, CEC-style evaluation, decision support, and
-state-aware interfaces.
+Reusable value: ecosystem coordination, memory/routing behavior, public/private lens separation and operational state surfaces.
 
-## 4. D-ND Physics Lab
+## 5. Physics/Math Lab
 
-Problem: a generic research engine needs applied proof inside a domain with
-real claims, failed paths, tools, and experiments.
+Problem: a generic Lab engine needs a high-friction domain where false patterns, mathematical attractors and premature discoveries are real risks.
 
-Mechanism: the Physics Lab provides domain assertions, context, cimitero,
-seed tensions, and experiment tools that the Lab engine can run and evaluate.
+Mechanism: the Physics/Math Lab uses assertions, experiments, falsifier reports, gate states, non-promotion and redesign cycles.
 
 Evidence:
 
+- Lab dashboard: https://lab.d-nd.com/dashboard/
 - Repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
-- Live dashboard: https://lab.d-nd.com/dashboard/
 
-Reusable value: domain-transfer proof for autonomous research Labs and
-falsification memory.
+Reusable value: stress test for falsification, non-promotion and controlled regeneration.
 
-## Formal Anchor
+Boundary: do not present this as a physics-unification proof.
 
-D-ND Papers / Paper Zero provide the compact mathematical source behind the
-operating logic.
+## 6. D-ND kernel / papers
 
-- Repository: https://github.com/GrazianoGuiducci/d-nd-papers
+Problem: the operating system needs a compact logical source, otherwise the portfolio becomes a set of disconnected tools.
+
+Mechanism: D-ND provides the logical-operational kernel for transition, residue, memory, falsification, non-promotion and controlled regeneration.
+
+Evidence:
+
+- D-ND Papers: https://github.com/GrazianoGuiducci/d-nd-papers
+
+Reusable value: source logic underneath Labs, seeds, THIA and agentic workflows.
+
+## 7. Gödel / CEC
+
+Problem: autonomous systems need a crivello: a cycle that can expand a tension, invert presuppositions, test residue and crystallize what survives.
+
+Mechanism: Gödel / CEC surfaces provide inversion and evaluation paths inside the wider system.
+
+Evidence:
+
+- Gödel public page: https://d-nd.com/godel
+- Main site: https://d-nd.com
+
+Reusable value: decision support, evaluation, inversion and state-aware interfaces.
 
 ## Lineage
 

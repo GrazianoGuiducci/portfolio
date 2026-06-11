@@ -31,5 +31,5 @@ The inspected material presents:
 
 ## Status
 
-Current formal layer. Good candidate for the first technical artifact linked
+Current formal layer. Strong first technical artifact to link
 from a portfolio page.

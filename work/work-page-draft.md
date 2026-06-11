@@ -4,130 +4,114 @@ Suggested URL: `https://d-nd.com/work` or `https://d-nd.com/ai-systems`
 
 ## Hero
 
-### Dal 2022, livello operativo attorno all'IA agentica.
+### Self-maintaining agentic systems for complex R&D workflows.
 
-Sviluppo sistemi che preservano il contesto, verificano i propri risultati,
-ricordano i fallimenti, rendono visibile il proprio stato e integrano le
-esperienze fatte, migliorandosi ed evolvendo.
+I build AI systems that preserve intent across context transitions by exposing state, evidence, failure, memory and constraints; generating tools when needed; blocking premature promotion; and turning verified operational residue into reusable procedures.
 
-High-level logic is the source layer. It takes form as operating
-infrastructure: practical tools, dashboards, safety guards, evaluation loops
-and reusable patterns.
-
-Porto metodi e strumenti per rendere agenti IA più continui, verificabili,
-ispezionabili e capaci di operare su cicli lunghi.
-
-Il lavoro ha un orizzonte teorico ampio e la pagina presenta superfici
-verificabili: Lab autonomi, seed installabili, crivelli di valutazione,
-dashboard di stato, memoria operativa e workflow agentici.
+The D-ND kernel powers the deeper logic. The first evaluation point is practical: can the system keep direction, recover from error and improve its own operating loop?
 
 Primary links:
 
-- View portfolio
-- Open D-ND Lab dashboard
-- Read d-nd-seed
+- Portfolio: https://d-nd.com/portfolio/
+- AI Lab: https://d-nd.com/ai-lab
+- Lab surface: https://lab.d-nd.com/
+- Lab dashboard: https://lab.d-nd.com/dashboard/
+- Seed: https://seed.d-nd.com/
+- d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
 
-## What I Work On
+## What I work on
 
-### Role fit
+### Agentic R&D systems
 
-Agentic AI systems, AI-native UX, Human-AI interaction, evaluation loops,
-safety, observability, memory, tool use, context persistence, research tooling
-and autonomous Lab workflows.
+Multi-step AI workflows with memory, tool use, domain state, recovery, evaluation loops and clear operational boundaries.
 
-### Reference areas
+### Self-maintaining Labs
 
-Machine learning, AI awareness, cognitive kernels and agentic tools.
-
-UX-AI design, cognitive media and information-transfer dynamics between human,
-model and system.
-
-Logic, semantics, ontology and information theory.
-
-### Agentic systems
-
-Multi-step AI workflows with memory, tool use, domain state, recovery, eval
-loops and clear operational boundaries.
-
-### Operating scaffolds
-
-Today's model limits shape mechanisms such as explicit boot, reentry and
-compact recovery. The lasting layer is the harness: awareness before action,
-state exposure, safety boundaries, failure memory and promotion of stable rules
-into reusable seeds.
-
-### Cognitive kernels
-
-Reusable structures that guide how an AI system boots, reasons, checks itself,
-learns from errors and carries state across sessions.
+Lab cycles that reconstruct a live field, turn tensions into experiments or tools, falsify outputs, block premature promotion and write the next direction.
 
 ### Agentic UX
 
-Interfaces for delegation, transparency, interruption, reviewability, autonomy
-levels and human control over AI work.
+Interfaces for delegation, transparency, interruption, reviewability, autonomy levels and human control over AI work.
 
-### CEC, inversion and decision operators
+### Operating scaffolds
 
-Tools that turn a real tension into a crivello, a shifted viewpoint, a residue,
-and the next useful question.
+Boot, reentry, compact recovery, safety boundaries, failure memory and promotion of stable rules into reusable seeds.
 
-## Case Studies
+### Research-to-tool transfer
 
-### D-ND Lab
+Systems that turn repeated procedures into seeds, skills, kernels, templates, dashboards and domain Labs.
 
-Autonomous multi-domain lab runtime with cycles, reports, falsification memory,
-dashboard state and reusable domain templates.
+### D-ND kernel
+
+The logical-operational kernel underneath the work: transition, residue, memory, non-promotion, controlled regeneration and continuity through state change.
+
+## Case studies
+
+### AI Lab
+
+A self-maintaining research cycle that tests, filters and transforms outputs instead of treating generated text as final.
+
+Link: https://d-nd.com/ai-lab
+
+### Domain Labs / lab.d-nd.com
+
+A transfer surface where domain + intent can become a reviewable Lab: blueprint, cycle contract, dashboard, reports, falsifiers and reusable procedures.
 
 Links:
 
-- Dashboard: https://lab.d-nd.com/dashboard/
-- Repository: https://github.com/GrazianoGuiducci/D-ND_LAB
+- https://lab.d-nd.com/
+- https://lab.d-nd.com/dashboard/
 
 ### d-nd-seed
 
-Portable AI-coder seed that turns repeated failures of AI work into installable
-operating structures: boot routing, compact recovery, memory, safety guards,
-hook tests, skills and Lab patterns.
+Portable AI-coder seed for reentry, memory, hooks, safety guards, skill activation and Lab patterns.
 
 Links:
 
-- Repository: https://github.com/GrazianoGuiducci/d-nd-seed
+- https://seed.d-nd.com/
+- https://github.com/GrazianoGuiducci/d-nd-seed
 
-### THIA / Gödel / CEC
+### THIA
 
-Live operating surface where memory, routing, crivello, public/private lenses,
-inversion and Lab workflows meet. THIA connects user intent, site actions, Lab
-state and agent workflows. Gödel is the inversion component inside the CEC path
-used by the system and exposed publicly through one usable surface.
+Coordination/runtime layer for sites, repositories, Labs, coders, assistants, memory and routing.
 
 Links:
 
-- Gödel: https://d-nd.com/godel
-- Main site: https://d-nd.com
+- https://d-nd.com
+- https://d-nd.com/thia
 
-### D-ND Physics Lab
+### Physics/Math Lab
 
-Applied domain showing how the Lab runtime transfers into mathematical/physics
-research with assertions, experiments and falsification memory.
+High-friction stress test where the system learned falsification, non-promotion and controlled regeneration under difficult scientific pressure.
 
-Links:
+Status: applied case, not first public promise.
 
-- Repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
+### D-ND Papers
+
+Formal support and deeper kernel material.
+
+Link: https://github.com/GrazianoGuiducci/d-nd-papers
 
 ## Evidence
 
-- Live dashboard exposing current Lab state.
-- Public repositories for runtime, seed and applied domain.
-- Public Gödel surface for decision/inversion workflow and CEC lineage.
-- Paper Zero as formal source.
-- Repository maturity audit and evidence map in the portfolio repo.
+- Public D-ND site and THIA surfaces.
+- AI Lab.
+- Live dashboard exposing Lab state.
+- Public repositories for runtime, seed and applied domain evidence.
+- Seed surface and installable procedure layer.
+- Paper Zero and formal support.
+- Repository maturity audit and evidence map in the portfolio repository.
 
-## Contact
+## Collaboration fit
 
-I am looking for roles or collaborations around agentic AI systems, AI-native
-UX, cognitive kernels, evaluation loops, memory, safety and human-in-the-loop
-control. The strongest fit is work where applied systems and long-term research
-reinforce each other: building useful products while improving the operating
-layer that makes autonomous AI work reliable.
+Best fit:
 
-Portfolio: https://github.com/GrazianoGuiducci/portfolio
+- agentic AI systems;
+- R&D tooling;
+- AI-native UX;
+- observability/evaluation;
+- human-in-the-loop control;
+- AI-coder infrastructure;
+- industrial or scientific workflows where outputs must be tested, remembered and promoted carefully.
+
+Portfolio: https://d-nd.com/portfolio/

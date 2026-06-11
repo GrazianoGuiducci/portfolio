@@ -2,69 +2,82 @@
 
 ## Summary
 
-d-nd-seed is an active portable operating layer for AI coders. It installs
-project-local hooks, memory, safety guards, skills, boot routing, compact
-recovery, and lab patterns so an AI coding agent starts each session from a
-preserved operating state.
+d-nd-seed is the portable procedure layer of the D-ND / THIA / AI Lab ecosystem.
 
-## What It Makes Possible
+It packages what survives the operating cycle into installable behavior for AI coders and agentic projects:
 
-d-nd-seed shows transfer: operational lessons from current lab and agent
-workflow systems become a portable layer that can be installed into other
-projects.
+- reentry;
+- memory;
+- hooks;
+- safety guards;
+- skills;
+- evals;
+- Lab patterns;
+- promotion rules;
+- context-continuity procedures.
 
-This is the current installable expression of the context-continuity problem
-that Anamnesis first isolated.
+```text
+verified residue → stable procedure → seed function → installable agent behavior
+```
 
-The useful reviewer-facing point is the repeatable operating layer the seed
-gives to an AI coding environment:
+Public surfaces:
 
-Some parts are practical scaffolds for today's LLM limits: explicit boot,
-reentry, context compaction and session recovery. They express a durable
-harness: awareness before action, memory of failures, safety before execution,
-state exposure, human control, and promotion of stable procedures into portable
-rules.
+- https://seed.d-nd.com/
+- https://github.com/GrazianoGuiducci/d-nd-seed
 
-- **Reentry awareness**: boot routing classifies new session, post-compact,
-  crash recovery, correction, field reentry or unclear signal before action.
-- **Context continuity**: pre/post compact hooks capture and restore the active
-  work state through structured memory.
-- **Safety before execution**: guards check destructive patterns before tool
-  calls or file changes.
-- **Persistent project memory**: local memory and project instructions survive
-  across sessions.
-- **Skill activation**: coder, thinker and plugin skills give the agent
-  explicit specialized behavior.
-- **Self-checking hooks**: hook templates include tests/evals so the system can
-  verify that its own automation works.
-- **Lab transfer**: the Lab pattern describes how to bootstrap domain labs with
-  cycle, falsification, dashboard and product pipeline.
-- **Promotion lane**: useful runtime behavior can be promoted back into the
-  seed as a portable invariant.
+## What it makes possible
 
-## System
+Seed shows portability.
 
-The inspected README describes:
+Lessons from THIA, AI Lab, domain Labs and AI-coder workflows become a reusable operating layer that can be installed into other projects.
 
-- hook templates for safety, awareness, session monitoring and compact recovery;
-- persistent memory and boot-router patterns;
-- 104 skills across plugin, coder and thinker categories;
-- cognitive kernels for base and coder behavior;
-- install profiles and upgrade path;
-- Lab pattern documentation for bootstrapping domain labs.
+This is not only a script collection. It is a way to make procedures that survived work become available before the next failure occurs.
 
-## Absorbed Precursor
+## Durable harness
 
-Anamnesis remains a useful historical precursor for the context-loss problem,
-and the portfolio can send reviewers to d-nd-seed first because it is active,
-installable, and broader.
+Some parts are practical scaffolds for current LLM limits:
 
-## What to Inspect
+- explicit boot;
+- compact recovery;
+- crash recovery;
+- safety checks;
+- project-local memory;
+- session hooks.
+
+The lasting layer is the harness:
+
+- awareness before action;
+- memory of failures;
+- safety before execution;
+- state exposure;
+- human control;
+- eval before trust;
+- promotion of stable procedures into portable rules.
+
+## Main capabilities
+
+- **Reentry awareness**: classify the transition before acting.
+- **Context continuity**: capture and restore the active work state.
+- **Safety before execution**: check destructive patterns before tool calls or file changes.
+- **Persistent project memory**: preserve selected project state across sessions.
+- **Skill activation**: give agents explicit specialized behavior.
+- **Self-checking hooks**: include tests/evals so automation does not rely on blind trust.
+- **Lab transfer**: describe how to bootstrap domain Labs with cycle, falsification, dashboard and product pipeline.
+- **Promotion lane**: turn repeated useful behavior into a portable invariant.
+
+## Absorbed precursor
+
+Anamnesis remains a useful historical precursor for the context-loss problem.
+
+The portfolio should send reviewers to d-nd-seed first because it is active, broader and installable.
+
+## What to inspect
 
 - Repository: https://github.com/GrazianoGuiducci/d-nd-seed
+- Seed surface: https://seed.d-nd.com/
 
 ## Status
 
-Active and recent. Primary evidence for the portable AI-coder continuity layer.
-Needs a selected screenshot/diagram pass for the future public site page and
-belongs near the top of the portfolio.
+Active.
+
+Primary evidence for portable AI-coder continuity and for the way stable operating procedures become installable behavior.

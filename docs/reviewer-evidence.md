@@ -1,94 +1,111 @@
 # Reviewer Evidence Map
 
-This page is for a technical reviewer who wants to decide quickly whether the
-work is real, inspectable, and relevant to advanced AI systems.
+This page is for a technical reviewer who wants to decide quickly whether the work is real, inspectable and relevant to advanced AI systems.
 
-## Core Claim
+## Core claim
 
-The portfolio demonstrates an operating layer for long-running agentic AI work:
-preserving context, testing outputs, exposing state, remembering failures, and
-turning repeated failure modes into reusable procedures.
+The portfolio demonstrates **self-maintaining agentic R&D systems**.
 
-Current LLM limits shape some temporary scaffolds. The deeper evidence is the
-durable harness: awareness before action, recoverability, explicit state, human
-control, evaluation loops, and portable rules that can outlive the first
-implementation.
+These systems preserve intent across context transitions by:
 
-High-level logic has its own value and a direct operating expression: live
-systems, dashboards, guards, evaluation loops, reusable seeds, and domain labs.
+- exposing live state, evidence, failures and constraints;
+- separating production from falsification;
+- remembering useful failures;
+- recovering after discontinuity;
+- generating or adapting tools when needed;
+- blocking premature promotion;
+- turning verified operational residue into reusable procedures.
 
-## Transferable Value
+D-ND is the logical-operational kernel underneath the system. It is not the first thing a reviewer must understand.
 
-I bring methods and tools for making AI agents more continuous, verifiable,
-inspectable, and capable of operating across long cycles.
+## Architecture in review order
 
-The work has a broad theoretical horizon and the portfolio presents inspectable
-surfaces: autonomous Labs, installable seeds, evaluation sieves, state
-dashboards, operational memory, and agentic workflows.
+```text
+Operating problem / intent
+        ↓
+Inspectable agentic Lab cycle
+        ↓
+Domain transfer and portable seed procedures
+        ↓
+THIA coordination/runtime layer
+        ↓
+D-ND logical-operational kernel
+        ↓
+Papers / formal source / lineage
+```
 
-## Role Translation
+## What this should prove
 
-- Agentic AI systems: memory, tool use, context persistence, long-running
-  workflows.
-- AI-native UX and Human-AI interaction: cognitive media, state surfaces,
-  observability, delegation, human steering.
-- Evaluation, safety and observability: CEC-style sieves, counterproofs,
-  dashboards, failure memory, operating boundaries.
-- Research tooling: autonomous Labs, cognitive kernels, research workflows,
-  cross-domain transfer.
+A reviewer should be able to verify that:
 
-## What to Inspect First
+- the work has public, inspectable surfaces;
+- Lab cycles expose state instead of hiding reasoning in fluent text;
+- outputs can be challenged by separate falsifier/gate mechanisms;
+- rejected or blocked claims become memory rather than disappearing;
+- domain transfer is being designed through Lab templates and blueprints;
+- seed material packages reusable procedures for AI coders;
+- THIA coordinates runtime, sites, memory, API/services and workstreams;
+- D-ND provides the operating logic underneath the visible systems.
+
+## Operational awareness boundary
+
+“Awareness” here means operational awareness.
+
+It is not a claim of sentience or subjective consciousness.
+
+Operational awareness means that a system can expose its field, state, evidence, limits, failures and memory in a way that changes the next action.
+
+## What to inspect first
 
 | Evidence | Why it matters | Link |
 | --- | --- | --- |
-| D-ND Lab dashboard | Live state surface for autonomous lab cycles | https://lab.d-nd.com/dashboard/ |
-| D-ND Lab repo | Runtime, domains, dashboard, cycle machinery | https://github.com/GrazianoGuiducci/D-ND_LAB |
-| d-nd-seed | Active portable AI-coder operating layer: hooks, memory, safety, skills, lab pattern | https://github.com/GrazianoGuiducci/d-nd-seed |
-| THIA / Gödel / CEC | Live operating surface where memory, routing, crivello, inversion and Lab workflows meet | https://d-nd.com/godel |
-| Physics Lab | Applied domain that uses the lab engine | https://github.com/GrazianoGuiducci/dnd-lab-physics |
-| D-ND Papers | Formal source and Paper Zero | https://github.com/GrazianoGuiducci/d-nd-papers |
+| Main D-ND site | Public entry point and ecosystem context | https://d-nd.com |
+| THIA page | Public surface for coordination/runtime layer | https://d-nd.com/thia |
+| AI Lab | Shows the research cycle and operating logic | https://d-nd.com/ai-lab |
+| Lab surface | Shows domain transfer and custom Lab direction | https://lab.d-nd.com/ |
+| Lab dashboard | Shows state, cycle, reports, domains and operational status | https://lab.d-nd.com/dashboard/ |
+| d-nd-seed | Portable AI-coder continuity and procedure layer | https://github.com/GrazianoGuiducci/d-nd-seed |
+| Seed surface | Public entry point for installable seed layer | https://seed.d-nd.com/ |
+| D-ND Lab project card/repo | Domain Lab runtime and transfer machinery | https://github.com/GrazianoGuiducci/D-ND_LAB |
+| D-ND Papers | Formal support and deeper kernel layer | https://github.com/GrazianoGuiducci/d-nd-papers |
 
-## Evidence Maturity
+## Evidence maturity
 
-| Evidence | Maturity | Inspection path |
+| Layer | Maturity | Inspection path |
 | --- | --- | --- |
-| D-ND Lab | live | dashboard, runtime, cycles, reports, domain templates |
-| d-nd-seed | active repository | boot, recovery, hooks, safety, skills, Lab pattern |
-| THIA / Gödel / CEC | public surface and internal component | Gödel page, CEC crivello, routing, operational memory |
-| D-ND Physics Lab | applied domain | Lab engine transfer into mathematical/physics research |
-| D-ND Papers / Paper Zero | formal anchor | theoretical kernel and operating-logic source |
-| Earlier projects | lineage | genealogy of kernels, interfaces and cognitive systems |
+| AI Lab cycle | demonstrated | AI Lab page, diagrams, Lab docs, dashboard evidence |
+| Domain Lab surface | demonstrated / prototype | lab.d-nd.com, dashboard, template docs |
+| MetaLab / installer | prototype / planned | domain + intent → blueprint → Lab template direction |
+| d-nd-seed | demonstrated | repo, seed surface, hooks, memory, recovery, guards |
+| THIA | demonstrated with private implementation | public surfaces, sanitized architecture, screenshots |
+| D-ND kernel | formal / deep layer | papers, source docs, model pages |
+| Physics/Math Lab | demonstrated stress test | reports, non-promotion cases, domain artifacts |
+| Older repositories | lineage | trajectory evidence only |
 
-## What This Should Prove
+## Role translation
 
-- The work is implemented across repositories and live surfaces.
-- The same architecture transfers across domains.
-- Failures are stored and used to steer later cycles.
-- The interface exposes operational state and presents results.
-- The research layer and the engineering layer are connected.
+- **Agentic AI systems**: memory, tool use, context persistence, long-running workflows and operational state.
+- **AI-native UX and Human-AI interaction**: state surfaces, observability, delegation, reviewable actions and autonomy levels.
+- **Evaluation, safety and observability**: falsifier gates, negative-results memory, dashboards and operating boundaries.
+- **Research tooling**: Lab workflows, domain transfer, blueprinting and reusable procedures.
+- **AI-coder infrastructure**: boot routing, compact recovery, hooks, project memory, safety guards and installable skills.
 
-## Terms Translated
-
-Some D-ND terms are useful internally and map to technical readings:
+## Terms translated
 
 | Internal term | Technical reading |
 | --- | --- |
-| cimitero | rejected-claim memory / negative-results archive |
-| seme | seed state / reusable starting configuration |
-| campo | active domain state / current working context |
+| campo | live operational field / current working context |
+| tensione | open operational hypothesis |
 | contro-polo | independent falsifier / adversarial check |
-| ciclo | run loop / evaluation cycle |
-| autologico | self-referential consistency check |
+| cimitero | rejected-claim memory / negative-results archive |
+| seme | portable procedure kernel |
+| risultante | surviving operational direction |
+| autologica | recursive self-repair / capability generation |
+| non-promozione | promotion gate / blocked claim |
+| consapevolezza | operational awareness / state-aware behavior |
 
-## Maturity Signal
+## Evidence access boundary
 
-Read the portfolio in this order:
+Public evidence includes sites, dashboards, public repositories, curated docs, screenshots and review-safe architecture.
 
-1. Live and inspectable systems.
-2. Support architecture that explains how they work.
-3. Formal/research kernel.
-4. Earlier systems as trajectory evidence after the current layer is clear.
-
-Repository maturity varies. The strongest current chain is:
-seed -> lab runtime -> applied domains -> THIA/Gödel/CEC operating surface ->
-live dashboard.
+Private material is not used as primary public proof. It may be represented through sanitized summaries if needed.

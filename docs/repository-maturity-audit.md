@@ -1,34 +1,57 @@
 # Repository Maturity Audit
 
-Verified on 2026-05-27 from GitHub metadata and local repository state.
+This document describes maturity by evidence layer, not only by repository.
 
-| Repository | Public state | Last pushed | Portfolio role |
+Exact GitHub metadata can be refreshed when needed. The main point is review priority and role clarity.
+
+## Current evidence layers
+
+| Layer | Public state | Maturity | Portfolio role |
 | --- | --- | --- | --- |
-| `D-ND_LAB` | active public | 2026-05-27 | primary evidence: live lab runtime and dashboard |
-| `d-nd-seed` | active public | 2026-05-26 | primary evidence: portable AI-coder continuity layer |
-| `dnd-lab-physics` | public | 2026-05-03 | applied evidence: first Lab domain |
-| `d-nd-papers` | public | 2026-03-07 | formal support: Paper Zero / D-ND kernel |
-| `skill` | archived public | 2026-02-26 | archived support: THIA skill taxonomy snapshot |
-| `anamnesis` | archived public | 2026-02-24 | absorbed precursor: context persistence problem now better represented by `d-nd-seed` |
-| `KPhi1-EN` | public, marked frozen in commits | 2026-02-21 | legacy kernel reference |
-| `D-ND-Omega-Kernel` | public | 2025-12-09 | older advanced technical kernel reference |
-| `D-ND_semantic_OS` | public | 2025-12-11 | earlier semantic cockpit prototype |
+| Main D-ND site | public surface | demonstrated | entry point and ecosystem narrative |
+| THIA | public surfaces + private implementation | demonstrated / partially private | coordination and runtime layer |
+| AI Lab | public surface / internal process | demonstrated | self-maintaining research cycle |
+| lab.d-nd.com | public surface | demonstrated / prototype | domain transfer and Lab template surface |
+| D-ND Lab runtime | public repository / runtime docs | demonstrated / active | domain Lab machinery |
+| d-nd-seed | public repository | demonstrated | installable continuity and procedure layer |
+| MetaLab | concept/prototype | prototype / planned | domain + intent → blueprint → Lab installer |
+| D-ND Papers | public repository | formal support | kernel / paper anchor |
+| Physics/Math Lab | public/curated evidence | demonstrated stress test | high-friction domain case |
+| Gödel / CEC | public/internal surfaces | partial / specialized | inversion and evaluation path |
 
-## Maturity Note
+## Support and lineage
 
-Archived or frozen repositories are trajectory evidence. They show prior
-exploration and the origin of later active systems.
+| Repository | Public state | Portfolio role |
+| --- | --- | --- |
+| `skill` | archived public | archived THIA skill taxonomy snapshot |
+| `anamnesis` | archived public | absorbed context-persistence precursor |
+| `KPhi1-EN` | public / frozen lineage | legacy kernel reference |
+| `D-ND-Omega-Kernel` | public | older advanced technical kernel reference |
+| `D-ND_semantic_OS` | public | earlier semantic cockpit prototype |
 
-## Current Top Layer
+## Current top layer
 
 For a technical reviewer, the current top layer should be:
 
-1. `D-ND_LAB`
-2. `d-nd-seed`
-3. `dnd-lab-physics`
-4. `d-nd-papers`
-5. live dashboard and selected reports/screenshots
+1. Main D-ND site / portfolio.
+2. THIA public surface.
+3. AI Lab.
+4. lab.d-nd.com and dashboard.
+5. d-nd-seed.
+6. D-ND Lab runtime/project card.
+7. Physics/Math Lab as stress test.
+8. D-ND Papers / formal anchor.
 
-Archived and older repositories remain valuable with clear status. Anamnesis is
-trajectory evidence; d-nd-seed carries the active installable version of the
-same concern.
+Archived and older repositories remain valuable only with clear status.
+
+## Strongest maturity signal
+
+The strongest maturity signal is not a single repository.
+
+It is the chain:
+
+```text
+intent → Lab cycle → domain transfer → seed portability → THIA coordination → D-ND kernel
+```
+
+This chain shows an operating system for agentic work rather than a disconnected set of demos.

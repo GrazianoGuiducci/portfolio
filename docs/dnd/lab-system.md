@@ -2,60 +2,125 @@
 
 ## Purpose
 
-The Lab is a reusable cycle system for domains that require more than a single
-LLM answer. It keeps state, runs repeated cycles, attacks its own claims, and
-exposes the result in a dashboard that a human can inspect.
+The Lab system is the operational mechanism that turns domain intent into a reviewable cycle.
 
-## Cycle Shape
+It is not only a dashboard and not only a report generator.
 
-Each cycle has a simple operating structure:
+It is a self-maintaining agentic research loop that:
+
+- reconstructs a live field;
+- turns tensions into experiments or tools;
+- separates producer from falsifier;
+- stores useful failure;
+- blocks premature promotion;
+- updates the next cycle through gated state changes;
+- packages stable residue into reusable procedures or seed material.
+
+## Position in the architecture
+
+```text
+Intent / domain / source material
+        ↓
+D-ND logical-operational kernel
+        ↓
+THIA coordination layer
+        ↓
+AI Lab cycle
+        ↓
+Domain Labs / MetaLab / Seeds
+```
+
+## Cycle shape
+
+A Lab cycle can be read as:
+
+```text
+field → tension → experiment/tool → report → falsifier → gates → memory → next move
+```
+
+Expanded:
 
 1. Read the current field.
-2. Propose a direction.
-3. Attack the direction with a separate critical pole.
-4. Produce a verdict.
-5. Record what held, what fell, and what should happen next.
-6. Update the seed or domain state.
+2. Identify a tension, claim, gap or domain intent.
+3. Generate an experiment, check, schema, tool or report.
+4. Attack the output through a separate counter-pole.
+5. Compare against nulls, baselines, prior failures and operating constraints.
+6. Produce a verdict.
+7. Store what held, what failed and what should not be repeated.
+8. Promote, redesign, quarantine, pause or create a next-cycle direction.
 
-## Key Properties
+## Key properties
 
-### Field Memory
+### Live field
 
-The Lab keeps track of hypotheses, baselines, controls, verdicts, rejected
-claims, and next actions. The next cycle starts from that stored field.
+The next cycle starts from field state, not from a blank prompt.
 
-### Separate Verification
+The field can include reports, seed state, tensions, prior failures, operator notes, domain material, memory and current direction.
 
-The part that proposes a direction is separated from the part that tries to
-break it. This is the basic producer/counter-pole structure.
+### Separate verification
 
-### Falsification Memory
+The producer and the falsifier are separate roles.
 
-Rejected or declassified claims become filter memory, so the system can avoid
-repeating weak paths.
+The system does not treat generated text as accepted output merely because it was produced.
 
-### Reusable Tools
+### Falsification memory
 
-When a cycle requires code, a schema, a check, or a dashboard view, that artifact
-can become part of the domain template.
+Rejected, declassified or blocked claims are retained as filter memory.
 
-## Public Surfaces
+The point is not to remember everything. The point is to keep what prevents the system from repeating weak paths.
 
-- Lab dashboard: https://lab.d-nd.com/dashboard/
+### Non-promotion
+
+A blocked report can be useful.
+
+A block can expose a missing counter-perimeter, a weak observable, an unsupported claim or a better next condition.
+
+### Tool creation
+
+When a tension cannot be tested with existing structures, the Lab direction supports generating or adapting the missing capability: a script, schema, check, dashboard view, falsifier, procedure or seed candidate.
+
+### Domain transfer
+
+A domain Lab makes this cycle inspectable inside a chosen field.
+
+It exposes:
+
+- claims;
+- tensions;
+- candidate evidence;
+- falsifiers;
+- reports;
+- failure memory;
+- dashboard state;
+- reusable domain templates.
+
+## MetaLab direction
+
+MetaLab is the planned/product direction for generating Labs from:
+
+```text
+domain + intent + materials → blueprint → review → Lab template → cycle contract
+```
+
+Status: prototype / in refinement.
+
+## Public surfaces
+
+- AI Lab: https://d-nd.com/ai-lab
 - Lab home: https://lab.d-nd.com/
-- Custom lab intake: https://lab.d-nd.com/start.html
-- Installable Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
+- Lab dashboard: https://lab.d-nd.com/dashboard/
+- Custom Lab intake: https://lab.d-nd.com/start.html
+- D-ND Lab project/repository: https://github.com/GrazianoGuiducci/D-ND_LAB
 
-## Active Domain Examples
+## Active domain examples
 
-- Bitcoin Regime Lab: regime hypotheses, method pressure, paper simulation, and
-  falsification gates.
-- Finance Lab: market regime-shift testing against baselines, costs, and nulls.
-- Physics/Math Lab: original research field and discovery pipeline.
-- Research Radar: claim monitoring with source/watch/reject discipline.
+- Physics/Math Lab: original high-friction stress test for falsification and non-promotion.
+- Finance Lab: regime-shift and market-condition testing against baselines.
+- Bitcoin Regime Lab: domain template / manual Lab direction.
+- Research Radar: monitoring of emerging claims with source/watch/reject discipline.
 
-## Technical Review Notes
+## Technical review note
 
-The public dashboard is an operational review surface. It shows domain state,
-cycle traces, rejected material, current verdicts, and operational status. That
-makes it useful for evaluating whether the Lab is learning from prior cycles.
+The Lab should be evaluated as a system that learns from its own operating history, not as a static demo.
+
+The strongest evidence is the combination of live field, falsifier, gates, blocked feedback, memory, dashboard state and reusable output.
