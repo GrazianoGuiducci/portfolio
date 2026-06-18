@@ -66,6 +66,8 @@ Operational awareness means that a system can expose its field, state, evidence,
 | Lab dashboard | Shows state, cycle, reports, domains and operational status | https://lab.d-nd.com/dashboard/ |
 | d-nd-seed | Portable AI-coder continuity and procedure layer | https://github.com/GrazianoGuiducci/d-nd-seed |
 | Seed surface | Public entry point for installable seed layer | https://seed.d-nd.com/ |
+| UX-AI Seed | Public agentic interface pattern surface with visible release state and guide previews | https://seed.d-nd.com/ux-ai/ |
+| UX-AI Seed repository | Reusable React primitives for agentic workspaces, inspectors, menus, response maps and contextual chat | https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed |
 | D-ND Lab project card/repo | Domain Lab runtime and transfer machinery | https://github.com/GrazianoGuiducci/D-ND_LAB |
 | D-ND Papers | Formal support and deeper kernel layer | https://github.com/GrazianoGuiducci/d-nd-papers |
 
@@ -77,6 +79,7 @@ Operational awareness means that a system can expose its field, state, evidence,
 | Domain Lab surface | demonstrated / prototype | lab.d-nd.com, dashboard, template docs |
 | MetaLab / installer | prototype / planned | domain + intent → blueprint → Lab template direction |
 | d-nd-seed | demonstrated | repo, seed surface, hooks, memory, recovery, guards |
+| UX-AI Seed | demonstrated / evolving | seed UX surface, repository, release state, guide previews |
 | THIA | demonstrated with private implementation | public surfaces, sanitized architecture, screenshots |
 | D-ND kernel | formal / deep layer | papers, source docs, model pages |
 | Physics/Math Lab | demonstrated stress test | reports, non-promotion cases, domain artifacts |
@@ -86,6 +89,7 @@ Operational awareness means that a system can expose its field, state, evidence,
 
 - **Agentic AI systems**: memory, tool use, context persistence, long-running workflows and operational state.
 - **AI-native UX and Human-AI interaction**: state surfaces, observability, delegation, reviewable actions and autonomy levels.
+- **Agentic interface design**: reusable workspace shells, inspectors, menu contracts, guide previews and contextual assistant surfaces.
 - **Evaluation, safety and observability**: falsifier gates, negative-results memory, dashboards and operating boundaries.
 - **Research tooling**: Lab workflows, domain transfer, blueprinting and reusable procedures.
 - **AI-coder infrastructure**: boot routing, compact recovery, hooks, project memory, safety guards and installable skills.

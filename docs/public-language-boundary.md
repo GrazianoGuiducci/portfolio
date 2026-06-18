@@ -121,6 +121,19 @@ Avoid:
 
 > d-nd-seed is just a collection of scripts.
 
+## UX-AI Seed language
+
+Correct:
+
+> UX-AI Seed exposes reusable interface patterns for agentic workspaces: shells, inspectors, menus, response maps, guide previews and contextual assistant surfaces.
+
+Avoid:
+
+> UX-AI Seed is a finished product suite.
+
+Status: demonstrated / evolving. It is evidence for AI-native UX and agentic
+interface design, not a replacement for the operational Lab or Seed kernel.
+
 ## Term translation
 
 | Internal term | Public technical reading |
