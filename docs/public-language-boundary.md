@@ -121,15 +121,15 @@ Avoid:
 
 > d-nd-seed is just a collection of scripts.
 
-## UX-AI Seed language
+## Agentic UX Skill / UX-AI Seed language
 
 Correct:
 
-> UX-AI Seed exposes reusable interface patterns for agentic workspaces: shells, inspectors, menus, response maps, guide previews and contextual assistant surfaces.
+> Agentic UX Skill is a portable agent skill and behavior contract map for complete UX ports. It tells an AI coder what must travel together before copying UI: shell, state, resize, mobile behavior and assistant context.
 
 Avoid:
 
-> UX-AI Seed is a finished product suite.
+> UX-AI Seed is just a template pack.
 
 Status: demonstrated / evolving. It is evidence for AI-native UX and agentic
 interface design, not a replacement for the operational Lab or Seed kernel.

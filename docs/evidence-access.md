@@ -18,9 +18,9 @@ Public evidence includes:
 - Lab surface: https://lab.d-nd.com
 - Lab dashboard: https://lab.d-nd.com/dashboard/
 - seed surface: https://seed.d-nd.com/
-- UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
+- Agentic UX Skill / UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
 - d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
-- UX-AI Seed repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
+- Agentic UX Skill repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
 - D-ND Lab repository / runtime documentation: https://github.com/GrazianoGuiducci/D-ND_LAB
 - D-ND Physics Lab repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
 - D-ND Papers repository: https://github.com/GrazianoGuiducci/d-nd-papers
@@ -88,7 +88,7 @@ A technical reviewer should start with public evidence:
 3. AI Lab;
 4. Lab surface and dashboard;
 5. d-nd-seed;
-6. UX-AI Seed;
+6. Agentic UX Skill / UX-AI Seed;
 7. D-ND Lab runtime / project card;
 8. applied Physics/Math Lab as stress test;
 9. D-ND Papers / formal anchor.

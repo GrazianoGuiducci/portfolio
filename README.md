@@ -29,8 +29,9 @@ seeds, runtime coordination and formal anchors:
 - **Domain Labs / lab.d-nd.com**: transfer surfaces where domain + intent can
   become a reviewable Lab blueprint and cycle.
 - **d-nd-seed**: portable operating behavior for AI coders and agentic systems.
-- **UX-AI Seed**: reusable agentic interface patterns with visible release
-  state, guide previews and public React primitives.
+- **Agentic UX Skill / UX-AI Seed**: portable agent skill and behavior contract
+  map for complete UX ports, keeping shell, resize, storage, mobile state and
+  assistant context together.
 - **THIA**: runtime coordination layer across sites, APIs, memory, nodes and
   public/private surfaces.
 - **D-ND kernel**: logical-operational source underneath field, passage,
@@ -166,7 +167,7 @@ Formal support:
 | Domain transfer | prototype | domain + intent to blueprint and Lab template |
 | MetaLab | planned / prototype | installer direction, not mature product |
 | d-nd-seed | demonstrated | portable procedure layer |
-| UX-AI Seed | demonstrated / evolving | reusable agentic UI primitives and public pattern surface |
+| Agentic UX Skill / UX-AI Seed | demonstrated / evolving | portable skill and behavior contract map for complete UX ports |
 | THIA | demonstrated with private implementation | runtime coordination layer with public surfaces |
 | D-ND kernel | formal / deep layer | introduced after evidence |
 | memory curator / tool registry | planned / partial | roadmap, not public proof |
@@ -195,9 +196,9 @@ Start here:
 - Lab surface: https://lab.d-nd.com
 - Lab dashboard: https://lab.d-nd.com/dashboard/
 - Seed surface: https://seed.d-nd.com/
-- UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
+- Agentic UX Skill / UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
 - d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
-- UX-AI Seed repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
+- Agentic UX Skill repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
 - D-ND Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
 - D-ND Physics Lab repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
 - D-ND Papers repository: https://github.com/GrazianoGuiducci/d-nd-papers
