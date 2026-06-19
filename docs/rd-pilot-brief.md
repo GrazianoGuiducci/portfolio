@@ -79,10 +79,7 @@ The pilot is useful if at least one of these happens:
 
 ## Boundary
 
-This is not a claim about consciousness, AGI, physics unification or
-unrestricted autonomy.
-
-The claim is operational:
+The claim is operational and bounded:
 
 > A system can expose state, limits and evidence in ways that change the next action, and can preserve intent through error, context transition, memory selection and controlled regeneration.
 

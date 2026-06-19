@@ -49,11 +49,9 @@ A reviewer should be able to verify that:
 
 ## Operational awareness boundary
 
-“Awareness” here means operational awareness.
-
-It is not a claim of sentience or subjective consciousness.
-
-Operational awareness means that a system can expose its field, state, evidence, limits, failures and memory in a way that changes the next action.
+“Awareness” here means operational awareness: a system exposes its field,
+state, evidence, limits, failures and memory in a way that changes the next
+action.
 
 ## What to inspect first
 

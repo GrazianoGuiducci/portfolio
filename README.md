@@ -219,11 +219,8 @@ Start here:
 In this portfolio, “awareness” means operational awareness: state, evidence,
 limits and transformations are exposed in a way that changes action.
 
-It is not a claim of sentience or subjective consciousness.
-
 The Physics Lab is a high-friction stress test for falsification,
-non-promotion and controlled regeneration. It is not presented as proof of a
-physics unification claim.
+non-promotion and controlled regeneration.
 
 Autonomy is always bounded by review levels, gates and mutation boundaries.
 

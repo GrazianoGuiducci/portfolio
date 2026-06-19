@@ -80,12 +80,9 @@ Use:
 
 > Operational awareness means exposing field, state, evidence, limits and transformations in a way that changes action.
 
-Avoid:
-
-> The system is conscious.
-
-The portfolio can discuss operational awareness, but subjective consciousness
-is outside the public claim.
+Avoid anthropomorphic or subjective-experience framing. The portfolio can
+discuss operational awareness when it is tied to state, evidence, limits,
+memory, review and action.
 
 ## Autonomy Boundary
 
@@ -95,7 +92,7 @@ Use:
 
 Avoid:
 
-> Fully autonomous system.
+> Unbounded automation.
 
 Autonomy should always be paired with its boundary: human review, promotion
 gate, mutation constraint, public/private separation or prototype status.
@@ -114,5 +111,6 @@ Then show evidence:
 AI Lab -> Domain Labs -> Seed -> THIA -> D-ND kernel
 ```
 
-Do not make D-ND theory, consciousness, physics or full autonomy the first
-object a reviewer must accept.
+Do not make deep theory, frontier claims or unrestricted automation the first
+object a reviewer must accept. Lead with systems, evidence, continuity,
+verification and reusable procedures.

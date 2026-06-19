@@ -107,11 +107,8 @@ They should not be the first review step for applied partners. They become relev
 
 ## Operational awareness boundary
 
-In this portfolio, “awareness” means operational awareness.
-
-It is not a claim of sentience or subjective consciousness.
-
-It means that a system can:
+In this portfolio, “awareness” means operational awareness. It means that a
+system can:
 
 - preserve and expose context;
 - distinguish evidence, memory, inference and residue;

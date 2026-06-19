@@ -34,9 +34,9 @@ THIA should not be the first public concept to explain. It should be introduced 
 
 ## Operational awareness boundary
 
-In this portfolio, “awareness” is not a claim of sentience.
-
-It means that the system can preserve context, expose state, track failures, recover after discontinuity, route attention, remember decisions and transform stable procedures into reusable rules.
+In this portfolio, “awareness” means that the system can preserve context,
+expose state, track failures, recover after discontinuity, route attention,
+remember decisions and transform stable procedures into reusable rules.
 
 ## What it shows
 

@@ -71,9 +71,9 @@ Allowed:
 
 Avoid:
 
-- The system is conscious.
-- The system has fully autonomous unrestricted self-modification.
-- The Physics Lab proves a physics unification claim.
+- Anthropomorphic or subjective-experience claims.
+- The system has unrestricted self-modification.
+- The Physics Lab is presented as a promoted domain result.
 - MetaLab can already install any Lab end-to-end without supervision.
 - D-ND must be understood before the system can be evaluated.
 - Private runtime state is public evidence.

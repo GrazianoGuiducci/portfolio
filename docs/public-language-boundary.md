@@ -28,9 +28,8 @@ The second is valid only at a deeper level. It is not a good entry point.
 
 ## Awareness language
 
-Use “awareness” only in an operational sense.
-
-Do not imply sentience, consciousness or subjective experience.
+Use “awareness” only in an operational sense and tie it to observable state,
+evidence, limits, memory and action.
 
 Preferred formulations:
 
@@ -44,10 +43,10 @@ Preferred formulations:
 
 Avoid unsupported formulations:
 
-- conscious AI system;
-- sentient system;
-- awakened system;
-- AI that understands itself subjectively.
+- anthropomorphic system claims;
+- unbounded self-description;
+- unsupported inner-state claims;
+- subjective-experience framing.
 
 Stable definition:
 
@@ -109,7 +108,7 @@ Correct:
 
 Avoid:
 
-> The Lab proves a physics unification claim.
+> The Lab should be read as a promoted domain result.
 
 ## Seed language
 

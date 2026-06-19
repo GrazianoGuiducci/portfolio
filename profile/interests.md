@@ -1,6 +1,6 @@
 # Ambiti di ricerca e lavoro
 
-## Machine learning, AI awareness, kernel e tool
+## Machine learning, operational awareness, kernel e tool
 
 Lavoro su strutture pratiche che rendono i sistemi IA più stabili nei contesti
 lunghi: protocolli di boot, passaggi di memoria, cicli di falsificazione, skill

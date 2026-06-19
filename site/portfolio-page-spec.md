@@ -164,10 +164,10 @@ Use tags:
 
 Do not open with:
 
-- consciousness;
-- sentience;
+- anthropomorphic system claims;
+- unsupported inner-state claims;
 - physics unification;
-- full autonomy;
+- unbounded automation;
 - D-ND metaphysics.
 
 Open with:
