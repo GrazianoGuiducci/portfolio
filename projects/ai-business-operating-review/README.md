@@ -1,6 +1,6 @@
 # AI Business Operating Review
 
-Status: productized service candidate / internal proof active
+Status: product architecture candidate / internal proof active / demo needed
 
 AI Business Operating Review is a Business Manager product candidate for people
 and teams using AI/coder tools who need continuity across business context,
@@ -14,10 +14,12 @@ exists, but the next business action becomes unclear.
 
 ## Mechanism
 
-The review produces a compact operating packet:
+The review uses the Business Manager competence system plus a product
+architecture pass. It produces a compact operating packet:
 
 ```text
-context -> surfaces -> opportunities -> boundaries -> evidence -> first action
+competence -> context -> surfaces -> opportunities -> boundaries -> evidence
+-> first action
 ```
 
 The packet includes:
@@ -32,6 +34,7 @@ The packet includes:
 ## Evidence
 
 - Business Manager source: https://github.com/GrazianoGuiducci/dnd-business-manager
+- Product architecture skill: `skill/dnd-ai-product-architect`
 - Related project-continuity method: https://github.com/GrazianoGuiducci/RepoKernel
 
 ## Relationship To RepoKernel
@@ -63,3 +66,8 @@ No autonomous publishing, outreach, pricing or client commitment is implied.
 Private state, runtime data, logs, secrets and unpublished strategy stay out of
 public material.
 
+## Next Proof
+
+Create or select one sanitized local example and run the review as a local
+preview: source map, opportunity, public-safe language, first action and
+reentry packet, without mutating the source folder.

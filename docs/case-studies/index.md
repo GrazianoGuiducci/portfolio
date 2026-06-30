@@ -103,13 +103,14 @@ Reusable value: decision support, evaluation, inversion and state-aware interfac
 Problem: AI/coder work can produce useful material while business context,
 public assets, contacts, offers and next actions remain scattered.
 
-Mechanism: Business Manager maps surfaces, separates public/private language,
-identifies opportunity, names evidence and produces one reviewed operating
-packet with a first bounded action.
+Mechanism: Business Manager maps surfaces and the product architecture pass
+separates actual capability, proof, missing proof, product form and integration
+path before producing one reviewed operating packet with a first bounded action.
 
 Evidence:
 
 - Business Manager source: https://github.com/GrazianoGuiducci/dnd-business-manager
+- Product architecture skill: `skill/dnd-ai-product-architect`
 - Project-continuity companion: https://github.com/GrazianoGuiducci/RepoKernel
 
 Reusable value: business continuity around AI projects: surface map, evidence

@@ -13,7 +13,7 @@ Review priority follows current relevance and inspectability.
 ## Transfer and portability
 
 - [d-nd-seed](dnd-seed/README.md) — active portable seed for AI coders: hooks, memory, compact recovery, safety, skills and Lab patterns.
-- [AI Business Operating Review](ai-business-operating-review/README.md) — productized Business Manager review for turning AI/coder work into surface map, evidence path, offer route and first bounded business action.
+- [AI Business Operating Review](ai-business-operating-review/README.md) — product architecture candidate for turning AI/coder work into surface map, evidence path, offer route and first bounded business action.
 - lab.d-nd.com — domain transfer surface: https://lab.d-nd.com/
 - MetaLab direction — domain + intent + materials → blueprint → Lab template → cycle contract. Status: prototype / in refinement.
 

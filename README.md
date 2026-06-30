@@ -29,7 +29,7 @@ seeds, runtime coordination and formal anchors:
 - **Domain Labs / lab.d-nd.com**: transfer surfaces where domain + intent can
   become a reviewable Lab blueprint and cycle.
 - **d-nd-seed**: portable operating behavior for AI coders and agentic systems.
-- **AI Business Operating Review**: Business Manager product candidate for
+- **AI Business Operating Review**: Business Manager product architecture for
   turning AI/coder work into surface map, evidence path, offer route and first
   bounded business action.
 - **Agentic UX Skill / UX-AI Seed**: portable agent skill and behavior contract
@@ -170,7 +170,7 @@ Formal support:
 | Domain transfer | prototype | domain + intent to blueprint and Lab template |
 | MetaLab | planned / prototype | installer direction, not mature product |
 | d-nd-seed | demonstrated | portable procedure layer |
-| AI Business Operating Review | productized service candidate | business continuity around AI/coder work |
+| AI Business Operating Review | product architecture candidate | business continuity around AI/coder work |
 | Agentic UX Skill / UX-AI Seed | demonstrated / evolving | portable skill and behavior contract map for complete UX ports |
 | THIA | demonstrated with private implementation | runtime coordination layer with public surfaces |
 | D-ND kernel | formal / deep layer | introduced after evidence |
