@@ -1,6 +1,6 @@
 # AI Business Operating Review
 
-Status: product architecture candidate / internal proof active / demo needed
+Status: public-clean package published / site page pending
 
 AI Business Operating Review is a Business Manager product candidate for people
 and teams using AI/coder tools who need continuity across business context,
@@ -33,7 +33,8 @@ The packet includes:
 
 ## Evidence
 
-- Public-clean package/page: pending publication pass.
+- Public-clean package: https://github.com/GrazianoGuiducci/ai-business-operating-review
+- Site/product page: pending product-family organization pass.
 - Private Business Manager source exists, but is not a public proof link.
 - Related project-continuity method: https://github.com/GrazianoGuiducci/RepoKernel
 
@@ -68,6 +69,5 @@ public material.
 
 ## Next Proof
 
-Create or select one sanitized local example and run the review as a local
-preview: source map, opportunity, public-safe language, first action and
-reentry packet, without mutating the source folder.
+Review the public-clean package, then decide whether the first public surface
+is a portfolio page, product page, MAIOS route or LinkedIn post.

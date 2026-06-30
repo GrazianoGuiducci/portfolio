@@ -109,8 +109,7 @@ path before producing one reviewed operating packet with a first bounded action.
 
 Evidence:
 
-- Product architecture packet and public-clean package: pending publication
-  pass
+- Public-clean package: https://github.com/GrazianoGuiducci/ai-business-operating-review
 - Project-continuity companion: https://github.com/GrazianoGuiducci/RepoKernel
 
 Reusable value: business continuity around AI projects: surface map, evidence

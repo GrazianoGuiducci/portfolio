@@ -203,8 +203,8 @@ Start here:
 - Agentic UX Skill / UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
 - d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
 - Agentic UX Skill repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
-- AI Business Operating Review: public-clean package/page pending; private
-  Business Manager source is not a public proof link.
+- AI Business Operating Review: https://github.com/GrazianoGuiducci/ai-business-operating-review
+  Private Business Manager source is not a public proof link.
 - RepoKernel repository: https://github.com/GrazianoGuiducci/RepoKernel
 - D-ND Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
 - D-ND Physics Lab repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
