@@ -12,6 +12,9 @@ Review priority follows current relevance and inspectability.
 
 ## Transfer and portability
 
+- [RepoKernel](repokernel/README.md) — project-kernel package for context,
+  source atlas, gates, receipts, update awareness and reentry across
+  AI/coder sessions.
 - [d-nd-seed](dnd-seed/README.md) — active portable seed for AI coders: hooks, memory, compact recovery, safety, skills and Lab patterns.
 - [AI Business Operating Review](ai-business-operating-review/README.md) — product architecture candidate for turning AI/coder work into surface map, evidence path, offer route and first bounded business action.
 - lab.d-nd.com — domain transfer surface: https://lab.d-nd.com/

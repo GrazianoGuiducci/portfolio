@@ -47,6 +47,7 @@ Use these tags internally before publishing claims.
 | Physics/Math Lab | demonstrated stress test | high-friction falsification and non-promotion case |
 | Domain transfer | prototype | domain + intent → blueprint → Lab template |
 | MetaLab | planned / prototype | installer direction, not mature product |
+| RepoKernel | public source / product architecture candidate | project continuity for AI/coder sessions |
 | d-nd-seed | demonstrated | portable procedure layer |
 | AI Business Operating Review | product architecture candidate | business continuity around AI/coder work |
 | THIA | demonstrated with private implementation | coordination/runtime layer with public surfaces |
