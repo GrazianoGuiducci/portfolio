@@ -109,8 +109,8 @@ path before producing one reviewed operating packet with a first bounded action.
 
 Evidence:
 
-- Business Manager source: https://github.com/GrazianoGuiducci/dnd-business-manager
-- Product architecture skill: `skill/dnd-ai-product-architect`
+- Product architecture packet and public-clean package: pending publication
+  pass
 - Project-continuity companion: https://github.com/GrazianoGuiducci/RepoKernel
 
 Reusable value: business continuity around AI projects: surface map, evidence

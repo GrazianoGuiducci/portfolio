@@ -29,7 +29,7 @@ seeds, runtime coordination and formal anchors:
 - **Domain Labs / lab.d-nd.com**: transfer surfaces where domain + intent can
   become a reviewable Lab blueprint and cycle.
 - **d-nd-seed**: portable operating behavior for AI coders and agentic systems.
-- **AI Business Operating Review**: Business Manager product architecture for
+- **AI Business Operating Review**: product architecture for
   turning AI/coder work into surface map, evidence path, offer route and first
   bounded business action.
 - **Agentic UX Skill / UX-AI Seed**: portable agent skill and behavior contract
@@ -203,7 +203,8 @@ Start here:
 - Agentic UX Skill / UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
 - d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
 - Agentic UX Skill repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
-- Business Manager repository: https://github.com/GrazianoGuiducci/dnd-business-manager
+- AI Business Operating Review: public-clean package/page pending; private
+  Business Manager source is not a public proof link.
 - RepoKernel repository: https://github.com/GrazianoGuiducci/RepoKernel
 - D-ND Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
 - D-ND Physics Lab repository: https://github.com/GrazianoGuiducci/dnd-lab-physics

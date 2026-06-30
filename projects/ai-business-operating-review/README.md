@@ -33,8 +33,8 @@ The packet includes:
 
 ## Evidence
 
-- Business Manager source: https://github.com/GrazianoGuiducci/dnd-business-manager
-- Product architecture skill: `skill/dnd-ai-product-architect`
+- Public-clean package/page: pending publication pass.
+- Private Business Manager source exists, but is not a public proof link.
 - Related project-continuity method: https://github.com/GrazianoGuiducci/RepoKernel
 
 ## Relationship To RepoKernel
