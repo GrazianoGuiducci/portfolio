@@ -98,6 +98,23 @@ Evidence:
 
 Reusable value: decision support, evaluation, inversion and state-aware interfaces.
 
+## 8. AI Business Operating Review
+
+Problem: AI/coder work can produce useful material while business context,
+public assets, contacts, offers and next actions remain scattered.
+
+Mechanism: Business Manager maps surfaces, separates public/private language,
+identifies opportunity, names evidence and produces one reviewed operating
+packet with a first bounded action.
+
+Evidence:
+
+- Business Manager source: https://github.com/GrazianoGuiducci/dnd-business-manager
+- Project-continuity companion: https://github.com/GrazianoGuiducci/RepoKernel
+
+Reusable value: business continuity around AI projects: surface map, evidence
+path, offer route, follow-up and reentry for the next AI/coder session.
+
 ## Lineage
 
 Earlier systems remain useful as trajectory evidence:

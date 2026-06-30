@@ -11,6 +11,7 @@ curated document in this portfolio.
 | `CONDENSATO_SCOPERTE.md` | candidate | discoveries / promoted findings page |
 | `cimitero.md` | candidate | falsification memory page |
 | `LAB_MANUAL.md` | partial extract | lab architecture overview |
+| `dnd-business-manager/accepted/AI_BUSINESS_OPERATING_REVIEW_PRODUCT_PACKET_2026-06-30.md` | product candidate | `projects/ai-business-operating-review/README.md` |
 | `MANIFESTO.md` | candidate | short manifesto after tone pass |
 | `AGENTS.md` | exclude raw | extract generic cycle-agent principles |
 | `CLAUDE.md` | exclude raw | extract role model if needed |

@@ -48,6 +48,7 @@ Use these tags internally before publishing claims.
 | Domain transfer | prototype | domain + intent → blueprint → Lab template |
 | MetaLab | planned / prototype | installer direction, not mature product |
 | d-nd-seed | demonstrated | portable procedure layer |
+| AI Business Operating Review | productized service candidate | business continuity around AI/coder work |
 | THIA | demonstrated with private implementation | coordination/runtime layer with public surfaces |
 | D-ND kernel | formal / deep layer | introduced after evidence |
 | R&D pilot route | proposal | bounded applied R&D evaluation path |
