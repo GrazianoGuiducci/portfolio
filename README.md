@@ -1,65 +1,129 @@
-# AI-DND Portfolio - Self-Maintaining Agentic R&D Systems
+# AI Systems Portfolio — Graziano Guiducci
 
-Technical evidence map for systems that preserve intent across context
-transitions: live field reconstruction, falsification loops, memory selection,
-human review, promotion gates, reusable procedures, portable seeds and runtime
-coordination.
+Technical evidence map for a multidisciplinary body of work on AI systems,
+agentic architectures, operational awareness, continuity, verification,
+AI-native interaction and the evolution of reusable competences.
 
-The main public entry point is:
+Public entry points:
 
-- https://d-nd.com
+- MAIOS: https://maios.it
+- Technical portfolio: https://d-nd.com/portfolio/
+- Portfolio source/evidence repository: https://github.com/GrazianoGuiducci/portfolio
 
-Technical portfolio page:
+## Current frame
 
-- https://d-nd.com/portfolio/
+The work is no longer best read as a flat collection of D-ND, THIA, Labs,
+Seeds, kernels and UX experiments.
 
-## One-line summary
+A substantial part of that work now converges operationally in **MAIOS — Multi
+AI Operative System**: an environment for building and evolving AI around real
+projects while preserving context, memory, competences, sources, decisions and
+direction across changing models, tools and sessions.
 
-I build self-maintaining agentic R&D systems that preserve intent across
-context transitions, falsify their own outputs, remember failures and turn
-verified operational residue into reusable procedures.
+MAIOS is the current operational and public convergence surface. The earlier
+systems remain important as evidence, infrastructure, reusable components and
+research lineage.
+
+```text
+person / organisation / project
+        ↓
+MAIOS
+        ↓
+Project Kernel + context + models + tools + memory + competences
+        ↓
+setup / integration / continued work / review
+        ↓
+reusable evidence, components and research lineage
+```
+
+## Research direction
+
+The recurring question is how AI systems can remain coherent through change
+without becoming rigid.
+
+Current research directions include:
+
+- **operational awareness** — reconstructing context, state, evidence, limits,
+  uncertainty and relevant relations in a way that changes the next action;
+- **continuity** — preserving recoverable intent, state, memory and direction
+  across model, tool, host and session transitions;
+- **autopoietic evolution** — exploring architectures in which operational
+  experience can produce reviewed changes to memory, competences, skills,
+  functions and system organisation without implying unrestricted
+  self-modification;
+- **verification and falsification** — separating claims from evidence,
+  challenging outputs, preserving useful failure and blocking unsupported
+  promotion;
+- **human-AI collaboration** — making state, choices, boundaries and review
+  surfaces legible through AI-native UX.
+
+The direction is toward AI systems increasingly able to understand the context
+in which they are situated, develop useful competences through experience and
+maintain continuity while preserving verification, correction, reentry and
+human authority where required.
 
 ## What exists
 
-The work is an ecosystem of public surfaces, repositories, Labs, installable
-seeds, runtime coordination and formal anchors:
+### MAIOS — current operational convergence
 
-- **AI Lab**: a self-maintaining research cycle with field reconstruction,
-  reports, falsifiers, gates, memory and reentry.
-- **Domain Labs / lab.d-nd.com**: transfer surfaces where domain + intent can
+MAIOS brings together project context, models, tools, memory and competences
+around a Project Kernel. Its public surface currently includes guided AI setup,
+a self-configuring project package, component and ecosystem views, contextual
+chat, editorial guidance and a human consulting route.
+
+The current owner-native MAIOS state reports a published self-configuring
+Project Kernel package with demonstrated Codex setup and reentry behavior.
+Other host paths remain explicit validation work rather than assumed proof.
+
+Public surface:
+
+- https://maios.it
+
+Portfolio card:
+
+- [projects/maios/README.md](projects/maios/README.md)
+
+### Evidence, infrastructure and reusable components
+
+- **RepoKernel** — generative project-kernel source for continuity, source
+  mapping, gates, receipts and reentry.
+- **AI Lab / D-ND Lab** — self-maintaining research cycles with field
+  reconstruction, reports, falsifiers, gates, memory and reentry.
+- **Domain Labs / lab.d-nd.com** — transfer surfaces where domain + intent can
   become a reviewable Lab blueprint and cycle.
-- **d-nd-seed**: portable operating behavior for AI coders and agentic systems.
-- **AI Business Operating Review**: product architecture for
-  turning AI/coder work into surface map, evidence path, offer route and first
-  bounded business action.
-- **Agentic UX Skill / UX-AI Seed**: portable agent skill and behavior contract
-  map for complete UX ports, keeping shell, resize, storage, mobile state and
-  assistant context together.
-- **THIA**: runtime coordination layer across sites, APIs, memory, nodes and
-  public/private surfaces.
-- **D-ND kernel**: logical-operational source underneath field, passage,
-  residue, falsification, non-promotion and controlled regeneration.
-- **D-ND Papers / Paper Zero**: formal and mathematical support for the deeper
-  kernel.
+- **d-nd-seed** — portable operating behavior for AI coders and agentic
+  systems.
+- **Agentic UX Skill / UX-AI Seed** — portable behavior contracts and reusable
+  patterns for complete AI-native UX ports.
+- **D-ND Business Skill** — public-clean transferable business operating
+  competence derived from the private Business Manager source lane.
+- **THIA** — broader coordination/runtime layer across sites, repositories,
+  agents, memory, services and public/private surfaces.
+- **D-ND kernel and papers** — deeper logical-operational and formal research
+  layer underneath much of the trajectory.
 
-## System map
+## Evidence architecture
+
+The public review order is now:
 
 ```text
-Intent / source
+current work / MAIOS
         ↓
-D-ND logical-operational kernel
+what can be used, configured or inspected
         ↓
-THIA coordination layer
+Project Kernel / RepoKernel / Seed / UX / Lab evidence
         ↓
-AI Lab cycle
+THIA and wider system architecture
         ↓
-Domain Labs / Seeds / Papers
+D-ND research kernel / papers / earlier lineage
 ```
 
-The public review path starts from operating systems and evidence. D-ND explains
-the structure underneath after the practical function is visible.
+This ordering changes public hierarchy, not technical ownership. Earlier
+repositories remain their own source authorities.
 
-## AI Lab
+## Selected evidence
+
+### AI Lab
 
 The AI Lab turns an open tension into an operational cycle:
 
@@ -67,182 +131,116 @@ The AI Lab turns an open tension into an operational cycle:
 field → tension → experiment/tool → report → falsifier → gates → memory → next move
 ```
 
-It is designed for workflows where generated output is not enough. The system
-must expose state, separate claim from evidence, challenge outputs, block weak
-promotion, preserve useful failure and produce a next-cycle direction.
+It is designed for work where generated output is not enough: state and
+evidence must remain inspectable, weak claims can be blocked, useful failure is
+preserved and the next cycle must remain recoverable.
 
 Public surfaces:
 
 - https://d-nd.com/ai-lab
 - https://lab.d-nd.com/dashboard/
 
-## Domain transfer
+### Domain transfer
 
-Domain Labs move the Lab method beyond the original research context.
-
-The transfer pattern is:
+Domain Labs test whether the operating method can move beyond one research
+context:
 
 ```text
 domain + intent + material
         ↓
-blueprint
+reviewable blueprint
         ↓
-review
-        ↓
-Lab template
-        ↓
-cycle contract
+Lab template / cycle contract
         ↓
 reports + gates + memory
 ```
-
-lab.d-nd.com is the public transfer surface. MetaLab is the product direction
-for domain-to-Lab generation and remains prototype / in refinement.
 
 Public surface:
 
 - https://lab.d-nd.com/
 
-## Seed
+### Portable competence and procedure
 
-d-nd-seed packages procedures that survived real work into installable
-operating behavior:
+Stable behavior is progressively extracted into reusable forms such as
+Project Kernels, skills, seeds, contracts and procedures.
 
-- reentry;
-- memory;
-- hooks;
-- safety guards;
-- skills;
-- evals;
-- Lab patterns;
-- promotion rules;
-- context-continuity procedures.
+Public examples:
 
-```text
-verified residue → stable procedure → seed function → installable agent behavior
-```
-
-Public surfaces:
-
-- https://seed.d-nd.com/
-- https://seed.d-nd.com/ux-ai/
-- https://github.com/GrazianoGuiducci/d-nd-seed
-- https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
-
-## THIA
-
-THIA is the coordination and runtime layer of the D-ND ecosystem.
-
-It connects public sites, repositories, Labs, coders, coding agents, assistants,
-memory, routing, APIs, services, public/private surfaces and research cycles.
-
-The THIA implementation repository is private. THIA as a system has public
-surfaces:
-
-- https://d-nd.com
-- https://d-nd.com/thia
-- https://d-nd.com/ai-lab
-
-## D-ND kernel
-
-D-ND is the logical-operational kernel behind the architecture.
-
-It gives structure to field, passage, residue, memory, falsification,
-non-promotion, reentry and controlled regeneration.
-
-The portfolio introduces D-ND after the operating function is visible because
-the first evaluation question is practical:
-
-> Can the system preserve intent, expose evidence, recover from error, block unsupported promotion and produce reusable procedure?
-
-Formal support:
-
-- https://github.com/GrazianoGuiducci/d-nd-papers
+- RepoKernel: https://github.com/GrazianoGuiducci/RepoKernel
+- d-nd-seed: https://github.com/GrazianoGuiducci/d-nd-seed
+- Agentic UX Skill: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
+- D-ND Business Skill: https://github.com/GrazianoGuiducci/dnd-business-skill
 
 ## Maturity matrix
 
 | Component | Maturity | Public framing |
 | --- | --- | --- |
-| d-nd.com | demonstrated | main ecosystem entry point |
-| AI Lab cycle | demonstrated | self-maintaining research cycle |
+| MAIOS public surface | demonstrated / evolving | current operational convergence and AI setup/consulting surface |
+| MAIOS self-configuring Project Kernel package | demonstrated on current Codex evidence / evolving | project-specific operating seed; broader host validation remains open |
+| RepoKernel | public source / generative infrastructure | creates project-kernel structures; not itself the generated project owner |
+| AI Lab cycle | demonstrated | inspectable self-maintaining research cycle |
 | lab.d-nd.com | demonstrated / prototype | public Lab transfer surface and dashboard |
-| Physics/Math Lab | demonstrated stress test | falsification and non-promotion case |
-| Domain transfer | prototype | domain + intent to blueprint and Lab template |
-| MetaLab | planned / prototype | installer direction, not mature product |
+| Physics/Math Lab | demonstrated stress test | falsification and non-promotion case, not a promoted physics result |
+| Domain transfer / MetaLab direction | prototype | domain + intent to blueprint and Lab template |
 | d-nd-seed | demonstrated | portable procedure layer |
-| AI Business Operating Review | product architecture candidate | business continuity around AI/coder work |
-| Agentic UX Skill / UX-AI Seed | demonstrated / evolving | portable skill and behavior contract map for complete UX ports |
-| THIA | demonstrated with private implementation | runtime coordination layer with public surfaces |
-| D-ND kernel | formal / deep layer | introduced after evidence |
-| memory curator / tool registry | planned / partial | roadmap, not public proof |
+| Agentic UX Skill / UX-AI Seed | demonstrated / evolving | portable AI-native UX behavior-contract layer |
+| D-ND Business Skill | public-clean transferable skill | reusable business operating procedure; private Business Manager state excluded |
+| THIA | demonstrated with private implementation | wider coordination/runtime layer with public surfaces |
+| D-ND kernel | formal / deep research layer | introduced after operating evidence |
+| persistent autonomous governors / unrestricted self-modification | not demonstrated | do not use as current public capability claim |
 
 ## Evidence map
 
 Start here:
 
 1. [Reviewer Evidence Map](docs/reviewer-evidence.md)
-2. [System Architecture](docs/system-architecture.md)
-3. [Positioning and Maturity](docs/positioning-and-maturity.md)
-4. [Public Language Boundary](docs/public-language-boundary.md)
-5. [Claim Boundaries](docs/claim-boundaries.md)
-6. [Site Coherence](docs/site-coherence.md)
-7. [Evidence Access](docs/evidence-access.md)
-8. [R&D Pilot Brief](docs/rd-pilot-brief.md)
-9. [Project Index](projects/index.md)
-10. [One-page work profile](work/one-page-profile.md)
-
-## Public links
-
-- Main site: https://d-nd.com
-- Technical portfolio: https://d-nd.com/portfolio/
-- THIA public surface: https://d-nd.com/thia
-- AI Lab: https://d-nd.com/ai-lab
-- Lab surface: https://lab.d-nd.com
-- Lab dashboard: https://lab.d-nd.com/dashboard/
-- Seed surface: https://seed.d-nd.com/
-- Agentic UX Skill / UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
-- d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
-- Agentic UX Skill repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
-- AI Business Operating Review: https://github.com/GrazianoGuiducci/ai-business-operating-review
-  Private Business Manager source is not a public proof link.
-- RepoKernel repository: https://github.com/GrazianoGuiducci/RepoKernel
-- D-ND Lab repository: https://github.com/GrazianoGuiducci/D-ND_LAB
-- D-ND Physics Lab repository: https://github.com/GrazianoGuiducci/dnd-lab-physics
-- D-ND Papers repository: https://github.com/GrazianoGuiducci/d-nd-papers
-- Portfolio repository: https://github.com/GrazianoGuiducci/portfolio
+2. [Positioning and Maturity](docs/positioning-and-maturity.md)
+3. [Public Language Boundary](docs/public-language-boundary.md)
+4. [Claim Boundaries](docs/claim-boundaries.md)
+5. [Project Index](projects/index.md)
+6. [One-page work profile](work/one-page-profile.md)
+7. [System Architecture](docs/system-architecture.md)
+8. [Site Coherence](docs/site-coherence.md)
+9. [Evidence Access](docs/evidence-access.md)
 
 ## What to evaluate
 
-- Does the system preserve state through context transitions?
-- Does it separate claim, evidence, inference and residue?
-- Does it challenge its own outputs before promotion?
-- Does it retain useful failure as memory?
-- Does it expose current maturity and boundaries?
-- Does it turn verified operational residue into reusable procedure?
-- Does it keep private runtime detail out of public proof?
+- Can a project preserve recoverable context, intent and direction through
+  transitions?
+- Can the system distinguish source, evidence, inference, uncertainty and
+  proposal?
+- Can useful operating experience become reviewed memory, competence or
+  reusable procedure?
+- Can outputs be challenged before promotion?
+- Are human review, effect authority and mutation boundaries explicit?
+- Can a person or organisation enter the system from a real problem rather
+  than from internal research vocabulary?
+- Are maturity and missing proof visible rather than hidden by fluent claims?
 
 ## Public boundary
 
-In this portfolio, “awareness” means operational awareness: state, evidence,
-limits and transformations are exposed in a way that changes action.
+In this portfolio, **awareness** means operational/system awareness tied to
+observable context, state, evidence, limits, memory and action. It is not a
+claim of subjective experience or consciousness.
 
-The Physics Lab is a high-friction stress test for falsification,
-non-promotion and controlled regeneration.
+**Autopoiesis** is a research and architecture direction: systems able to
+preserve and reorganise themselves through reviewed operational learning. It
+does not mean unrestricted self-modification, autonomous authority or automatic
+promotion of generated changes.
 
-Autonomy is always bounded by review levels, gates and mutation boundaries.
+Autonomy is always bounded by the evidence available for the specific system,
+review levels, gates and effect authority.
 
 ## Transferable value
 
-The work is relevant to:
+The work is relevant to companies, professionals, research groups, AI-native
+product teams and technical collaborators working on:
 
-- agentic AI systems;
-- R&D workflows;
+- AI system architecture and integration;
+- agentic and multi-AI systems;
+- project continuity, memory and operational context;
 - AI-native UX and human-AI collaboration;
-- evaluation, safety and observability;
-- memory, tool use and context persistence;
-- AI-coder infrastructure;
-- research tooling and self-correcting Lab workflows.
-
-The portfolio is written for technical reviewers, companies, research groups
-and AI-native product teams evaluating whether this work can make AI systems
-more continuous, inspectable, falsifiable and useful over long cycles.
+- evaluation, safety, observability and reviewable autonomy;
+- AI-coder and project-kernel infrastructure;
+- research tooling and self-correcting workflows;
+- transformation of repeated operating knowledge into reusable competences.
