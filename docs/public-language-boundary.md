@@ -15,6 +15,8 @@ Do next:   evidence, components, maturity and boundaries
 Do later:  THIA / D-ND / deeper research vocabulary and lineage
 ```
 
+Public order must not be confused with semantic containment.
+
 ## First public frame
 
 Preferred:
@@ -35,10 +37,10 @@ point for evaluating current capability.
 
 Correct:
 
-> MAIOS is a Multi AI Operative System and the current operational convergence
-> of a substantial part of this work. It brings project context, a Project
-> Kernel, models, tools, memory and competences into a persistent operating
-> environment for AI-assisted work.
+> MAIOS is a Multi AI Operative System and the current project-centred
+> operational/public convergence of a substantial part of this work. It brings
+> project context, a Project Kernel, models, tools, memory and competences into
+> a persistent operating environment for AI-assisted work.
 
 Also correct when describing the public surface:
 
@@ -47,6 +49,10 @@ Also correct when describing the public surface:
 > guidance and a human consulting route.
 
 Avoid:
+
+> MAIOS is the whole THIA system.
+
+and:
 
 > MAIOS autonomously manages every tool, account, process or organisation.
 
@@ -120,12 +126,12 @@ Avoid reducing continuity to raw transcript retention or indiscriminate memory.
 
 ## D-ND language
 
-D-ND remains a deep research and logical-operational source, but it is no
-longer the first public identity of the whole portfolio.
+D-ND remains a deep logical/cognitive and research source, but it is no longer
+the first public identity of the whole portfolio.
 
 Correct:
 
-> D-ND is part of the deeper logical-operational research lineage underneath
+> D-ND is part of the deeper logical/cognitive research source underneath
 > several systems and methods represented here.
 
 Avoid:
@@ -141,11 +147,30 @@ Better:
 
 Correct:
 
-> THIA is the wider coordination/runtime layer in the research and system
-> lineage, connecting multiple surfaces, agents, memory and workstreams.
+> THIA is the **total-system relation / whole ecosystem context**. Distributed
+> nodes, interfaces, agents, memory, runtimes, services and coordination
+> mechanisms are incarnations or functions within THIA; they are not a complete
+> definition of THIA itself.
 
-Do not place THIA as an equal first-contact peer to MAIOS merely because it
-remains technically significant.
+Also correct:
+
+> MAIOS may be presented before THIA in the public review path because MAIOS is
+> the current project-centred operational convergence. This changes reading
+> order, not semantic containment.
+
+Where deeper architecture matters:
+
+- THIAMAN = manager / architect function;
+- Multi_Agent_OS = distributed presentation / execution surface;
+- models / agents / nodes / tools = situated operational instances.
+
+Avoid:
+
+> THIA is merely the coordination/runtime layer inside MAIOS.
+
+Do not force THIA into first-contact copy when the reader only needs to
+understand the current operational result, but do not reduce or misclassify it
+when architecture is explained.
 
 ## Lab language
 
@@ -237,4 +262,5 @@ Public pages should normally make this sequence legible:
 5. reusable components and evidence;
 6. deeper architecture and research lineage.
 
-Do not flatten the sequence back into a catalogue of project names.
+Do not flatten the sequence back into a catalogue of project names, and do not
+let the public sequence silently redefine the semantic architecture.
