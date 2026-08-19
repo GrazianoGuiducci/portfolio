@@ -24,6 +24,10 @@ MAIOS is the current operational and public convergence surface. The earlier
 systems remain important as evidence, infrastructure, reusable components and
 research lineage.
 
+This public hierarchy must remain distinct from semantic ownership: **THIA is
+the total-system relation**, while MAIOS is the current project-centred
+operational/public convergence within that wider field.
+
 ```text
 person / organisation / project
         ↓
@@ -97,14 +101,15 @@ Portfolio card:
   patterns for complete AI-native UX ports.
 - **D-ND Business Skill** — public-clean transferable business operating
   competence derived from the private Business Manager source lane.
-- **THIA** — broader coordination/runtime layer across sites, repositories,
-  agents, memory, services and public/private surfaces.
-- **D-ND kernel and papers** — deeper logical-operational and formal research
-  layer underneath much of the trajectory.
+- **THIA** — the total-system context within which distributed nodes,
+  interfaces, runtimes, services, agents and coordination functions can be
+  instantiated.
+- **D-ND kernel and papers** — deeper logical/cognitive and formal research
+  source underneath important parts of the trajectory.
 
 ## Evidence architecture
 
-The public review order is now:
+The **public review order** is now:
 
 ```text
 current work / MAIOS
@@ -113,13 +118,15 @@ what can be used, configured or inspected
         ↓
 Project Kernel / RepoKernel / Seed / UX / Lab evidence
         ↓
-THIA and wider system architecture
+THIA total-system context
         ↓
 D-ND research kernel / papers / earlier lineage
 ```
 
-This ordering changes public hierarchy, not technical ownership. Earlier
-repositories remain their own source authorities.
+This ordering changes public hierarchy, not semantic containment or technical
+ownership. Earlier repositories remain their own source authorities.
+
+For the semantic architecture, see [System Architecture](docs/system-architecture.md).
 
 ## Selected evidence
 
@@ -185,8 +192,8 @@ Public examples:
 | d-nd-seed | demonstrated | portable procedure layer |
 | Agentic UX Skill / UX-AI Seed | demonstrated / evolving | portable AI-native UX behavior-contract layer |
 | D-ND Business Skill | public-clean transferable skill | reusable business operating procedure; private Business Manager state excluded |
-| THIA | demonstrated with private implementation | wider coordination/runtime layer with public surfaces |
-| D-ND kernel | formal / deep research layer | introduced after operating evidence |
+| THIA | total-system relation with multiple implemented incarnations | whole-system context; do not reduce it to one runtime/coordination layer |
+| D-ND kernel | formal / deep research layer | logical/cognitive research source introduced after operating evidence |
 | persistent autonomous governors / unrestricted self-modification | not demonstrated | do not use as current public capability claim |
 
 ## Evidence map
