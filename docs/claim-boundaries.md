@@ -21,8 +21,8 @@ autonomy, scientific status, host support or private implementation detail.
 
 Allowed when kept specific:
 
-- MAIOS is the current operational convergence of a substantial part of the
-  portfolio work.
+- MAIOS is the current project-centred operational/public convergence of a
+  substantial part of the portfolio work.
 - Its public surface exposes guided setup, a self-configuring project package,
   Project Kernel/component explanations, contextual chat, ecosystem/editorial
   views and a human consulting route.
@@ -33,6 +33,7 @@ Allowed when kept specific:
 
 Do not generalise this into:
 
+- MAIOS being the whole THIA system;
 - universal host compatibility;
 - automatic management of arbitrary tools/accounts/services;
 - unrestricted autonomous operation;
@@ -54,7 +55,9 @@ Use when backed by the relevant surface:
 - rejected-claim or failure memory;
 - seed/reentry procedures;
 - lab.d-nd.com as a working Lab transfer surface;
-- THIA as wider coordination/runtime infrastructure with public surfaces;
+- concrete THIA incarnations such as distributed nodes, interfaces, services,
+  agents and coordination/runtime functions, while preserving THIA's identity
+  as the total-system relation;
 - Agentic UX behavior contracts and reusable interface patterns.
 
 ## Prototype / planned boundary
@@ -139,7 +142,16 @@ promoted physics result.
 ## Public identity boundary
 
 MAIOS may be presented as the current operational/public convergence without
-claiming semantic or legal ownership of every earlier repository.
+claiming semantic or legal ownership of every earlier repository and without
+reclassifying THIA as a module.
+
+The semantic distinction is:
+
+```text
+THIA = total-system relation
+D-ND = logical/cognitive kernel and deeper research source
+MAIOS = current project-centred operational/public convergence
+```
 
 D-ND, THIA, RepoKernel, Labs, Seeds and related work retain their own source and
 technical identity.
@@ -158,7 +170,7 @@ real project / AI operating need
 -> what can be used or inspected
 -> evidence and maturity
 -> reusable components
--> deeper research architecture and lineage
+-> deeper total-system / research architecture and lineage
 ```
 
 Do not require deep theory, frontier claims or internal vocabulary before a
