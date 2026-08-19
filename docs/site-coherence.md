@@ -2,91 +2,152 @@
 
 This file defines the intended relationship between the public surfaces.
 
+It is a portfolio/source document only. Live `d-nd.com` changes must follow the
+site's Siteman/Codex publication path; this repository does not directly publish
+or mutate the live site.
+
 ## Surface roles
 
 ```text
-d-nd.com
-→ main narrative, portfolio, ecosystem entry, partner review
+maios.it
+→ current operational/public convergence
+→ AI setup, Project Kernel, components, contextual chat, consulting,
+  ecosystem and editorial entry
+
+d-nd.com / portfolio
+→ Graziano Guiducci technical portfolio
+→ evidence map, research trajectory, deeper architecture and partner review
 
 lab.d-nd.com
-→ operational proof, domain transfer, dashboard, MetaLab direction
+→ Lab-cycle proof, domain transfer, dashboard and MetaLab direction
 
 seed.d-nd.com
-→ portable procedures, installable continuity, hooks, safety, reentry
+→ portable procedures, continuity, hooks, safety, skills and reentry
 ```
 
-## d-nd.com
+## maios.it
 
 Primary function:
 
-> explain the ecosystem without forcing the deepest D-ND vocabulary first.
+> provide the current entry surface for applying and understanding the AI
+> operating system around real projects.
 
-First public frame:
+The public MAIOS frame should make clear:
 
-> self-maintaining agentic R&D systems.
+- the project/context comes first;
+- Project Kernel, models, tools, memory and competences are composed around it;
+- setup and self-configuring package routes exist;
+- human consulting is an explicit parallel route;
+- tools/accounts/services enter only when actually connected and authorised;
+- current capability is distinguished from future automation.
 
-D-ND appears as:
+MAIOS is the convergence surface, not a claim that every earlier repository has
+lost its own ownership or identity.
 
-> the logical-operational kernel underneath the systems.
+## d-nd.com / portfolio
 
-Needed alignment:
+Primary function:
 
-- Portfolio page should lead with operating value.
-- D-ND model pages can hold deeper explanation.
-- AI Lab page should connect to lab.d-nd.com as operational proof.
-- THIA page should clarify coordination/runtime role.
+> show the evidence, capabilities, research systems and genealogy behind the
+> current work without forcing the deepest D-ND vocabulary first.
+
+The portfolio should now read approximately:
+
+```text
+Graziano / current AI-systems work
+        ↓
+MAIOS as current operational convergence
+        ↓
+reusable components and inspectable evidence
+        ↓
+Labs / THIA / wider architecture
+        ↓
+D-ND research source and earlier lineage
+```
+
+Needed alignment for the next Siteman/Codex site pass:
+
+- add MAIOS to the portfolio first frame;
+- stop presenting AI Lab, Domain Labs, Seed, RepoKernel, THIA and skills as a
+  flat set of equal current identities;
+- retain their maturity/evidence cards underneath the current frame;
+- expose operational awareness and autopoietic evolution as bounded research
+  directions;
+- keep GitHub as evidence/source rather than the first explanatory layer;
+- preserve the existing visual language unless the site owner selects a wider
+  redesign.
 
 ## lab.d-nd.com
 
 Primary function:
 
-> show that a Lab can be transferred into domains.
+> show inspectable Lab cycles and the transfer of operating research methods
+> into domains.
 
 First public frame:
 
-> domain + intent → blueprint → Lab cycle → dashboard → reusable procedure.
+> domain + intent → reviewable blueprint → Lab cycle → reports/gates/memory.
 
 Needed alignment:
 
-- Avoid presenting Physics/Math as the whole system.
-- Emphasize reusable Lab template and domain transfer.
-- Keep MetaLab as prototype/product direction.
-- Keep public visitor actions separate from manager mutations.
+- avoid presenting Physics/Math as the whole system;
+- emphasize reusable Lab structure and domain transfer;
+- keep MetaLab as prototype direction;
+- keep public visitor actions separate from manager/runtime mutations.
 
 ## seed.d-nd.com
 
 Primary function:
 
-> show that stable procedures become installable behavior.
+> show how stable procedures and competences become portable behavior.
 
 First public frame:
 
-> reentry, memory, hooks, safety, skills, evals and Lab patterns for AI coders.
+> reentry, memory, hooks, safety, skills, evals and reusable patterns for AI
+> coders and agentic systems.
 
 Needed alignment:
 
-- Do not frame seed as just scripts.
-- Connect seed to verified residue from Lab/THIA work.
-- Show installability and procedure portability.
+- do not frame Seed as just scripts;
+- connect portable behavior to reviewed operating experience;
+- show installability/portability without implying universal host support.
 
-## Cross-site message
+## Cross-surface message
 
-Use the same sentence family across all sites:
+Use the same relation across surfaces without forcing identical copy:
 
-> The system preserves intent across context transitions by exposing state, evidence, failure, memory and constraints; generating tools when needed; blocking premature promotion; and turning verified residue into reusable procedures.
+> Real context first. Preserve what matters through change. Keep evidence,
+> uncertainty, review and direction visible. Turn useful operating experience
+> into reusable competence.
+
+## Awareness and autopoiesis boundary
+
+Across public surfaces:
+
+- **awareness** means operational/system awareness tied to context, state,
+  source, evidence, limits, uncertainty, memory and action;
+- **autopoiesis** is a research direction toward reviewable self-preservation
+  and competence evolution;
+- neither term implies consciousness, unrestricted self-modification or
+  independent effect authority.
 
 ## Avoid cross-site drift
 
-Do not let one site present:
+Do not let one surface present:
 
-- D-ND as the first comprehension requirement;
-- Lab as only dashboard;
-- Seed as only utility pack;
-- THIA as only private repo;
-- Physics Lab as central claim.
+- the historical D-ND-first hierarchy as if it were still the current public
+  convergence;
+- MAIOS as universal automation without evidence;
+- Lab as only a dashboard;
+- Seed as only a utility pack;
+- THIA as only a private repository;
+- Physics Lab as a promoted scientific result;
+- old AI Business Operating Review naming as the current public Business Skill
+  identity.
 
-## Recommended site revision order
+## Current revision order
 
-1. lab.d-nd.com — because it is the proof and transfer surface.
-2. seed.d-nd.com — because it shows portability.
-3. d-nd.com / portfolio — because it synthesizes all surfaces.
+1. **portfolio source repository** — align current hierarchy and evidence.
+2. **d-nd.com / portfolio via Siteman + Codex** — project this source into the
+   live site without bypassing the site publication system.
+3. Other surfaces only when a concrete inconsistency remains after that pass.
