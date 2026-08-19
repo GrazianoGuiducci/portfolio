@@ -1,61 +1,118 @@
 # Work Page Draft
 
-Suggested URL: `https://d-nd.com/work` or `https://d-nd.com/ai-systems`
+Status: **source copy candidate only**
+
+Any live `d-nd.com` implementation must go through the current Siteman + Codex
+publication workflow.
+
+Suggested future route: `https://d-nd.com/work` or `https://d-nd.com/ai-systems`
 
 ## Hero
 
-### Self-maintaining agentic systems for complex R&D workflows.
+### AI systems that preserve context, competence and direction through change.
 
-I build AI systems that preserve intent across context transitions by exposing state, evidence, failure, memory and constraints; generating tools when needed; blocking premature promotion; and turning verified operational residue into reusable procedures.
+I have a multidisciplinary background across technical, creative and humanistic
+fields. I apply that systemic perspective to the design and development of AI
+systems: how context, memory, models, tools, competences, verification and human
+interaction can remain coherent while the work evolves.
 
-The D-ND kernel powers the deeper logic. The first evaluation point is practical: can the system keep direction, recover from error and improve its own operating loop?
+**MAIOS — Multi AI Operative System** is the current project-centred
+operational convergence of a substantial part of this work.
 
 Primary links:
 
+- MAIOS: https://maios.it
 - Portfolio: https://d-nd.com/portfolio/
-- AI Lab: https://d-nd.com/ai-lab
-- Lab surface: https://lab.d-nd.com/
-- Lab dashboard: https://lab.d-nd.com/dashboard/
-- Seed: https://seed.d-nd.com/
-- d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
+- Evidence repository: https://github.com/GrazianoGuiducci/portfolio
 
 ## What I work on
 
-### Agentic R&D systems
+### AI systems architecture
 
-Multi-step AI workflows with memory, tool use, domain state, recovery, evaluation loops and clear operational boundaries.
+Project-centred architectures that compose context, state, models, tools,
+memory, sources and competences rather than treating each AI interaction as an
+isolated chat.
 
-### Self-maintaining Labs
+### System / operational awareness
 
-Lab cycles that reconstruct a live field, turn tensions into experiments or tools, falsify outputs, block premature promotion and write the next direction.
+Ways for a system to reconstruct relevant context, state, sources, evidence,
+limits, uncertainty and memory so those distinctions can change the next
+action.
 
-### Agentic UX
+This is operational awareness, not a claim of consciousness or subjective
+experience.
 
-Interfaces for delegation, transparency, interruption, reviewability, autonomy levels and human control over AI work.
+### Continuity
 
-### Operating scaffolds
+Project Kernel, reentry, memory and source distinction designed so relevant
+intent and direction can survive changes of session, model, tool or host.
 
-Boot, reentry, compact recovery, safety boundaries, failure memory and promotion of stable rules into reusable seeds.
+### Reviewable autopoietic evolution
 
-### Research-to-tool transfer
+Research into systems that can learn from operational experience and reorganise
+memory, competence or function through reviewed evolution.
 
-Systems that turn repeated procedures into seeds, skills, kernels, templates, dashboards and domain Labs.
+Autopoiesis does not mean unrestricted self-modification or independent effect
+authority.
 
-### D-ND kernel
+### Agentic and multi-AI systems
 
-The logical-operational kernel underneath the work: transition, residue, memory, non-promotion, controlled regeneration and continuity through state change.
+Multi-step workflows with tool use, memory, recovery, evaluation loops and
+explicit operational boundaries.
 
-## Case studies
+### AI-native UX
+
+Interfaces for contextual collaboration, delegation, transparency,
+interruption, inspection and reviewable action.
+
+### Research-to-competence transfer
+
+Turning repeated operating knowledge into Project Kernels, seeds, skills,
+behavior contracts, procedures, templates and reusable functions.
+
+## Current convergence — MAIOS
+
+MAIOS brings a Project Kernel, project context, models, tools, memory,
+competences and sources into a persistent operating environment for real
+AI-assisted work.
+
+The current public surface includes:
+
+- guided Setup AI;
+- a self-configuring project package;
+- Project Kernel/component explanations;
+- contextual MAIOS Chat;
+- ecosystem/System Atlas views;
+- editorial guides;
+- a human consulting route.
+
+Current evidence supports a demonstrated Codex setup/reentry path for the
+self-configuring Project Kernel package. Broader host validation remains open.
+
+Link: https://maios.it
+
+## Selected evidence
+
+### RepoKernel / Project Kernel
+
+RepoKernel is a generative metakernel/source for project-kernel structures. The
+generated Project Kernel is the situated project operating seed and owner of
+its project state.
+
+Link: https://github.com/GrazianoGuiducci/RepoKernel
 
 ### AI Lab
 
-A self-maintaining research cycle that tests, filters and transforms outputs instead of treating generated text as final.
+An inspectable research cycle that reconstructs a field, turns tensions into
+experiments, separates production from falsification, blocks unsupported
+promotion and preserves useful failure.
 
 Link: https://d-nd.com/ai-lab
 
 ### Domain Labs / lab.d-nd.com
 
-A transfer surface where domain + intent can become a reviewable Lab: blueprint, cycle contract, dashboard, reports, falsifiers and reusable procedures.
+A transfer surface for reviewable Lab structures, dashboards, reports, gates
+and domain-specific cycles.
 
 Links:
 
@@ -64,54 +121,62 @@ Links:
 
 ### d-nd-seed
 
-Portable AI-coder seed for reentry, memory, hooks, safety guards, skill activation and Lab patterns.
+Portable AI-coder procedures for reentry, memory, hooks, safety guards, skills
+and Lab patterns.
 
 Links:
 
 - https://seed.d-nd.com/
 - https://github.com/GrazianoGuiducci/d-nd-seed
 
-### THIA
+### Agentic UX Skill
 
-Coordination/runtime layer for sites, repositories, Labs, coders, assistants, memory and routing.
+Reusable behavior contracts and interface patterns for complete AI-native UX
+ports.
 
-Links:
+Link: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
 
-- https://d-nd.com
-- https://d-nd.com/thia
+### D-ND Business Skill
+
+Public-clean transferable business operating competence for mapping context,
+surfaces, evidence, opportunities, boundaries and bounded next actions.
+
+Link: https://github.com/GrazianoGuiducci/dnd-business-skill
 
 ### Physics/Math Lab
 
-High-friction stress test where the system learned falsification, non-promotion and controlled regeneration under difficult scientific pressure.
+High-friction stress test for falsification, non-promotion and controlled
+regeneration.
 
-Status: applied case, not first public promise.
+Status: evidence of research discipline, not a promoted physics result.
 
-### D-ND Papers
+## Deeper system relation
 
-Formal support and deeper kernel material.
+The public work page should not force this architecture first, but it must not
+contradict it:
 
-Link: https://github.com/GrazianoGuiducci/d-nd-papers
+```text
+THIA = total-system relation
+D-ND = logical/cognitive kernel and deeper research source
+THIAMAN = manager / architect function
+Multi_Agent_OS = distributed presentation / execution surface
+MAIOS = current project-centred operational/public convergence
+```
 
-## Evidence
-
-- Public D-ND site and THIA surfaces.
-- AI Lab.
-- Live dashboard exposing Lab state.
-- Public repositories for runtime, seed and applied domain evidence.
-- Seed surface and installable procedure layer.
-- Paper Zero and formal support.
-- Repository maturity audit and evidence map in the portfolio repository.
+The fact that MAIOS appears first publicly changes reading order, not semantic
+containment.
 
 ## Collaboration fit
 
-Best fit:
+Relevant contexts include:
 
-- agentic AI systems;
-- R&D tooling;
-- AI-native UX;
-- observability/evaluation;
-- human-in-the-loop control;
-- AI-coder infrastructure;
-- industrial or scientific workflows where outputs must be tested, remembered and promoted carefully.
+- AI systems architecture and integration;
+- agentic and multi-AI systems;
+- AI adoption in company/professional workflows;
+- Project Kernel, memory and continuity;
+- AI-native UX and human-AI interaction;
+- observability, evaluation and safety;
+- research tooling and self-correcting workflows;
+- competence engineering and reusable AI operating methods.
 
 Portfolio: https://d-nd.com/portfolio/
