@@ -20,9 +20,12 @@ proporre cambiamenti a memoria, competenze, funzioni e organizzazione senza
 perdere continuità, verificabilità, possibilità di revisione e distinzione
 dell'autorità di effetto.
 
-Il principale punto di convergenza operativa attuale è MAIOS, mentre D-ND,
-THIA, RepoKernel, i Labs, i Seed e le competenze sviluppate nel tempo rimangono
-fonti, infrastruttura, componenti ed evidenze della traiettoria.
+Il principale punto di convergenza operativa e pubblica attuale è MAIOS. Questa
+posizione non ridefinisce la gerarchia semantica del lavoro: THIA rimane il
+sistema totale, D-ND il nucleo logico/cognitivo e una sorgente profonda della
+ricerca, mentre RepoKernel, Labs, Seed e competenze sviluppate nel tempo
+rimangono infrastrutture, componenti, evidenze e linee evolutive con la propria
+identità.
 
 ## Valore trasferibile
 
