@@ -12,8 +12,9 @@ Review priority follows current relevance, inspectability and public role.
   competences, guided setup and continued AI work. Public surface:
   https://maios.it
 
-MAIOS is presented first because it is the current operational/public layer. It
-does not replace the technical ownership of the projects below.
+MAIOS is presented first because it is the current operational/public
+convergence. This is a review-order choice, not a claim that MAIOS is the total
+system or owns the projects below.
 
 ## Reusable infrastructure and competences
 
@@ -42,21 +43,29 @@ does not replace the technical ownership of the projects below.
 - **MetaLab direction** — domain + intent + materials → blueprint → Lab template
   → cycle contract. Status: prototype / in refinement.
 
-## Wider coordination architecture
+## Total-system context
 
-- [THIA](thia/README.md) — wider coordination/runtime layer for sites,
-  repositories, Labs, coders, assistants, memory, routing and public/private
-  surfaces.
+- [THIA](thia/README.md) — total-system relation / whole ecosystem context.
+  Concrete THIA incarnations include distributed nodes, interfaces, runtimes,
+  services, agents, memory and coordination functions, but THIA itself should
+  not be reduced to one coordination/runtime layer.
 
-THIA remains a significant system and lineage source, but is no longer placed
-as the first public peer to MAIOS in this portfolio hierarchy.
+THIA is intentionally not placed first in the **public review order** because a
+new reader should be able to evaluate the current operational result before
+reconstructing the total-system architecture.
+
+Where deeper architecture is useful:
+
+- **THIAMAN** — manager / architect function;
+- **Multi_Agent_OS** — distributed presentation / execution surface;
+- models, agents, nodes and tools — situated operational instances.
 
 ## Formal kernel / source layer
 
 - [D-ND Papers](dnd-papers/README.md) — formal/research layer around the D-ND
   map and Paper Zero.
 - [Condensed D-ND Kernel](../research/condensed-kernel.md) — compact technical
-  reading of the deeper operating logic.
+  reading of the deeper logical/cognitive operating source.
 
 ## Applied stress tests
 
@@ -80,15 +89,21 @@ as the first public peer to MAIOS in this portfolio hierarchy.
 ## Curation rule
 
 The portfolio should not flatten every valid repository into an equal
-first-contact identity.
+first-contact identity, and it should not confuse public order with semantic
+containment.
 
 ```text
+PUBLIC REVIEW
 current operational convergence
 -> usable capability / entry route
 -> inspectable evidence and reusable components
--> wider architecture
--> deeper research source
+-> total-system and deeper research context
 -> historical lineage
+
+SEMANTIC RELATION
+THIA = total system
+D-ND = logical/cognitive kernel
+MAIOS = current project-centred operational/public convergence
 ```
 
 Maturity and claim boundaries remain explicit at every layer.
