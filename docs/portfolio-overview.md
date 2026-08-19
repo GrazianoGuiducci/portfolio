@@ -4,8 +4,8 @@
 
 I design and build AI systems that preserve context, memory, competence and
 direction through change. **MAIOS — Multi AI Operative System** is the current
-operational convergence of this work; the portfolio exposes the components,
-research systems and evidence underneath it.
+project-centred operational convergence of this work; the portfolio exposes the
+components, research systems and evidence underneath it.
 
 ## What the portfolio shows
 
@@ -17,6 +17,7 @@ verification, reusable competence and AI-native interaction has progressively
 become composable in a current operating system.
 
 ```text
+PUBLIC REVIEW ORDER
 real person / organisation / project
         ↓
 MAIOS
@@ -27,11 +28,21 @@ continued work / review / evolution
         ↓
 RepoKernel / Seed / Agentic UX / Business Skill / Lab evidence
         ↓
-THIA / D-ND / deeper research and lineage
+THIA total-system context
+        ↓
+D-ND deeper research source and lineage
 ```
 
-The public review path should start from the current system and what can be
-used or inspected, then move toward the evidence and research underneath.
+The public review path starts from the current system and what can be used or
+inspected, then moves toward the evidence and deeper architecture.
+
+This does not change the semantic relation:
+
+```text
+THIA = total-system relation
+D-ND = logical/cognitive kernel and deeper research source
+MAIOS = current project-centred operational/public convergence
+```
 
 ## What this shows first
 
@@ -46,8 +57,8 @@ used or inspected, then move toward the evidence and research underneath.
 - Lab cycles that produce, falsify, block, remember and redesign.
 - Portable infrastructure and competences through RepoKernel, Seed, Agentic UX
   and public-clean skills.
-- THIA and D-ND as wider architecture and deeper research lineage rather than
-  required first-contact vocabulary.
+- THIA as the total-system context and D-ND as a deeper logical/cognitive
+  research source, without requiring either as first-contact vocabulary.
 
 ## Transferable value
 
@@ -112,7 +123,7 @@ levels of maturity.
 
 ## Current top layer
 
-The current review order is:
+The current **review order** is:
 
 1. MAIOS: https://maios.it
 2. MAIOS portfolio card: [projects/maios/README.md](../projects/maios/README.md)
@@ -121,8 +132,12 @@ The current review order is:
 5. AI Lab: https://d-nd.com/ai-lab
 6. lab.d-nd.com and dashboard: https://lab.d-nd.com/
 7. d-nd-seed and Agentic UX as portable evidence.
-8. THIA as wider coordination architecture.
+8. THIA as the total-system context.
 9. D-ND kernel/papers and earlier systems as deeper source and lineage.
+
+Where semantic architecture needs more detail, THIAMAN is the manager/architect
+function and Multi_Agent_OS is the distributed presentation/execution surface.
+They are not mandatory first-contact concepts.
 
 ## Role translation
 
@@ -151,5 +166,5 @@ The current review order is:
 4. Open the public technical portfolio: https://d-nd.com/portfolio/
 5. Inspect RepoKernel and the portable competence layers.
 6. Open the AI Lab and Lab transfer surfaces.
-7. Review THIA and D-ND only after the current operating system and evidence are
-   already visible.
+7. Review THIA as total-system context and D-ND as deeper research source only
+   after the current operating system and evidence are already visible.
