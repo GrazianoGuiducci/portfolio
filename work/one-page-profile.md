@@ -32,9 +32,12 @@ The public surface includes guided setup, a self-configuring project package,
 contextual chat, system/component views, editorial guidance and a human
 consulting route.
 
-Earlier work — D-ND, THIA, RepoKernel, Labs, Seeds, Agentic UX and related
-competences — remains visible as infrastructure, evidence and research lineage
-rather than as a flat list of equal public identities.
+This public convergence is distinct from the deeper semantic hierarchy:
+**THIA is the total-system relation**, while D-ND is a logical/cognitive and
+research source beneath important parts of the architecture. RepoKernel, Labs,
+Seeds, Agentic UX and related competences remain visible as infrastructure,
+evidence and research lineage rather than as a flat list of equal public
+identities.
 
 ## Transferable value
 
@@ -84,7 +87,8 @@ experience into reusable competence.
   https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
 - **D-ND Business Skill** — public-clean transferable business competence:
   https://github.com/GrazianoGuiducci/dnd-business-skill
-- **THIA / D-ND / Papers** — wider coordination and deeper research lineage.
+- **THIA** — total-system context; **D-ND / Papers** — deeper logical/cognitive
+  and formal research lineage.
 
 ## Public boundary
 
