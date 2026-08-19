@@ -1,28 +1,33 @@
-# AI Business Operating Review
+# AI Business Operating Review — historical public identity
 
-Status: public-clean package published / site page pending
+Status: **superseded public identity / retained as lineage**
 
-AI Business Operating Review is a Business Manager product candidate for people
-and teams using AI/coder tools who need continuity across business context,
-public assets, project evidence, contacts and next actions.
+This card is preserved because it records an important stage in the
+productisation of the Business Manager method. It should no longer be used as
+the current public identity of that competence.
 
-## Problem
+Current public-clean identity:
 
-AI-assisted work often spreads across chat sessions, repos, folders, sites,
-portfolio pages, LinkedIn drafts, contacts and private context. Useful material
-exists, but the next business action becomes unclear.
+- **D-ND Business Skill** — https://github.com/GrazianoGuiducci/dnd-business-skill
 
-## Mechanism
+Canonical private/source competence:
 
-The review uses the Business Manager competence system plus a product
-architecture pass. It produces a compact operating packet:
+- **D-ND Business Manager** — private source lane; not a public proof link.
+
+## Historical purpose
+
+AI Business Operating Review was developed as a product-architecture candidate
+for people and teams using AI/coder tools who needed continuity across business
+context, public assets, project evidence, contacts and next actions.
+
+Its operating relation was:
 
 ```text
 competence -> context -> surfaces -> opportunities -> boundaries -> evidence
--> first action
+-> first bounded action
 ```
 
-The packet includes:
+Typical outputs included:
 
 - business surface map;
 - opportunity snapshot;
@@ -31,43 +36,56 @@ The packet includes:
 - first bounded action;
 - reentry notes for the next AI/coder session.
 
-## Evidence
+These functions contributed to the reusable method that is now represented
+publicly by D-ND Business Skill.
 
-- Public-clean package: https://github.com/GrazianoGuiducci/ai-business-operating-review
-- Site/product page: pending product-family organization pass.
-- Private Business Manager source exists, but is not a public proof link.
-- Related project-continuity method: https://github.com/GrazianoGuiducci/RepoKernel
+## Why the identity changed
 
-## Relationship To RepoKernel
+The older name described one product/review form too narrowly and risked being
+mistaken for the whole Business Manager competence.
 
-RepoKernel works on project/repository continuity: source atlas, gates,
-receipts, project kernels and reentry.
-
-AI Business Operating Review works on business continuity around the project:
-offer route, public surface, evidence, contact/follow-up and next action.
-
-Together they form a practical route:
+The current distinction is:
 
 ```text
-project continuity -> business continuity -> public/reviewable proof
+D-ND Business Manager
+  private/source competence
+        ↓ public-clean transferable method
+D-ND Business Skill
+  current public identity
+
+AI Business Operating Review
+  historical product form / lineage
 ```
 
-## Reusable Value
+The portfolio keeps this card to preserve the evolution rather than rewriting
+history.
 
-This product is useful when a user asks:
+## Relationship to RepoKernel and MAIOS
 
-- What can I do with this project/repo/folder now?
-- What should become public, private, offer, proof or follow-up?
-- How should an AI/coder continue this work without restarting from chat?
-- What is the smallest action that creates business value without overclaiming?
+RepoKernel addresses project/repository continuity through source mapping,
+gates, receipts, project kernels and reentry.
+
+D-ND Business Skill addresses business movement around work: surfaces,
+evidence, opportunities, boundaries and bounded next actions.
+
+MAIOS is now the broader current operational/public convergence through which
+project setup, AI-system work and consulting routes can become accessible.
+
+These are related functions, not interchangeable identities.
 
 ## Boundary
 
 No autonomous publishing, outreach, pricing or client commitment is implied.
-Private state, runtime data, logs, secrets and unpublished strategy stay out of
-public material.
+Private Business Manager state, runtime data, contacts, logs, secrets and
+unpublished strategy remain outside public material.
 
-## Next Proof
+## Current evidence route
 
-Review the public-clean package, then decide whether the first public surface
-is a portfolio page, product page, MAIOS route or LinkedIn post.
+Use:
+
+- D-ND Business Skill: https://github.com/GrazianoGuiducci/dnd-business-skill
+- RepoKernel: https://github.com/GrazianoGuiducci/RepoKernel
+- MAIOS: https://maios.it
+
+Keep the old AI Business Operating Review repository/page only as historical
+reference until a separate cleanup/deprecation action is selected.
