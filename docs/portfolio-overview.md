@@ -2,109 +2,154 @@
 
 ## One-line summary
 
-I build **self-maintaining agentic R&D systems**: systems that preserve intent across context transitions by exposing state, evidence, failure, memory and constraints; generating tools when needed; blocking premature promotion; and turning verified residue into reusable procedures.
+I design and build AI systems that preserve context, memory, competence and
+direction through change. **MAIOS — Multi AI Operative System** is the current
+operational convergence of this work; the portfolio exposes the components,
+research systems and evidence underneath it.
 
 ## What the portfolio shows
 
-This portfolio is not a list of isolated repositories.
+This portfolio is not a list of isolated repositories and it is no longer best
+read as a flat D-ND ecosystem map.
 
-It is an ecosystem where a human-originated research intent is operationalized through a D-ND logical kernel, coordinated by THIA, tested in AI Lab cycles, transferred into domain Labs and packaged as installable seeds.
+It shows a trajectory in which research on continuity, operational awareness,
+verification, reusable competence and AI-native interaction has progressively
+become composable in a current operating system.
 
 ```text
-Intent / source
+real person / organisation / project
         ↓
-D-ND logical-operational kernel
+MAIOS
         ↓
-THIA coordination layer
+Project Kernel + context + models + tools + memory + competences
         ↓
-AI Lab cycle
+continued work / review / evolution
         ↓
-Domain Labs / Seeds / Papers
+RepoKernel / Seed / Agentic UX / Business Skill / Lab evidence
+        ↓
+THIA / D-ND / deeper research and lineage
 ```
 
-The public review path should start from the systems and surfaces, then move toward D-ND as the underlying kernel.
+The public review path should start from the current system and what can be
+used or inspected, then move toward the evidence and research underneath.
 
 ## What this shows first
 
-- A working direction for self-maintaining agentic R&D workflows.
-- Public surfaces where state, Lab cycles and transfer paths can be inspected.
-- AI Lab cycles that produce, falsify, block, remember and redesign.
-- Domain Lab transfer beyond the original Physics/Math Lab.
-- Seed packaging for portable procedures, reentry, memory and safety.
-- THIA as runtime/coordination infrastructure across sites, APIs, nodes and memory.
-- A D-ND kernel that explains the logic of transition, residue, non-promotion and controlled regeneration.
+- MAIOS as a current public/operational surface rather than only a research
+  concept.
+- A self-configuring Project Kernel direction with current Codex setup/reentry
+  evidence and explicit remaining host validation.
+- Mechanisms for preserving and reconstructing context, state, sources,
+  uncertainty and direction.
+- Reviewed evolution paths for memory, competence, skill/function and other
+  system-change candidates.
+- Lab cycles that produce, falsify, block, remember and redesign.
+- Portable infrastructure and competences through RepoKernel, Seed, Agentic UX
+  and public-clean skills.
+- THIA and D-ND as wider architecture and deeper research lineage rather than
+  required first-contact vocabulary.
 
 ## Transferable value
 
-The transferable value is not “a model to believe in”. It is an operating discipline:
+The transferable value is not a model to believe in. It is a system-design and
+operating discipline for AI-assisted work:
 
 ```text
-field → hypothesis/tension → experiment/tool → falsifier → gate → memory → next cycle
+context / intent
+-> situated operating state
+-> action / experiment
+-> evidence / review / falsification
+-> memory / competence delta
+-> recoverable next direction
 ```
 
 This is useful for:
 
-- agentic AI systems;
-- R&D workflows;
+- AI system architecture and integration;
+- agentic and multi-AI systems;
+- project continuity and operational memory;
 - AI-native UX and human-AI collaboration;
 - evaluation, safety and observability;
-- AI-coder infrastructure;
-- long-running projects where state, evidence and decisions must survive context shifts.
+- AI-coder and Project Kernel infrastructure;
+- research tooling and self-correcting workflows;
+- organisations introducing AI into real processes.
+
+## Research direction
+
+The work tends toward systems that can remain coherent while changing.
+
+Key directions:
+
+- **operational/system awareness** — reconstructing context, state, source,
+  evidence, limits, uncertainty and memory so they can affect action;
+- **continuity** — preserving recoverable intent and direction across changes
+  of session, model, tool or host;
+- **autopoietic evolution** — learning from operating experience and
+  reorganising memory, competence or function through reviewed change;
+- **reviewable autonomy** — preserving explicit boundaries between proposal,
+  review, permission and effect;
+- **human-AI collaboration** — interfaces and workflows in which the system's
+  state and possibilities remain legible.
+
+Autopoiesis here is a research direction, not unrestricted self-modification or
+independent authority. Awareness is operational/system awareness, not a claim
+of consciousness or subjective experience.
 
 ## Why it matters
 
-Long AI-assisted work tends to fail because systems:
+Long AI-assisted work tends to fail when systems:
 
 - lose why a decision was made;
-- repeat corrected mistakes after compaction or handoff;
-- produce fluent reports without falsification;
-- promote plausible claims too early;
-- hide operational state inside conversation text;
-- lack a way to turn useful residue into reusable procedures.
+- lose context or direction after compaction, session change or handoff;
+- mix source, inference and proposal;
+- repeat corrected mistakes;
+- produce fluent outputs without falsification;
+- hide state and uncertainty inside conversation text;
+- fail to turn useful operating experience into reusable competence.
 
-This portfolio shows mechanisms for those failures:
-
-```text
-live field → separate producer/falsifier → gated decision → memory → reusable procedure
-```
+This portfolio contains mechanisms addressing those failures at different
+levels of maturity.
 
 ## Current top layer
 
-The current top layer should be reviewed in this order:
+The current review order is:
 
-1. Main site and portfolio.
-2. THIA public surface.
-3. AI Lab page.
-4. lab.d-nd.com and dashboard.
-5. d-nd-seed.
-6. D-ND Lab runtime and applied domain repositories.
-7. D-ND Papers / formal anchor.
-8. Earlier systems as lineage.
+1. MAIOS: https://maios.it
+2. MAIOS portfolio card: [projects/maios/README.md](../projects/maios/README.md)
+3. Technical portfolio: https://d-nd.com/portfolio/
+4. RepoKernel: https://github.com/GrazianoGuiducci/RepoKernel
+5. AI Lab: https://d-nd.com/ai-lab
+6. lab.d-nd.com and dashboard: https://lab.d-nd.com/
+7. d-nd-seed and Agentic UX as portable evidence.
+8. THIA as wider coordination architecture.
+9. D-ND kernel/papers and earlier systems as deeper source and lineage.
 
 ## Role translation
 
-- Agentic AI systems.
+- AI Systems Architect / agentic systems.
+- Multi-AI and AI integration architecture.
+- Project Kernel, memory and context persistence.
 - AI-native UX and human-AI interaction.
 - Evaluation loops, safety and observability.
-- Memory, tool use and context persistence.
-- Research tooling and self-correcting Lab workflows.
+- Research tooling and reviewable system evolution.
 - AI-coder continuity and operational infrastructure.
 
 ## Reference areas
 
-- Machine learning, operational awareness, agentic tools and cognitive kernels.
-- UX-AI design, cognitive media and information-transfer dynamics between human, model and system.
+- Machine learning, operational/system awareness, agentic tools and cognitive
+  kernels.
+- Autopoiesis, competence evolution and continuity through change.
+- UX-AI design, cognitive media and information-transfer dynamics between
+  human, model and system.
 - Logic, semantics, ontology and information theory.
 
 ## Suggested review path
 
 1. Read the [Reviewer Evidence Map](reviewer-evidence.md).
-2. Open the main D-ND site: https://d-nd.com
-3. Open the THIA public surface: https://d-nd.com/thia
-4. Open the AI Lab: https://d-nd.com/ai-lab
-5. Open the Lab surface: https://lab.d-nd.com/
-6. Open the live dashboard: https://lab.d-nd.com/dashboard/
-7. Read the [D-ND Lab](../projects/dnd-lab/README.md) card.
-8. Read the [d-nd-seed](../projects/dnd-seed/README.md) card.
-9. Read [THIA](../projects/thia/README.md).
-10. Review D-ND Papers and lineage after the operating system is already in view.
+2. Open MAIOS: https://maios.it
+3. Read the [MAIOS portfolio card](../projects/maios/README.md).
+4. Open the public technical portfolio: https://d-nd.com/portfolio/
+5. Inspect RepoKernel and the portable competence layers.
+6. Open the AI Lab and Lab transfer surfaces.
+7. Review THIA and D-ND only after the current operating system and evidence are
+   already visible.
