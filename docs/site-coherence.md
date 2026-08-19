@@ -10,13 +10,13 @@ or mutate the live site.
 
 ```text
 maios.it
-→ current operational/public convergence
+→ current project-centred operational/public convergence
 → AI setup, Project Kernel, components, contextual chat, consulting,
   ecosystem and editorial entry
 
 d-nd.com / portfolio
 → Graziano Guiducci technical portfolio
-→ evidence map, research trajectory, deeper architecture and partner review
+→ evidence map, research trajectory, semantic architecture and partner review
 
 lab.d-nd.com
 → Lab-cycle proof, domain transfer, dashboard and MetaLab direction
@@ -24,6 +24,23 @@ lab.d-nd.com
 seed.d-nd.com
 → portable procedures, continuity, hooks, safety, skills and reentry
 ```
+
+These are **public-surface roles**, not a complete semantic containment map.
+
+## Semantic reference
+
+The source hierarchy to preserve across public projections is:
+
+```text
+THIA = total-system relation / whole ecosystem context
+D-ND = logical/cognitive kernel and deeper research source
+THIAMAN = manager / architect function
+Multi_Agent_OS = distributed presentation / execution surface
+MAIOS = current project-centred operational/public convergence
+```
+
+A site may show MAIOS before THIA for comprehension without redefining THIA as
+a module inside MAIOS.
 
 ## maios.it
 
@@ -41,15 +58,16 @@ The public MAIOS frame should make clear:
 - tools/accounts/services enter only when actually connected and authorised;
 - current capability is distinguished from future automation.
 
-MAIOS is the convergence surface, not a claim that every earlier repository has
-lost its own ownership or identity.
+MAIOS is the current convergence surface, not a claim that every earlier
+repository has lost its own ownership or identity and not the total definition
+of THIA.
 
 ## d-nd.com / portfolio
 
 Primary function:
 
 > show the evidence, capabilities, research systems and genealogy behind the
-> current work without forcing the deepest D-ND vocabulary first.
+> current work without forcing the deepest internal vocabulary first.
 
 The portfolio should now read approximately:
 
@@ -60,7 +78,9 @@ MAIOS as current operational convergence
         ↓
 reusable components and inspectable evidence
         ↓
-Labs / THIA / wider architecture
+Labs / competences / Project Kernel infrastructure
+        ↓
+THIA as total-system context
         ↓
 D-ND research source and earlier lineage
 ```
@@ -71,6 +91,8 @@ Needed alignment for the next Siteman/Codex site pass:
 - stop presenting AI Lab, Domain Labs, Seed, RepoKernel, THIA and skills as a
   flat set of equal current identities;
 - retain their maturity/evidence cards underneath the current frame;
+- explain THIA as the total-system relation when semantic architecture is
+  shown, not as a mere coordination/runtime layer;
 - expose operational awareness and autopoietic evolution as bounded research
   directions;
 - keep GitHub as evidence/source rather than the first explanatory layer;
@@ -137,10 +159,11 @@ Do not let one surface present:
 
 - the historical D-ND-first hierarchy as if it were still the current public
   convergence;
-- MAIOS as universal automation without evidence;
+- public review order as semantic containment;
+- THIA as merely a runtime/coordination module or only a private repository;
+- MAIOS as the whole THIA system or as universal automation without evidence;
 - Lab as only a dashboard;
 - Seed as only a utility pack;
-- THIA as only a private repository;
 - Physics Lab as a promoted scientific result;
 - old AI Business Operating Review naming as the current public Business Skill
   identity.
