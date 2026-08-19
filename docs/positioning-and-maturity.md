@@ -1,89 +1,136 @@
 # Positioning and Maturity
 
-This file freezes the current public positioning and claim boundaries for the portfolio.
+This file defines the current public hierarchy and claim boundaries for the
+portfolio. It is not a historical inventory.
 
 ## Current positioning
 
-The safest and strongest public positioning is:
+The portfolio represents multidisciplinary work on AI systems that preserve and
+reconstruct context, memory, competence, intent and direction while remaining
+inspectable and reviewable through change.
 
-> self-maintaining agentic R&D systems.
+The current operational convergence is:
 
-Expanded:
+> **MAIOS — Multi AI Operative System**
 
-> systems that preserve intent across context transitions by exposing state, evidence, failure, memory and constraints; generating tools when needed; blocking premature promotion; and turning verified operational residue into reusable procedures.
-
-D-ND is the kernel underneath. It should not be the first comprehension barrier.
+MAIOS should be understood first as the present system in which a substantial
+part of the prior work becomes usable together. D-ND, THIA, RepoKernel, Labs,
+Seeds, Agentic UX and other components remain evidence, infrastructure and
+research lineage rather than equal first-contact identities.
 
 ## Public hierarchy
 
 ```text
-1. Intent / operating problem
-2. Agentic Lab cycle and evidence
-3. Domain transfer and seed portability
-4. THIA coordination/runtime layer
-5. D-ND logical-operational kernel
-6. Formal source / papers / deeper model language
+1. Person / organisation / real project need
+2. MAIOS — current operational convergence and entry surface
+3. Setup / Project Kernel / integration / continued work / consulting route
+4. Reusable components and evidence: RepoKernel, Seed, Agentic UX, Business Skill
+5. Research systems and falsification evidence: AI Lab / Domain Labs
+6. Wider coordination architecture: THIA
+7. D-ND logical-operational source and formal research
+8. Earlier lineage
 ```
+
+This is a presentation hierarchy. It does not transfer semantic ownership from
+one repository or system to another.
+
+## Research direction
+
+The portfolio may describe the following as research directions when the
+boundary is explicit:
+
+- operational/system awareness;
+- continuity through context and host transitions;
+- reviewable competence evolution;
+- autopoietic AI architectures;
+- multi-AI and agentic coordination;
+- AI-native human-system interaction;
+- falsification, non-promotion and useful failure memory.
+
+**Autopoietic** does not mean unrestricted self-modification. It refers to the
+direction of systems able to preserve themselves, learn from operating
+experience and reorganise memory, competence or function through reviewable
+change.
 
 ## Maturity tags
 
-Use these tags internally before publishing claims.
+Use these tags before publishing claims.
 
 | Tag | Public use |
 | --- | --- |
-| demonstrated | can be shown through public site, repository, screenshot, artifact or live behavior |
+| demonstrated | supported by public surface, repository, artifact or observed behavior |
+| demonstrated / evolving | real current system with active development and explicit open proof |
 | prototype | real direction and partial implementation, still in refinement |
-| planned | coherent architecture, requires resources/runtime/domain work |
+| planned | coherent architecture requiring further runtime/domain work |
 | private | exists internally but is not public proof |
-| not for public claim | should not be used in portfolio or outreach |
+| lineage | historical source or precursor, not a current first-contact identity |
+| not demonstrated | do not state as current capability |
 
 ## Component maturity
 
 | Component | Maturity | Public framing |
 | --- | --- | --- |
-| d-nd.com | demonstrated | main ecosystem entry point |
+| MAIOS public surface | demonstrated / evolving | current operational convergence; setup, components, contextual chat, consulting and ecosystem entry |
+| MAIOS self-configuring Project Kernel package | demonstrated on current Codex evidence / evolving | project-specific operating seed; broader host validation remains open |
+| RepoKernel | public source / generative infrastructure | generates project-kernel structures; not itself the generated project owner |
+| AI Lab cycle | demonstrated | inspectable self-maintaining research cycle |
 | lab.d-nd.com | demonstrated / prototype | public Lab transfer surface and dashboard |
-| AI Lab cycle | demonstrated | self-maintaining research cycle |
-| Physics/Math Lab | demonstrated stress test | high-friction falsification and non-promotion case |
-| Domain transfer | prototype | domain + intent → blueprint → Lab template |
-| MetaLab | planned / prototype | installer direction, not mature product |
-| RepoKernel | public source / product architecture candidate | project continuity for AI/coder sessions |
-| d-nd-seed | demonstrated | portable procedure layer |
-| AI Business Operating Review | product architecture candidate | business continuity around AI/coder work |
-| THIA | demonstrated with private implementation | coordination/runtime layer with public surfaces |
-| D-ND kernel | formal / deep layer | introduced after evidence |
-| R&D pilot route | proposal | bounded applied R&D evaluation path |
-| memory pruning / autonomous curator | planned / partial | do not overclaim without implementation boundary |
-| persistent sub-agent governors | planned / partial | resource-activated potential |
+| Physics/Math Lab | demonstrated stress test | high-friction falsification/non-promotion case, not a promoted physics result |
+| Domain transfer / MetaLab | prototype | domain + intent → blueprint → Lab template direction |
+| d-nd-seed | demonstrated | portable procedure and continuity layer |
+| Agentic UX Skill / UX-AI Seed | demonstrated / evolving | portable AI-native UX behavior-contract layer |
+| D-ND Business Skill | public-clean transferable skill | reusable procedure; private Business Manager state excluded |
+| AI Business Operating Review | lineage / superseded public identity | historical product identity, not the current public Business Skill name |
+| THIA | demonstrated with private implementation | wider coordination/runtime layer with public surfaces |
+| D-ND kernel | formal / deep research layer | introduced after operating evidence |
+| persistent autonomous governors | planned / partial | resource-activated direction; do not overclaim |
+| unrestricted self-modification | not demonstrated | prohibited as current capability claim |
 
 ## Claims allowed
 
-Allowed:
+Allowed when tied to the relevant evidence:
 
-- The system preserves intent through context transitions.
-- The Lab reconstructs a live field before acting.
-- The Lab separates production from falsification.
-- The Lab can block promotion and turn blocks into useful feedback.
-- Domain Labs are a transfer mechanism, not just dashboards.
-- Seeds package procedures that survive the cycle.
-- THIA coordinates public surfaces, runtime, memory and workstreams.
-- D-ND is the logical-operational kernel underneath the system.
+- MAIOS is the current operational convergence of a substantial part of the
+  portfolio work.
+- The public MAIOS surface includes guided setup, a self-configuring project
+  package, component/ecosystem views, contextual chat, editorial guidance and a
+  human consulting route.
+- Current owner-native evidence demonstrates a Codex setup/reentry path for the
+  self-configuring Project Kernel package.
+- The system work preserves or reconstructs context, state, source distinction,
+  memory and direction across defined transitions.
+- Lab systems separate production from falsification and can block promotion.
+- Seeds and skills package reusable operating procedures.
+- Operational awareness can be discussed when tied to observable state,
+  evidence, limits, memory and action.
+- Autopoietic architecture can be discussed as a research direction under
+  review and effect-authority boundaries.
 
 ## Claims to avoid
 
 Avoid:
 
-- Anthropomorphic or subjective-experience claims.
-- The system has unrestricted self-modification.
-- The Physics Lab is presented as a promoted domain result.
-- MetaLab can already install any Lab end-to-end without supervision.
-- D-ND must be understood before the system can be evaluated.
-- Private runtime state is public evidence.
+- consciousness or subjective-experience claims;
+- unrestricted self-modification or independent authority;
+- universal host compatibility before host-specific proof exists;
+- presenting the Physics Lab as a promoted physics result;
+- presenting planned enterprise automation as already active;
+- treating private runtime state as public evidence;
+- implying MAIOS legally owns every prior project because it is the current
+  convergence surface;
+- forcing D-ND or any deep research vocabulary as a prerequisite for evaluating
+  current work.
 
-## Recommended one-liner
+## Recommended first-contact frame
 
-> I build self-maintaining agentic R&D systems that preserve intent across context transitions, falsify their own outputs, remember failures and turn verified operational residue into reusable procedures.
+> I design and build AI systems that preserve context, memory, competence and
+> direction through change. MAIOS is the current operational convergence of
+> this work; the portfolio exposes the components, research systems and evidence
+> underneath it.
 
-## Shorter version
+## Research-facing frame
 
-> Agentic Labs that keep intent alive through error, memory, verification and controlled regeneration.
+> The work explores operational awareness, continuity and reviewable
+> autopoietic evolution: how AI systems can reconstruct their context, learn
+> from operating experience and change what they do without losing evidence,
+> reviewability or human effect boundaries.
