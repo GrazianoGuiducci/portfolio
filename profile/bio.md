@@ -1,35 +1,54 @@
 # Profile
 
-Dal 2022 Graziano Guiducci sviluppa il livello operativo attorno all'IA
-agentica: memoria, boot, verifica, interfacce cognitive, crivelli decisionali e
-workflow agentici che preservano direzione nel tempo.
+Ho un percorso multidisciplinare, costruito tra ambiti tecnici, creativi e
+umanistici. Nel tempo queste prospettive sono confluite in un modo sistemico di
+affrontare problemi complessi, che oggi applico soprattutto alla progettazione
+e allo sviluppo di sistemi di intelligenza artificiale.
 
-Il focus attuale è l'ecosistema D-ND Lab, d-nd-seed e THIA/Gödel/CEC: Lab
-autonomi di ricerca, regole operative portabili per AI coder e superfici vive
-per memoria, routing, crivello, inversione, stato e guida umana.
+Dal 2022 il lavoro si concentra in particolare sulla capacità dei sistemi IA di
+preservare nel tempo contesto, memoria, competenze, intento e direzione anche
+quando cambiano modelli, strumenti, ambienti e condizioni operative.
+
+Una parte centrale della ricerca riguarda la **consapevolezza di sistema**:
+ricostruire il contesto in cui un sistema opera, distinguere fonti, stato,
+conoscenza, incertezza e possibilità e usare questa comprensione per orientare
+ciò che accade successivamente.
+
+La direzione comprende inoltre sistemi **autopoietici**: architetture capaci di
+evolvere attraverso l'esperienza operativa, consolidare ciò che apprendono e
+proporre cambiamenti a memoria, competenze, funzioni e organizzazione senza
+perdere continuità, verificabilità, possibilità di revisione e distinzione
+dell'autorità di effetto.
+
+Il principale punto di convergenza operativa attuale è MAIOS, mentre D-ND,
+THIA, RepoKernel, i Labs, i Seed e le competenze sviluppate nel tempo rimangono
+fonti, infrastruttura, componenti ed evidenze della traiettoria.
 
 ## Valore trasferibile
 
-Porto metodi e strumenti per rendere agenti IA più continui, verificabili,
-ispezionabili e capaci di operare su cicli lunghi.
+Progetto metodi, architetture e strumenti per rendere i sistemi IA più
+continui, contestuali, verificabili, ispezionabili e capaci di sviluppare
+competenze riutilizzabili attraverso il lavoro reale.
 
 ## Ambiti applicativi
 
-- Sistemi IA agentici.
-- UX-AI e interazione umano-IA.
-- Evaluation loop, safety e osservabilità.
-- Memoria, tool use e persistenza del contesto.
-- Strumenti di ricerca e workflow Lab autonomi.
+- Architetture IA agentiche e multi-AI.
+- Project Kernel, memoria operativa e persistenza del contesto.
+- AI-native UX e interazione umano-IA.
+- Evaluation loop, safety, osservabilità e revisione.
+- Integrazione dell'IA in progetti, processi e organizzazioni.
+- Strumenti di ricerca e workflow auto-correttivi.
 
 ## Ambiti di riferimento
 
-- Machine learning, AI awareness, kernel cognitivi e strumenti agentici.
-- Design UX-AI, media cognitivi e dinamiche di trasferimento
+- System awareness, continuità e architetture cognitive/operative.
+- Autopoiesi, apprendimento operativo e sviluppo di competenze.
+- Design AI-native, media cognitivi e dinamiche di trasferimento
   dell'informazione tra umano, modello e sistema.
 - Logica, semantica, ontologia e teoria dell'informazione.
 
 ## Angolo di revisione
 
-Il portfolio è scritto per lettori tecnici che valutano progettazione di
-sistemi, disciplina operativa, architettura di workflow IA e capacità di
-trasformare ricerca astratta in strumenti funzionanti.
+Il portfolio è scritto per chi vuole valutare ciò che esiste e ciò verso cui il
+lavoro tende distinguendo capacità dimostrate, sistemi in evoluzione, ricerca,
+prototipi e possibilità ancora da verificare.
