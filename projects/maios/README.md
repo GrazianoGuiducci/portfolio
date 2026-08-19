@@ -89,13 +89,18 @@ that can learn from operational experience and reorganise memory, competences
 and functions through reviewable change. This is a research direction, not a
 claim of unrestricted self-modification or independent authority.
 
-## Relationship to earlier work
+## Relationship to the wider system and earlier work
 
-MAIOS does not erase or semantically absorb the earlier repositories.
+MAIOS does not erase or semantically absorb the earlier repositories, and its
+position as the current public/operational convergence does not make it the
+total system.
 
 ```text
+THIA
+  total-system relation / whole ecosystem context
+
 MAIOS
-  current operational / public convergence
+  current project-centred operational / public convergence
 
 RepoKernel / Project Kernel / skills / seeds
   generative and reusable competence infrastructure
@@ -103,15 +108,23 @@ RepoKernel / Project Kernel / skills / seeds
 AI Lab / Domain Labs
   falsification, research-cycle and transfer evidence
 
-THIA
-  wider coordination/runtime lineage
-
 D-ND
-  deeper logical-operational and research source
+  logical/cognitive and deeper research source
 ```
 
-The portfolio uses this hierarchy so a reviewer can understand the current
-system first and then inspect the evidence and genealogy underneath it.
+Where needed at deeper architecture level, THIAMAN is the manager/architect
+function and Multi_Agent_OS is the distributed presentation/execution surface.
+They are not required first-contact concepts for understanding MAIOS.
+
+The portfolio therefore distinguishes two orders:
+
+```text
+public review order
+  MAIOS first because it is the current usable convergence
+
+semantic system order
+  THIA remains the total-system relation
+```
 
 ## Boundary
 
