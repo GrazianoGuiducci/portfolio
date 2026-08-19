@@ -14,14 +14,17 @@ a substantial part of that work.
 
 The reviewer should therefore not begin from a flat list of D-ND, THIA, Labs,
 Seeds and kernels. The current review path starts from MAIOS and then follows
-the evidence underneath it.
+the evidence and deeper architecture underneath it.
+
+This review order is not semantic containment: **THIA remains the total-system
+relation**.
 
 ## Architecture in review order
 
 ```text
 real project / operating need
         ↓
-MAIOS — current operational convergence
+MAIOS — current project-centred operational convergence
         ↓
 Project Kernel / setup / continued work
         ↓
@@ -29,10 +32,13 @@ RepoKernel / Seed / Agentic UX / reusable competences
         ↓
 AI Lab / Domain Labs / falsification evidence
         ↓
-THIA wider coordination architecture
+THIA — total-system context
         ↓
-D-ND deeper research source / papers / lineage
+D-ND logical/cognitive research source / papers / lineage
 ```
+
+At deeper architecture level, THIAMAN is the manager/architect function and
+Multi_Agent_OS is the distributed presentation/execution surface.
 
 ## What this should prove
 
@@ -53,6 +59,7 @@ A reviewer should be able to verify that:
   and useful failure memory;
 - reusable procedures are extracted into kernels, seeds, skills and behavior
   contracts;
+- public order does not silently redefine the total-system architecture;
 - maturity and missing proof remain visible.
 
 ## Operational awareness boundary
@@ -76,7 +83,7 @@ authority.
 
 | Evidence | Why it matters | Link |
 | --- | --- | --- |
-| MAIOS | Current operational/public convergence and entry surface | https://maios.it |
+| MAIOS | Current project-centred operational/public convergence and entry surface | https://maios.it |
 | MAIOS portfolio card | Review-safe description, evidence and open validation | ../projects/maios/README.md |
 | Technical portfolio | Human-readable map of the wider work | https://d-nd.com/portfolio/ |
 | RepoKernel | Generative project-kernel infrastructure and continuity source | https://github.com/GrazianoGuiducci/RepoKernel |
@@ -86,8 +93,8 @@ authority.
 | d-nd-seed | Portable AI-coder continuity and procedure layer | https://github.com/GrazianoGuiducci/d-nd-seed |
 | Agentic UX Skill | AI-native UX behavior contracts and reusable interface patterns | https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed |
 | D-ND Business Skill | Public-clean reusable business operating competence | https://github.com/GrazianoGuiducci/dnd-business-skill |
-| THIA page | Wider coordination/runtime lineage with public surfaces | https://d-nd.com/thia |
-| D-ND Papers | Formal and deeper research layer | https://github.com/GrazianoGuiducci/d-nd-papers |
+| THIA page | Public view into the total-system context and its incarnations | https://d-nd.com/thia |
+| D-ND Papers | Formal and deeper logical/cognitive research layer | https://github.com/GrazianoGuiducci/d-nd-papers |
 
 ## Evidence maturity
 
@@ -101,7 +108,7 @@ authority.
 | d-nd-seed | demonstrated | repository, hooks, memory, recovery and guards |
 | Agentic UX Skill | demonstrated / evolving | repository, behavior contracts and reusable primitives |
 | D-ND Business Skill | public-clean transferable skill | public repo; private Business Manager state excluded |
-| THIA | demonstrated with private implementation | public surfaces and review-safe architecture |
+| THIA | total-system relation with implemented incarnations | public surfaces plus owner-native architecture; do not reduce to one runtime layer |
 | D-ND kernel | formal / deep research layer | papers, source docs and model pages |
 | Physics/Math Lab | demonstrated stress test | reports and non-promotion cases |
 | Older repositories | lineage | trajectory evidence only |
