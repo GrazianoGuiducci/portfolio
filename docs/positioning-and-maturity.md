@@ -9,14 +9,21 @@ The portfolio represents multidisciplinary work on AI systems that preserve and
 reconstruct context, memory, competence, intent and direction while remaining
 inspectable and reviewable through change.
 
-The current operational convergence is:
+The current operational/public convergence is:
 
 > **MAIOS — Multi AI Operative System**
 
-MAIOS should be understood first as the present system in which a substantial
-part of the prior work becomes usable together. D-ND, THIA, RepoKernel, Labs,
-Seeds, Agentic UX and other components remain evidence, infrastructure and
-research lineage rather than equal first-contact identities.
+MAIOS should be understood first as the present project-centred system in which
+a substantial part of the prior work becomes usable together.
+
+This public positioning does **not** redefine the semantic hierarchy:
+
+> **THIA remains the total-system relation.**
+
+D-ND is the logical/cognitive and deeper research source beneath important
+parts of the architecture. RepoKernel, Labs, Seeds, Agentic UX and other
+competences remain evidence, infrastructure and research lineage rather than
+equal first-contact identities.
 
 ## Public hierarchy
 
@@ -26,13 +33,18 @@ research lineage rather than equal first-contact identities.
 3. Setup / Project Kernel / integration / continued work / consulting route
 4. Reusable components and evidence: RepoKernel, Seed, Agentic UX, Business Skill
 5. Research systems and falsification evidence: AI Lab / Domain Labs
-6. Wider coordination architecture: THIA
-7. D-ND logical-operational source and formal research
+6. THIA — total-system context
+7. D-ND logical/cognitive source and formal research
 8. Earlier lineage
 ```
 
-This is a presentation hierarchy. It does not transfer semantic ownership from
-one repository or system to another.
+This is a **presentation hierarchy**. It does not transfer semantic ownership
+or containment from one system/repository to another.
+
+At deeper architecture level, THIAMAN is the manager/architect function and
+Multi_Agent_OS is the distributed presentation/execution surface. They do not
+need to become first-contact portfolio labels unless a specific explanation
+requires them.
 
 ## Research direction
 
@@ -70,7 +82,7 @@ Use these tags before publishing claims.
 
 | Component | Maturity | Public framing |
 | --- | --- | --- |
-| MAIOS public surface | demonstrated / evolving | current operational convergence; setup, components, contextual chat, consulting and ecosystem entry |
+| MAIOS public surface | demonstrated / evolving | current project-centred operational convergence; setup, components, contextual chat, consulting and ecosystem entry |
 | MAIOS self-configuring Project Kernel package | demonstrated on current Codex evidence / evolving | project-specific operating seed; broader host validation remains open |
 | RepoKernel | public source / generative infrastructure | generates project-kernel structures; not itself the generated project owner |
 | AI Lab cycle | demonstrated | inspectable self-maintaining research cycle |
@@ -81,8 +93,8 @@ Use these tags before publishing claims.
 | Agentic UX Skill / UX-AI Seed | demonstrated / evolving | portable AI-native UX behavior-contract layer |
 | D-ND Business Skill | public-clean transferable skill | reusable procedure; private Business Manager state excluded |
 | AI Business Operating Review | lineage / superseded public identity | historical product identity, not the current public Business Skill name |
-| THIA | demonstrated with private implementation | wider coordination/runtime layer with public surfaces |
-| D-ND kernel | formal / deep research layer | introduced after operating evidence |
+| THIA | total-system relation with implemented incarnations | whole-system context; runtime/coordination is an incarnation/function, not its full semantic identity |
+| D-ND kernel | formal / deep research layer | logical/cognitive research source introduced after operating evidence |
 | persistent autonomous governors | planned / partial | resource-activated direction; do not overclaim |
 | unrestricted self-modification | not demonstrated | prohibited as current capability claim |
 
@@ -92,6 +104,8 @@ Allowed when tied to the relevant evidence:
 
 - MAIOS is the current operational convergence of a substantial part of the
   portfolio work.
+- THIA is the total-system relation; MAIOS being presented first does not make
+  THIA a module inside MAIOS.
 - The public MAIOS surface includes guided setup, a self-configuring project
   package, component/ecosystem views, contextual chat, editorial guidance and a
   human consulting route.
@@ -116,8 +130,9 @@ Avoid:
 - presenting the Physics Lab as a promoted physics result;
 - presenting planned enterprise automation as already active;
 - treating private runtime state as public evidence;
-- implying MAIOS legally owns every prior project because it is the current
-  convergence surface;
+- implying MAIOS semantically or legally owns every prior project because it is
+  the current convergence surface;
+- reducing THIA to one coordination/runtime module;
 - forcing D-ND or any deep research vocabulary as a prerequisite for evaluating
   current work.
 
