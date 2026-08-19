@@ -1,88 +1,159 @@
 # Public Language Boundary
 
-The portfolio must be legible to technical reviewers without forcing them to understand the deepest D-ND vocabulary first.
+The portfolio must be legible to technical reviewers, companies and
+collaborators without forcing them to understand the deepest internal
+vocabulary first.
 
 ## Main rule
 
-Lead with function and evidence.
-
-Then introduce D-ND as the kernel that explains the function.
+Lead with the current system, function and evidence. Introduce deeper research
+language only after the reader can see what exists and what it enables.
 
 ```text
-Do first:  self-maintaining agentic R&D systems
-Do second: powered by the D-ND logical-operational kernel
-Do later:  deeper model/source/metaphysical language
+Do first:  current AI system / operating problem / usable capability
+Do next:   evidence, components, maturity and boundaries
+Do later:  THIA / D-ND / deeper research vocabulary and lineage
 ```
 
 ## First public frame
 
 Preferred:
 
-> I build self-maintaining agentic R&D systems that preserve intent across context transitions by exposing state, evidence, failure, memory and constraints; generating tools when needed; blocking premature promotion; and turning verified residue into reusable procedures.
+> I design and build AI systems that preserve context, memory, competence and
+> direction through change. MAIOS is the current operational convergence of
+> this work; the portfolio exposes the components, research systems and evidence
+> underneath it.
 
 Avoid as first frame:
 
 > I built a D-ND model that transcends contexts.
 
-The second is valid only at a deeper level. It is not a good entry point.
+The second can belong to deeper research discussion. It is not a good entry
+point for evaluating current capability.
+
+## MAIOS language
+
+Correct:
+
+> MAIOS is a Multi AI Operative System and the current operational convergence
+> of a substantial part of this work. It brings project context, a Project
+> Kernel, models, tools, memory and competences into a persistent operating
+> environment for AI-assisted work.
+
+Also correct when describing the public surface:
+
+> The current public MAIOS experience includes guided setup, a self-configuring
+> project package, contextual chat, component/ecosystem views, editorial
+> guidance and a human consulting route.
+
+Avoid:
+
+> MAIOS autonomously manages every tool, account, process or organisation.
+
+Tools, accounts, sensors, services and automations are active only when they are
+actually connected, authorised and evidenced in the target context.
+
+## Project Kernel language
+
+Preferred:
+
+> The Project Kernel is the project-specific operating seed that preserves and
+> reconstructs context, state, sources, direction and reviewed evolution.
+
+RepoKernel remains a separate generative source/metakernel. Do not collapse
+RepoKernel and the generated Project Kernel into one identity.
 
 ## Awareness language
 
-Use “awareness” only in an operational sense and tie it to observable state,
-evidence, limits, memory and action.
+Use **awareness** in an operational/system sense and tie it to observable
+relations that affect action.
 
 Preferred formulations:
 
 - operational awareness;
-- state-aware agentic systems;
-- self-observing operating layer;
-- memory and state exposure;
+- system awareness;
 - context-aware workflows;
-- controlled autonomy;
-- reentry and field recovery.
-
-Avoid unsupported formulations:
-
-- anthropomorphic system claims;
-- unbounded self-description;
-- unsupported inner-state claims;
-- subjective-experience framing.
+- state and source awareness;
+- field/state reconstruction;
+- memory and evidence exposure;
+- reviewable autonomy.
 
 Stable definition:
 
-> Operational awareness means that a system can expose its field, state, evidence, limits, failures and memory in a way that changes the next action.
+> Operational awareness means that a system can reconstruct and expose relevant
+> context, state, sources, evidence, limits, failures, uncertainty and memory in
+> a way that changes the next action.
+
+Avoid unsupported formulations:
+
+- consciousness claims;
+- subjective-experience claims;
+- anthropomorphic inner-state claims;
+- awareness used as a synonym for unrestricted agency.
+
+## Autopoiesis language
+
+Autopoiesis is a legitimate research direction when its boundary is explicit.
+
+Preferred:
+
+> Autopoietic AI architecture explores how a system can preserve itself through
+> change, learn from operational experience and reorganise memory, competence or
+> function through reviewed evolution.
+
+Avoid:
+
+> The system freely rewrites itself and decides its own authority.
+
+Autopoiesis does not imply unrestricted self-modification, automatic promotion,
+independent effect authority or removal of human review.
+
+## Continuity language
+
+Preferred:
+
+> Continuity means that the causally relevant project context, state, sources,
+> decisions and direction can be recovered across changes of session, model,
+> tool or host.
+
+Avoid reducing continuity to raw transcript retention or indiscriminate memory.
 
 ## D-ND language
 
-D-ND is central inside the system, but not always central in first-contact copy.
+D-ND remains a deep research and logical-operational source, but it is no
+longer the first public identity of the whole portfolio.
 
 Correct:
 
-> D-ND is the logical-operational kernel underneath the Lab, Seed and THIA systems.
+> D-ND is part of the deeper logical-operational research lineage underneath
+> several systems and methods represented here.
 
-Avoid opening with:
+Avoid:
 
-> D-ND is the model the reviewer must understand before seeing the system.
+> D-ND must be understood before the current systems can be evaluated.
 
 Better:
 
-> The system can be evaluated operationally first. D-ND explains the structure underneath.
+> Evaluate current systems and evidence first; deeper D-ND material explains
+> part of the architecture and research trajectory underneath.
 
 ## THIA language
 
 Correct:
 
-> THIA is the coordination/runtime layer of the D-ND ecosystem. The implementation repository is private, but THIA has public surfaces.
+> THIA is the wider coordination/runtime layer in the research and system
+> lineage, connecting multiple surfaces, agents, memory and workstreams.
 
-Avoid:
-
-> THIA is a private project.
+Do not place THIA as an equal first-contact peer to MAIOS merely because it
+remains technically significant.
 
 ## Lab language
 
 Correct:
 
-> A Lab is an operating cycle: it reconstructs a field, turns tensions into experiments, falsifies outputs, blocks premature promotion, stores useful residue and updates the next cycle.
+> A Lab is an operating research cycle that reconstructs a field, turns open
+> tensions into experiments, falsifies outputs, blocks premature promotion,
+> stores useful residue and updates the next cycle.
 
 Avoid:
 
@@ -92,46 +163,52 @@ Avoid:
 
 Correct:
 
-> MetaLab is the product direction: domain + intent + materials → reviewable blueprint → Lab template → cycle contract.
+> MetaLab is a prototype direction for domain + intent + materials → reviewable
+> blueprint → Lab template → cycle contract.
 
 Avoid:
 
 > MetaLab automatically installs any Lab today.
 
-Status: prototype / in refinement.
-
 ## Physics Lab language
 
 Correct:
 
-> The Physics/Math Lab is a high-friction stress test for falsification, non-promotion and controlled regeneration.
+> The Physics/Math Lab is a high-friction stress test for falsification,
+> non-promotion and controlled regeneration.
 
-Avoid:
-
-> The Lab should be read as a promoted domain result.
+Avoid presenting it as a promoted physics result.
 
 ## Seed language
 
 Correct:
 
-> Seeds package procedures that survived the operating cycle: reentry, memory, hooks, safety guards, skills, tests and Lab patterns.
+> Seeds package procedures that survived operating work: reentry, memory,
+> hooks, safety guards, skills, tests and Lab patterns.
 
 Avoid:
 
 > d-nd-seed is just a collection of scripts.
 
-## Agentic UX Skill / UX-AI Seed language
+## Agentic UX language
 
 Correct:
 
-> Agentic UX Skill is a portable agent skill and behavior contract map for complete UX ports. It tells an AI coder what must travel together before copying UI: shell, state, resize, mobile behavior and assistant context.
+> Agentic UX Skill is a portable behavior-contract and reusable-pattern layer
+> for complete AI-native UX ports, keeping shell, state, resize, mobile behavior
+> and assistant context together.
 
-Avoid:
+## Business competence language
 
-> UX-AI Seed is just a template pack.
+Current public identity:
 
-Status: demonstrated / evolving. It is evidence for AI-native UX and agentic
-interface design, not a replacement for the operational Lab or Seed kernel.
+> D-ND Business Skill
+
+The older **AI Business Operating Review** name is historical/superseded for the
+public-clean package and should not be used as the current first-contact
+identity.
+
+Private Business Manager state is not public proof.
 
 ## Term translation
 
@@ -144,16 +221,20 @@ interface design, not a replacement for the operational Lab or Seed kernel.
 | cimitero | rejected-claim memory / negative-results archive |
 | seme | portable procedure kernel / installable seed |
 | autologica | recursive self-repair / capability generation |
+| autopoiesi | reviewable self-preservation and competence evolution |
 | non-promozione | promotion gate / blocked claim |
-| consapevolezza | operational awareness / state-aware behavior |
-| sorgente | human-originated research source / intent |
+| consapevolezza | operational/system awareness |
+| sorgente | original source / intent / owner-native evidence |
 
-## Site rule
+## Public-page rule
 
-Public pages should open with:
+Public pages should normally make this sequence legible:
 
-1. the operating problem;
-2. what exists;
-3. what can be inspected;
-4. maturity level;
-5. how D-ND explains the structure underneath.
+1. who / what current system is being evaluated;
+2. the real operating problem or user need;
+3. what exists and can be used or inspected;
+4. maturity and missing proof;
+5. reusable components and evidence;
+6. deeper architecture and research lineage.
+
+Do not flatten the sequence back into a catalogue of project names.
