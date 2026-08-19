@@ -3,114 +3,163 @@
 This document defines how public portfolio claims should be framed.
 
 The portfolio should make the work inspectable without overstating maturity,
-autonomy, scientific status or private implementation detail.
+autonomy, scientific status, host support or private implementation detail.
 
 ## Claim classes
 
 | Class | Public use |
 | --- | --- |
-| demonstrated | Supported by a public site, repository, screenshot, artifact or live behavior. |
+| demonstrated | Supported by public surface, repository, artifact or observed behavior. |
+| demonstrated / evolving | Real current system with explicit remaining proof. |
 | prototype | Real direction and partial implementation, still in refinement. |
-| planned | Coherent architecture that needs more resources, runtime work or domain work. |
+| planned | Coherent architecture that needs further runtime/domain work. |
 | private | Exists internally but is not public proof. |
-| not for public claim | Should not be used as public evidence or first-contact material. |
+| lineage | Historical source or precursor, not current first-contact identity. |
+| not demonstrated | Do not state as a current capability. |
 
-## Demonstrated
+## MAIOS demonstrated / evolving boundary
 
-Use in public copy when backed by inspectable evidence:
+Allowed when kept specific:
+
+- MAIOS is the current operational convergence of a substantial part of the
+  portfolio work.
+- Its public surface exposes guided setup, a self-configuring project package,
+  Project Kernel/component explanations, contextual chat, ecosystem/editorial
+  views and a human consulting route.
+- Current owner-native evidence includes a demonstrated Codex setup/reentry
+  path for the self-configuring Project Kernel package.
+- Project state can distinguish facts, hypotheses, unknowns, possibilities and
+  reviewed evolution candidates.
+
+Do not generalise this into:
+
+- universal host compatibility;
+- automatic management of arbitrary tools/accounts/services;
+- unrestricted autonomous operation;
+- independent effect authority;
+- fully self-modifying AGI claims.
+
+Broader Claude Code, OpenCode and Hermes validation, non-synthetic external
+cases, second-OS reproducibility and remaining latency work stay explicit open
+proof until demonstrated.
+
+## Demonstrated research-system evidence
+
+Use when backed by the relevant surface:
 
 - AI Lab cycle structure;
-- live field reconstruction;
-- producer / falsifier separation;
+- live field/state reconstruction;
+- producer/falsifier separation;
 - gate and non-promotion behavior;
 - rejected-claim or failure memory;
-- seed / reentry concepts;
+- seed/reentry procedures;
 - lab.d-nd.com as a working Lab transfer surface;
-- THIA as runtime coordination infrastructure with public surfaces.
+- THIA as wider coordination/runtime infrastructure with public surfaces;
+- Agentic UX behavior contracts and reusable interface patterns.
 
-## Prototype
+## Prototype / planned boundary
 
-Use with clear maturity language:
+Use maturity language for:
 
-- MetaLab installer;
+- MetaLab installer direction;
 - domain + intent to Lab generation;
-- Blueprint Canvas as staging surface;
-- tool generation lifecycle;
 - memory pruning automation;
-- persistent curator or governor patterns.
+- persistent curator/governor patterns;
+- broader autonomous tool-generation infrastructure;
+- enterprise-scale evaluation or management automation not yet evidenced.
 
-## Planned / Resource-Activated Potential
-
-Use in roadmap or pilot material, not as current evidence:
-
-- industrial-grade sandbox and registry for generated tools;
-- persistent memory curator;
-- persistent sub-agent governors;
-- full domain Lab installer with review chain;
-- enterprise evaluation dashboard.
-
-## Internal / Private
+## Internal / private
 
 Keep out of first-contact public material:
 
-- raw logs;
-- internal VPS paths;
-- bridge details;
-- credentials or environment values;
-- private runtime authority;
-- unfiltered Physics Lab claims;
-- private repository internals.
+- raw runtime logs;
+- internal host paths;
+- credentials, environment values or signed URLs;
+- private authority/control detail;
+- unfiltered private research claims;
+- private Business Manager state;
+- private repository internals that are not intentionally sanitised.
 
-## Physics Boundary
+## Awareness boundary
 
 Use:
 
-> The Physics Lab is a high-friction scientific stress test for falsification, non-promotion and controlled regeneration.
+> Operational/system awareness means reconstructing and exposing relevant
+> context, state, sources, evidence, limits, failures, uncertainty and memory in
+> a way that changes the next action.
 
 Avoid:
 
-> The Lab has unified physics.
+- consciousness claims;
+- subjective-experience claims;
+- anthropomorphic inner-state claims;
+- using awareness as a synonym for unrestricted agency.
 
-The public claim is about the operating discipline learned under a difficult
-domain, not about a promoted physics result.
-
-## Awareness Boundary
-
-Use:
-
-> Operational awareness means exposing field, state, evidence, limits and transformations in a way that changes action.
-
-Avoid anthropomorphic or subjective-experience framing. The portfolio can
-discuss operational awareness when it is tied to state, evidence, limits,
-memory, review and action.
-
-## Autonomy Boundary
+## Autopoiesis boundary
 
 Use:
 
-> Local operational autonomy under explicit gates, review levels and mutation boundaries.
+> Autopoietic AI architecture is a research direction toward systems that can
+> preserve themselves through change, learn from operational experience and
+> reorganise memory, competence or function through reviewed evolution.
+
+Avoid:
+
+> The system freely rewrites itself and decides its own authority.
+
+Autopoiesis does not remove review gates, source distinction, effect authority
+or mutation boundaries.
+
+## Autonomy boundary
+
+Use:
+
+> Operational autonomy exists only within the explicit capabilities, review
+> levels, permissions and mutation/effect boundaries demonstrated for the
+> specific system.
 
 Avoid:
 
 > Unbounded automation.
 
-Autonomy should always be paired with its boundary: human review, promotion
-gate, mutation constraint, public/private separation or prototype status.
+## Physics boundary
 
-## First-Contact Rule
+Use:
 
-Open with:
+> The Physics Lab is a high-friction scientific stress test for falsification,
+> non-promotion and controlled regeneration.
+
+Avoid:
+
+> The Lab has unified physics.
+
+The public claim is about operating discipline and evidence handling, not a
+promoted physics result.
+
+## Public identity boundary
+
+MAIOS may be presented as the current operational/public convergence without
+claiming semantic or legal ownership of every earlier repository.
+
+D-ND, THIA, RepoKernel, Labs, Seeds and related work retain their own source and
+technical identity.
+
+The older **AI Business Operating Review** public identity is historical and
+superseded by the current public-clean **D-ND Business Skill** identity. Private
+Business Manager state is not a public proof surface.
+
+## First-contact rule
+
+Open with the current system, real problem and inspectable capability:
 
 ```text
-self-maintaining agentic R&D systems
+real project / AI operating need
+-> MAIOS / current system
+-> what can be used or inspected
+-> evidence and maturity
+-> reusable components
+-> deeper research architecture and lineage
 ```
 
-Then show evidence:
-
-```text
-AI Lab -> Domain Labs -> Seed -> THIA -> D-ND kernel
-```
-
-Do not make deep theory, frontier claims or unrestricted automation the first
-object a reviewer must accept. Lead with systems, evidence, continuity,
-verification and reusable procedures.
+Do not require deep theory, frontier claims or internal vocabulary before a
+reviewer can understand the current work.
