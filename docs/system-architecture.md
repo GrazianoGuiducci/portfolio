@@ -1,143 +1,232 @@
 # System Architecture
 
-This is the compact architecture reference for the portfolio. It keeps the README, evidence map, project cards, site copy and work profile aligned.
+This is the compact architecture reference for the portfolio. It keeps semantic
+ownership distinct from public presentation order.
 
-## Public-first description
+## Critical distinction
 
-The portfolio demonstrates **self-maintaining agentic R&D systems**.
-
-These systems preserve intent across context transitions by exposing state, evidence, failure, memory and constraints; generating or adapting tools when needed; blocking premature promotion; and turning verified operational residue into reusable procedures.
-
-D-ND is the logical-operational kernel underneath this work. It should be introduced after the practical system is visible.
-
-## Architecture map
+The current public review order and the semantic system hierarchy are **not the
+same thing**.
 
 ```text
-Human-originated research intent / source
-        ↓
-D-ND logical-operational kernel
-        ↓
-THIA coordination and runtime layer
-        ↓
-AI Lab: self-maintaining research cycle
-        ↓
- ┌─────────────────────┬─────────────────────┬─────────────────────┐
- │                     │                     │                     │
-Domain Labs / MetaLab  Seeds                 Papers / formal anchor
-transfer to domains    portable procedures   deeper source logic
+public review order != semantic containment / ownership
 ```
 
-For public pages, compress the map:
+MAIOS can be the first operational/public convergence a visitor sees without
+becoming the total system or absorbing the ownership of earlier systems.
+
+## Semantic hierarchy
+
+The current owner/operator distinction is:
 
 ```text
-Intent → Agentic Lab → Domain transfer → Portable procedures → D-ND kernel underneath
+THIA
+  = total system / whole ecosystem relation
+
+D-ND
+  = logical-cognitive kernel / deep research source
+
+THIAMAN
+  = system manager / architect function
+
+Multi_Agent_OS
+  = distributed presentation / execution surface
+
+models / agents / nodes / tools
+  = situated operational instances and actuators
 ```
 
-## Layer definitions
+Within that total field, **MAIOS — Multi AI Operative System** is the current
+operational and public convergence of a substantial part of the work around
+project context, Project Kernel, models, tools, memory, competences, setup,
+continued work and human collaboration.
 
-### Intent / source
+This relation should not be flattened into either of these mistakes:
 
-The work starts from human-originated research intent. AI is the amplification and operationalization medium, not the source of the model.
+```text
+THIA = one module inside MAIOS
+```
 
-The public copy should not force reviewers into the deepest model language first. The review path starts from what exists and what can be inspected.
+or
 
-### D-ND logical-operational kernel
+```text
+MAIOS = merely another peer project beside every historical component
+```
 
-D-ND is the kernel that gives structure to:
+## Public review hierarchy
 
-- field and context transition;
-- residue and surviving state;
-- falsification and non-promotion;
-- memory selection;
-- reentry after discontinuity;
-- controlled regeneration toward intent;
-- conversion of stable procedures into reusable rules.
+For a person evaluating the current work, use:
 
-D-ND is not presented first as a closed theory. It is introduced as the logic underneath the operating systems.
+```text
+Graziano / real project or organisational need
+        ↓
+MAIOS — current operational/public convergence
+        ↓
+Project Kernel + setup + models + tools + memory + competences
+        ↓
+reusable components and inspectable evidence
+        ↓
+Labs / Seed / Agentic UX / Business Skill / RepoKernel
+        ↓
+THIA as the total-system context
+        ↓
+D-ND and deeper research / papers / lineage
+```
 
-### THIA
+The reader sees the useful present first; the deeper system relation is then
+made explicit rather than hidden.
 
-THIA is the coordination and runtime layer of the ecosystem.
+## MAIOS
 
-It coordinates sites, repositories, Labs, coders, coding agents, assistants, memory, routing, public/private surfaces, research cycles and transfer paths.
+MAIOS is the current operational/public convergence surface for a substantial
+part of the portfolio.
 
-The THIA implementation repository is private. THIA as a system is not private: it has public surfaces and can be described through sanitized architecture, public behavior, screenshots and selected documentation.
+Its present relation is approximately:
+
+```text
+person / organisation / project context
+        ↓
+Project Kernel
+        ↓
+models + tools + memory + competences + sources + state
+        ↓
+continued work / review / evolution
+```
+
+The current public surface exposes guided setup, a self-configuring project
+package, Project Kernel/component explanations, contextual chat, ecosystem
+views, editorial guidance and a human consulting path.
+
+Current owner-native evidence demonstrates a Codex setup/reentry path for the
+self-configuring Project Kernel package. Broader host validation remains open
+and should not be inferred from architecture alone.
+
+## Project Kernel and RepoKernel
+
+The **Project Kernel** is the project-specific operating seed and owner of its
+situated project state.
+
+**RepoKernel** is a separate generative metakernel/source that helps compose
+project-kernel structures. It must not be described as the owner of the project
+it generates.
+
+```text
+RepoKernel
+  generative source / metakernel
+        ↓
+Project Kernel
+  situated project owner / operating seed
+```
+
+## THIA — total system
+
+THIA is the total system relation, not merely a coordination module.
+
+Historical implementation documents in the THIA repository describe concrete
+incarnations such as distributed nodes, container/runtime services, agents,
+Siteman, APIs and bridges. Those implementation views are evidence of how THIA
+has been instantiated, not a reason to reduce THIA itself to one runtime layer.
+
+For the portfolio, therefore:
+
+```text
+THIA = whole-system context
+runtime / coordination / sites / nodes / agents = incarnations or functions
+```
+
+## D-ND
+
+D-ND is the logical-cognitive and research kernel/source beneath important
+parts of the architecture.
+
+It gives structure to recurring concerns such as context transition, residue,
+non-promotion, falsification, reentry, continuity and controlled regeneration.
+It should not be the first comprehension barrier for someone evaluating current
+capability.
+
+## THIAMAN and Multi_Agent_OS
+
+Where these identities are needed:
+
+- **THIAMAN** is the manager/architect function that orchestrates the operating
+  system and prepares the management of agents and higher-level functions;
+- **Multi_Agent_OS** is the distributed presentation/execution surface through
+  which system functions can become operationally accessible.
+
+They should not be introduced in first-contact portfolio copy unless they help
+explain a specific capability or evidence path.
+
+## Labs
+
+AI Lab and Domain Labs are inspectable research-system evidence.
+
+A Lab reconstructs a live field, turns tensions into experiments, separates
+production from falsification, blocks unsupported promotion, preserves useful
+failure and updates the next cycle.
 
 Public surfaces:
 
-- https://d-nd.com
-- https://d-nd.com/thia
 - https://d-nd.com/ai-lab
-
-### AI Lab
-
-The AI Lab is the self-maintaining research cycle.
-
-It does not only produce reports. It reconstructs a live operational field, turns tensions into experiments, generates or adapts tools when needed, falsifies outputs, blocks premature promotion, stores useful residue and modifies the next cycle through gated state changes.
-
-### Domain Labs / MetaLab transfer
-
-Domain Labs transfer the Lab cycle to specific domains.
-
-Public surface:
-
 - https://lab.d-nd.com/
 - https://lab.d-nd.com/dashboard/
 
-MetaLab is the direction of productization: domain + intent + materials become a blueprint, a Lab template, a cycle contract and a reviewable operating surface.
+MetaLab remains a prototype direction for transferring the Lab pattern into
+new domains.
 
-Status: prototype / in refinement.
+## Portable procedures and competences
 
-### Seeds
+Stable operating behavior can be extracted into reusable forms:
 
-Seeds are the portable output layer.
+- RepoKernel / Project Kernel structures;
+- d-nd-seed procedures;
+- Agentic UX behavior contracts;
+- D-ND Business Skill;
+- other reviewed skills, competences and functions.
 
-They package what survives the Lab/THIA/D-ND process into installable procedures, hooks, memory patterns, safety guards, skills, reentry rules and Lab templates.
+This is a portability relation, not evidence that every target host supports
+every capability automatically.
 
-Public surface:
+## Operational awareness
 
-- https://seed.d-nd.com/
-- https://github.com/GrazianoGuiducci/d-nd-seed
+In this portfolio, **operational/system awareness** means that a system can
+reconstruct and expose relevant context, state, sources, evidence, limits,
+failures, uncertainty and memory in a way that changes the next action.
 
-### Papers / formal anchor
+It is not a claim of consciousness or subjective experience.
 
-D-ND Papers and Paper Zero provide formal support and deeper model documentation.
+## Autopoietic direction
 
-They should not be the first review step for applied partners. They become relevant after the system has been seen operating.
+**Autopoietic AI architecture** is a research direction toward systems able to
+preserve themselves through change, learn from operational experience and
+reorganise memory, competence or function through reviewed evolution.
 
-## Operational awareness boundary
-
-In this portfolio, “awareness” means operational awareness. It means that a
-system can:
-
-- preserve and expose context;
-- distinguish evidence, memory, inference and residue;
-- recognize limits and blocked states;
-- let those distinctions modify action;
-- recover after discontinuity;
-- remember decisions and failures;
-- promote only what survives verification.
+It does not imply unrestricted self-modification, automatic promotion or
+independent effect authority.
 
 ## Maturity principle
 
-Every artifact should be read with a maturity tag:
+Every artifact should be read with an explicit maturity boundary:
 
 | Tag | Meaning |
 | --- | --- |
-| demonstrated | already implemented and inspectable through public surface, repo or artifact |
-| prototype | partially implemented, useful but still in refinement |
-| planned | coherent with the architecture, requires resources or runtime work |
+| demonstrated | implemented and inspectable through a current surface, repository or artifact |
+| demonstrated / evolving | real current system with explicit remaining proof |
+| prototype | partially implemented and still in refinement |
+| planned | coherent direction requiring further proof/resources |
 | private | exists internally but is not public evidence |
-| not for public claim | should not be used as public proof |
+| lineage | historical source or precursor |
+| not demonstrated | must not be stated as current capability |
 
 ## Review principle
 
-A reviewer should not be asked to understand the full model before seeing evidence.
+A reviewer should not be asked to understand the full semantic architecture
+before seeing evidence.
 
 Public order:
 
-1. What problem is addressed.
-2. What exists.
-3. What can be inspected.
-4. What maturity each component has.
-5. How D-ND explains the structure underneath.
+1. Who / what current work is being evaluated.
+2. What real problem or project need it addresses.
+3. What exists and can be used or inspected now.
+4. What maturity and missing proof each element has.
+5. Which reusable components and research systems support it.
+6. How THIA, D-ND and the deeper lineage explain the whole relation.
