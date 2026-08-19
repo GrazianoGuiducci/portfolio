@@ -1,202 +1,327 @@
 # Site Page Spec: Portfolio / Technical Review
 
-Suggested public page:
+Target public page:
 
-`https://d-nd.com/portfolio`
+`https://d-nd.com/portfolio/`
+
+## Publication boundary
+
+This file is the **source/specification** for the public portfolio projection.
+
+The live `d-nd.com` site has its own publication architecture. Implementation
+must be performed through the current **Siteman + Codex** workflow. Updating
+this repository does not authorise direct edits, ad-hoc deploys or bypassing
+Siteman.
 
 ## Current decision
 
-The portfolio page is the public landing for technical review.
+The portfolio remains Graziano Guiducci's technical portfolio. It should not be
+turned into a MAIOS product page.
 
-LinkedIn and outreach should point to this page before sending visitors directly to GitHub.
+However, the current page is structurally behind the work: it still presents
+AI Lab, Domain Labs, Seed, RepoKernel, THIA and other components as a relatively
+flat set while MAIOS has become the current operational/public convergence of a
+substantial part of the work.
 
-Reason:
+The new reading order should be:
 
-- the first frame must be practical and reviewable;
-- GitHub is evidence, not the first explanatory layer;
-- D-ND is deep and should be introduced after the operating system is visible.
+```text
+Graziano / current AI-systems work
+        ↓
+MAIOS — current operational/public convergence
+        ↓
+what can be used, configured or inspected
+        ↓
+components, competences and evidence
+        ↓
+research systems and deeper architecture
+        ↓
+THIA total-system context / D-ND research source / lineage
+```
+
+Public order is not semantic containment: THIA remains the total-system
+relation; MAIOS is the current operational/public convergence surface.
 
 ## Goal
 
-Provide a single page that makes the work legible for companies, research groups, AI-native product teams and technical collaborators.
+Make the work legible to companies, professionals, research groups, AI-native
+product teams and technical collaborators without forcing them to decode the
+project genealogy first.
 
-The page should explain:
+The page should answer, in this order:
 
-```text
-self-maintaining agentic R&D systems
-        ↓
-AI Lab / Domain Labs / Seed / THIA
-        ↓
-D-ND logical-operational kernel underneath
-```
+1. Who is Graziano and what kind of AI work is this?
+2. What is the current operational result?
+3. What can a person or organisation do with it?
+4. What capabilities and evidence exist underneath?
+5. What is demonstrated, evolving, prototype or lineage?
+6. What deeper research direction connects the work?
 
-It should clarify that:
+## Visual / UX constraint
 
-- the work concerns intent-preserving agentic systems;
-- Lab cycles are inspectable;
-- domain transfer is visible through lab.d-nd.com;
-- seed packages stable procedures;
-- THIA coordinates runtime and surfaces;
-- D-ND is the kernel, not the first required explanation.
+Do **not** redesign the site merely because the hierarchy changes.
 
-## Visual / UX fit
+Preserve the current `d-nd.com` design system unless a separate design decision
+is made through Siteman:
 
-Use the current `d-nd.com` direction:
-
-- dark, quiet, technical surface;
+- dark, quiet technical surface;
 - restrained green/cyan/amber/purple accents;
 - compact cards and thin borders;
-- content first, proof surfaces immediately visible;
-- maturity labels on evidence cards;
-- no generic freelance-service framing.
+- evidence and maturity visible;
+- strong information hierarchy;
+- no generic agency/freelance visual language.
 
-## Page sections
+The main change is semantic and informational: current convergence first,
+project catalogue second.
 
-### 1. Header
+## Proposed page
 
-Eyebrow: `Technical portfolio`
+### 1. Header — person and current work
+
+Eyebrow:
+
+`Portfolio tecnico`
 
 Title:
 
-`Self-maintaining agentic R&D systems`
+`Graziano Guiducci — AI Systems Portfolio`
 
-Subtitle:
+Suggested subtitle:
 
-`AI systems that preserve intent across context transitions by exposing state, evidence, failure, memory and constraints; generating tools when needed; blocking premature promotion; and turning verified residue into reusable procedures.`
+`Ricerca, progettazione e sviluppo di sistemi IA orientati a continuità,
+consapevolezza operativa, evoluzione delle competenze e collaborazione
+umano-AI. MAIOS è l'attuale convergenza operativa di una parte sostanziale di
+questo lavoro.`
 
 Primary CTA:
 
-- `Open evidence map`
+- `Apri MAIOS`
 
 Secondary CTAs:
 
-- `Open AI Lab`
-- `Open Lab dashboard`
-- `Open Seed`
-- `Open THIA`
+- `Mappa delle evidenze`
+- `Repository portfolio`
 
-### 2. What this portfolio proves
+The header should not enumerate D-ND, THIA, Labs, Seed and every component.
 
-Cards:
+### 2. Current convergence — MAIOS
 
-- Live field and reentry.
-- Producer/falsifier separation.
-- Memory of failure.
-- Promotion gates.
-- Domain transfer.
-- Portable seed procedures.
+Featured block/card larger than the component cards.
 
-### 3. Architecture
+Title:
 
-Visual map:
+`MAIOS — Multi AI Operative System`
 
-```text
-Intent / source
-        ↓
-D-ND kernel
-        ↓
-THIA coordination layer
-        ↓
-AI Lab cycle
-        ↓
-Domain Labs / Seeds / Papers
-```
+Function copy:
 
-Short copy:
+`Un ambiente operativo per costruire e far evolvere l'AI attorno a progetti
+reali, organizzando Project Kernel, contesto, modelli, strumenti, memoria,
+competenze e fonti in una continuità di lavoro verificabile e revisionabile.`
 
-`The public review starts from operating systems and surfaces. D-ND explains the structure underneath.`
+Make visible that the current public experience includes:
 
-### 4. Current systems
+- guided Setup AI;
+- self-configuring project package / Project Kernel;
+- components and ecosystem views;
+- contextual chat;
+- editorial guidance;
+- human consulting route.
 
-Cards:
+Maturity:
 
-- AI Lab
-- lab.d-nd.com / Domain Labs
-- d-nd-seed
-- THIA
-- Physics/Math Lab as stress test
-- D-ND Papers / kernel layer
+`demonstrated / evolving`
+
+Do not make a package version number part of the hero. Release/page copy can
+change faster than this portfolio projection.
+
+### 3. Research direction
+
+A concise block explaining what the work tends toward rather than only what has
+already been built.
+
+Use three or four concepts:
+
+- **system / operational awareness** — relevant context, state, sources,
+  evidence, limits and uncertainty can change action;
+- **continuity** — recoverable context, intent and direction through changes of
+  session, model, tool or host;
+- **autopoietic evolution** — operational experience can become reviewed memory,
+  competence and function changes;
+- **reviewable autonomy** — proposal, verification, permission and effect
+  authority remain distinguishable.
+
+Boundary copy:
+
+`Consapevolezza non significa coscienza soggettiva; autopoiesi non significa
+auto-modifica illimitata o autorità indipendente.`
+
+### 4. Capabilities / transferable value
+
+Cards should describe capabilities before repository names.
+
+Suggested set:
+
+- AI systems architecture and integration;
+- agentic and multi-AI systems;
+- Project Kernel, context and operational memory;
+- competence extraction and reusable skills/procedures;
+- AI-native UX and human-AI interaction;
+- evaluation, falsification, safety and observability;
+- research tooling and self-correcting workflows;
+- AI setup and application to company/professional contexts.
+
+Each capability may link to one or more evidence surfaces underneath.
+
+### 5. Evidence / components
+
+This is where the current component cards belong.
+
+Suggested priority:
+
+1. RepoKernel / Project Kernel relation.
+2. AI Lab.
+3. Domain Labs / lab.d-nd.com.
+4. d-nd-seed.
+5. Agentic UX Skill.
+6. D-ND Business Skill.
+7. Physics/Math Lab as a stress test.
 
 Each card should show:
 
-- title;
-- one-sentence purpose;
+- purpose;
 - maturity;
-- public link;
-- repository link when public;
-- what to inspect.
+- public surface/repository;
+- what it proves;
+- explicit boundary if relevant.
 
-### 5. Evidence path
+Do not use the superseded `AI Business Operating Review` name as the current
+public Business Skill identity. Historical material may remain accessible as
+lineage.
 
-Recommended order:
+### 6. Semantic architecture
 
-1. Main site.
-2. Portfolio page.
-3. AI Lab.
-4. lab.d-nd.com and dashboard.
-5. d-nd-seed / seed.d-nd.com.
-6. THIA public surface.
-7. D-ND Lab / applied domain repository.
-8. D-ND Papers.
-9. Earlier lineage.
+This section should explicitly prevent the public hierarchy from becoming an
+architecture error.
 
-### 6. What to evaluate
+Suggested compact diagram:
 
-- Does the system preserve state?
-- Does it attack its own claims?
-- Does it expose evidence and uncertainty?
-- Does it remember failure?
-- Does it block promotion when something does not hold?
-- Does it create reusable procedure from verified residue?
-- Does the interface separate public proposal from operational mutation?
+```text
+THIA — total system
+│
+├─ D-ND — logical/cognitive and research kernel
+├─ THIAMAN — manager / architect function
+├─ Multi_Agent_OS — distributed presentation / execution surface
+└─ operational incarnations
+      models · agents · nodes · tools · services
 
-### 7. Maturity matrix
+Within the present operational/public field:
+MAIOS = current convergence for project-centred AI work
+```
 
-Use tags:
+If THIAMAN or Multi_Agent_OS would create unnecessary first-contact complexity,
+keep them collapsed behind an expandable/deeper architecture view rather than
+removing the semantic distinction from the source.
 
-- demonstrated;
-- prototype;
-- planned;
-- private;
-- lineage.
+### 7. What to evaluate
 
-### 8. Language boundary
+Questions:
+
+- Does the project preserve/reconstruct relevant context and direction through
+  transitions?
+- Are source, evidence, inference, uncertainty and proposal distinguishable?
+- Can operational experience become reviewed memory or competence?
+- Can weak outputs be challenged or blocked before promotion?
+- Are maturity and missing proof explicit?
+- Are human review and effect authority distinguishable from generated action?
+- Can a new reader enter from a real problem without first learning internal
+  terminology?
+
+### 8. Maturity
+
+Use explicit tags:
+
+- `demonstrated`;
+- `demonstrated / evolving`;
+- `prototype`;
+- `planned`;
+- `private`;
+- `lineage`;
+- `not demonstrated` where needed internally to prevent overclaim.
+
+### 9. Evidence path
+
+Recommended visitor path:
+
+1. MAIOS — `https://maios.it`
+2. Portfolio page — `https://d-nd.com/portfolio/`
+3. RepoKernel — `https://github.com/GrazianoGuiducci/RepoKernel`
+4. AI Lab — `https://d-nd.com/ai-lab`
+5. Lab surface/dashboard — `https://lab.d-nd.com/`
+6. d-nd-seed — `https://github.com/GrazianoGuiducci/d-nd-seed`
+7. Agentic UX Skill — `https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed`
+8. D-ND Business Skill — `https://github.com/GrazianoGuiducci/dnd-business-skill`
+9. THIA/D-ND/deeper research only after the operating evidence is visible.
+
+GitHub portfolio source:
+
+- `https://github.com/GrazianoGuiducci/portfolio`
+
+Reviewer evidence:
+
+- `https://github.com/GrazianoGuiducci/portfolio/blob/main/docs/reviewer-evidence.md`
+
+### 10. Language boundary
 
 Do not open with:
 
-- anthropomorphic system claims;
-- unsupported inner-state claims;
-- physics unification;
-- unbounded automation;
-- D-ND metaphysics.
+- a catalogue of project names;
+- D-ND as a prerequisite;
+- consciousness/subjective-experience claims;
+- unrestricted self-modification;
+- universal automation;
+- a promoted Physics claim;
+- generic marketing promises.
 
 Open with:
 
-- agentic systems;
-- R&D workflows;
-- observability;
-- memory;
-- falsification;
-- controlled promotion;
-- reusable procedures.
+- the person/current work;
+- real AI-system problems;
+- what exists;
+- what can be inspected;
+- where the work tends;
+- maturity and evidence.
 
-### 9. Links
+## Metadata candidate
 
-- Main site: `https://d-nd.com`
-- Portfolio page: `https://d-nd.com/portfolio/`
-- THIA: `https://d-nd.com/thia`
-- AI Lab: `https://d-nd.com/ai-lab`
-- Lab surface: `https://lab.d-nd.com/`
-- Lab dashboard: `https://lab.d-nd.com/dashboard/`
-- Seed surface: `https://seed.d-nd.com/`
-- Portfolio repo: `https://github.com/GrazianoGuiducci/portfolio`
-- Evidence map: `https://github.com/GrazianoGuiducci/portfolio/blob/main/docs/reviewer-evidence.md`
-- D-ND Lab repo: `https://github.com/GrazianoGuiducci/D-ND_LAB`
-- d-nd-seed repo: `https://github.com/GrazianoGuiducci/d-nd-seed`
-- D-ND Papers: `https://github.com/GrazianoGuiducci/d-nd-papers`
+Title:
 
-## Metadata
+`AI Systems Portfolio — Graziano Guiducci`
 
-- title: `Self-maintaining agentic R&D systems — Graziano Guiducci`
-- description: `Agentic AI systems, AI Lab cycles, domain transfer, d-nd-seed, THIA coordination and D-ND logical-operational kernel.`
-- image: clean D-ND/portfolio preview image or page hero capture.
+Description:
+
+`Portfolio tecnico di Graziano Guiducci: MAIOS, sistemi agentici e multi-AI,
+Project Kernel, consapevolezza operativa, continuità, AI-native UX,
+verifica/falsificazione e ricerca sull'evoluzione autopoietica dei sistemi IA.`
+
+Image:
+
+Use a current portfolio/MAIOS-integrated preview generated through the existing
+site asset/Siteman workflow. Do not introduce an external one-off asset path.
+
+## Siteman / Codex handoff contract
+
+Before implementation, Codex should read at minimum:
+
+1. `README.md`
+2. `docs/portfolio-overview.md`
+3. `docs/system-architecture.md`
+4. `docs/positioning-and-maturity.md`
+5. `docs/public-language-boundary.md`
+6. `docs/claim-boundaries.md`
+7. `docs/reviewer-evidence.md`
+8. `projects/maios/README.md`
+9. this file
+
+Then inspect the **current live/site source and Siteman owner-native rules**.
+Do not copy this spec mechanically when current site architecture or Siteman
+contracts require another implementation form. Preserve the semantic result.
