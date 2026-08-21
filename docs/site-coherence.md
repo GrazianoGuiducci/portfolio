@@ -14,6 +14,10 @@ maios.it
 → AI setup, Project Kernel, components, contextual chat, consulting,
   ecosystem and editorial entry
 
+maios.it / kernel_chat
+→ primary conversational-kernel page and installation path
+→ public bridge to the owner repository
+
 d-nd.com / portfolio
 → Graziano Guiducci technical portfolio
 → evidence map, research trajectory, semantic architecture and partner review
@@ -76,28 +80,28 @@ Graziano / current AI-systems work
         ↓
 MAIOS as current operational convergence
         ↓
-reusable components and inspectable evidence
+Project Kernel for projects / kernel_chat for conversational hosts
         ↓
-Labs / competences / Project Kernel infrastructure
+reusable components, Labs, competences and inspectable evidence
         ↓
 THIA as total-system context
         ↓
 D-ND research source and earlier lineage
 ```
 
-Needed alignment for the next Siteman/Codex site pass:
+Current alignment:
 
-- add MAIOS to the portfolio first frame;
-- stop presenting AI Lab, Domain Labs, Seed, RepoKernel, THIA and skills as a
-  flat set of equal current identities;
-- retain their maturity/evidence cards underneath the current frame;
-- explain THIA as the total-system relation when semantic architecture is
-  shown, not as a mere coordination/runtime layer;
-- expose operational awareness and autopoietic evolution as bounded research
+- MAIOS leads the portfolio first frame;
+- kernel_chat is the primary conversational-kernel surface while Project
+  Kernel remains the project-owned form and RepoKernel the generator;
+- AI Lab, Domain Labs, Seed, RepoKernel, THIA and skills are no longer
+  presented as a flat set of equal current identities;
+- their maturity/evidence cards remain underneath the current frame;
+- THIA remains the total-system relation, not a coordination/runtime module;
+- operational awareness and autopoietic evolution remain bounded research
   directions;
-- keep GitHub as evidence/source rather than the first explanatory layer;
-- preserve the existing visual language unless the site owner selects a wider
-  redesign.
+- GitHub remains evidence/source rather than the first explanatory layer;
+- the existing visual language is preserved.
 
 ## lab.d-nd.com
 

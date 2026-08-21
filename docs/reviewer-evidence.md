@@ -28,7 +28,7 @@ MAIOS — current project-centred operational convergence
         ↓
 Project Kernel / setup / continued work
         ↓
-RepoKernel / Seed / Agentic UX / reusable competences
+kernel_chat / RepoKernel / Seed / Agentic UX / reusable competences
         ↓
 AI Lab / Domain Labs / falsification evidence
         ↓
@@ -59,6 +59,8 @@ A reviewer should be able to verify that:
   and useful failure memory;
 - reusable procedures are extracted into kernels, seeds, skills and behavior
   contracts;
+- a conversational host can receive a user-owned continuity and competence
+  harness without being described as a local agent runtime;
 - public order does not silently redefine the total-system architecture;
 - maturity and missing proof remain visible.
 
@@ -85,6 +87,7 @@ authority.
 | --- | --- | --- |
 | MAIOS | Current project-centred operational/public convergence and entry surface | https://maios.it |
 | MAIOS portfolio card | Review-safe description, evidence and open validation | ../projects/maios/README.md |
+| kernel_chat | Primary conversational kernel, ChatGPT adapter and user-owned persistence package | https://github.com/GrazianoGuiducci/kernel_chat |
 | Technical portfolio | Human-readable map of the wider work | https://d-nd.com/portfolio/ |
 | RepoKernel | Generative project-kernel infrastructure and continuity source | https://github.com/GrazianoGuiducci/RepoKernel |
 | AI Lab | Inspectable research cycle, falsification and promotion discipline | https://d-nd.com/ai-lab |
@@ -102,6 +105,7 @@ authority.
 | --- | --- | --- |
 | MAIOS public surface | demonstrated / evolving | maios.it, setup/components/consulting/ecosystem/editorial surfaces |
 | MAIOS self-configuring Project Kernel package | demonstrated on current Codex evidence / evolving | owner-native state and public package; broader host validation open |
+| kernel_chat 0.4.0 | public source / first integrated release | repository, architecture and configured ChatGPT adapter; real-use assimilation and second-host portability open |
 | RepoKernel | public source / generative infrastructure | repository, project-kernel methodology and generated structures |
 | AI Lab cycle | demonstrated | AI Lab page, Lab docs and dashboard evidence |
 | Domain Lab surface | demonstrated / prototype | lab.d-nd.com, dashboard and template docs |

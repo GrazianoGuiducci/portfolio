@@ -30,7 +30,7 @@ equal first-contact identities.
 ```text
 1. Person / organisation / real project need
 2. MAIOS — current operational convergence and entry surface
-3. Setup / Project Kernel / integration / continued work / consulting route
+3. Setup / Project Kernel / kernel_chat / integration / continued work / consulting route
 4. Reusable components and evidence: RepoKernel, Seed, Agentic UX, Business Skill
 5. Research systems and falsification evidence: AI Lab / Domain Labs
 6. THIA — total-system context
@@ -84,6 +84,7 @@ Use these tags before publishing claims.
 | --- | --- | --- |
 | MAIOS public surface | demonstrated / evolving | current project-centred operational convergence; setup, components, contextual chat, consulting and ecosystem entry |
 | MAIOS self-configuring Project Kernel package | demonstrated on current Codex evidence / evolving | project-specific operating seed; broader host validation remains open |
+| kernel_chat 0.4.0 | public source / first integrated release | primary conversational kernel; ChatGPT and GitHub adapters implemented, real-use assimilation and second-host portability remain open |
 | RepoKernel | public source / generative infrastructure | generates project-kernel structures; not itself the generated project owner |
 | AI Lab cycle | demonstrated | inspectable self-maintaining research cycle |
 | lab.d-nd.com | demonstrated / prototype | public Lab transfer surface and dashboard |
@@ -109,6 +110,9 @@ Allowed when tied to the relevant evidence:
 - The public MAIOS surface includes guided setup, a self-configuring project
   package, component/ecosystem views, contextual chat, editorial guidance and a
   human consulting route.
+- `kernel_chat` extends a user-owned project harness into cloud chat through
+  host and persistence adapters; the current release implements ChatGPT and
+  GitHub without claiming that either is the kernel's final boundary.
 - Current owner-native evidence demonstrates a Codex setup/reentry path for the
   self-configuring Project Kernel package.
 - The system work preserves or reconstructs context, state, source distinction,

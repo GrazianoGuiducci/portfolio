@@ -69,6 +69,18 @@ Preferred:
 RepoKernel remains a separate generative source/metakernel. Do not collapse
 RepoKernel and the generated Project Kernel into one identity.
 
+## kernel_chat language
+
+Preferred:
+
+> kernel_chat is a portable conversational kernel that extends the harness
+> normally available to a local application or agentic system into cloud chats
+> and small conversational hosts without a durable project filesystem.
+
+ChatGPT is the first host adapter and GitHub the first persistence adapter.
+Neither is the identity or final boundary of the kernel. Keep `kernel_chat`, a
+project-owned Project Kernel and the RepoKernel generator distinct.
+
 ## Awareness language
 
 Use **awareness** in an operational/system sense and tie it to observable

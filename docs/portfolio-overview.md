@@ -22,7 +22,10 @@ real person / organisation / project
         ↓
 MAIOS
         ↓
-Project Kernel + context + models + tools + memory + competences
+local or agentic project → Project Kernel
+cloud chat / small conversational host → kernel_chat
+        ↓
+context + sources + models + tools + memory + competences
         ↓
 continued work / review / evolution
         ↓
@@ -50,6 +53,9 @@ MAIOS = current project-centred operational/public convergence
   concept.
 - A self-configuring Project Kernel direction with current Codex setup/reentry
   evidence and explicit remaining host validation.
+- `kernel_chat` as the primary conversational kernel: a public package that
+  extends a user-owned project harness into cloud chat without treating the
+  host or the first persistence adapter as the kernel's final boundary.
 - Mechanisms for preserving and reconstructing context, state, sources,
   uncertainty and direction.
 - Reviewed evolution paths for memory, competence, skill/function and other
@@ -127,13 +133,14 @@ The current **review order** is:
 
 1. MAIOS: https://maios.it
 2. MAIOS portfolio card: [projects/maios/README.md](../projects/maios/README.md)
-3. Technical portfolio: https://d-nd.com/portfolio/
-4. RepoKernel: https://github.com/GrazianoGuiducci/RepoKernel
-5. AI Lab: https://d-nd.com/ai-lab
-6. lab.d-nd.com and dashboard: https://lab.d-nd.com/
-7. d-nd-seed and Agentic UX as portable evidence.
-8. THIA as the total-system context.
-9. D-ND kernel/papers and earlier systems as deeper source and lineage.
+3. `kernel_chat`: [projects/kernel-chat/README.md](../projects/kernel-chat/README.md)
+4. Technical portfolio: https://d-nd.com/portfolio/
+5. RepoKernel: https://github.com/GrazianoGuiducci/RepoKernel
+6. AI Lab: https://d-nd.com/ai-lab
+7. lab.d-nd.com and dashboard: https://lab.d-nd.com/
+8. d-nd-seed and Agentic UX as portable evidence.
+9. THIA as the total-system context.
+10. D-ND kernel/papers and earlier systems as deeper source and lineage.
 
 Where semantic architecture needs more detail, THIAMAN is the manager/architect
 function and Multi_Agent_OS is the distributed presentation/execution surface.
@@ -163,8 +170,9 @@ They are not mandatory first-contact concepts.
 1. Read the [Reviewer Evidence Map](reviewer-evidence.md).
 2. Open MAIOS: https://maios.it
 3. Read the [MAIOS portfolio card](../projects/maios/README.md).
-4. Open the public technical portfolio: https://d-nd.com/portfolio/
-5. Inspect RepoKernel and the portable competence layers.
-6. Open the AI Lab and Lab transfer surfaces.
-7. Review THIA as total-system context and D-ND as deeper research source only
+4. Inspect the [`kernel_chat` card](../projects/kernel-chat/README.md).
+5. Open the public technical portfolio: https://d-nd.com/portfolio/
+6. Inspect RepoKernel and the portable competence layers.
+7. Open the AI Lab and Lab transfer surfaces.
+8. Review THIA as total-system context and D-ND as deeper research source only
    after the current operating system and evidence are already visible.

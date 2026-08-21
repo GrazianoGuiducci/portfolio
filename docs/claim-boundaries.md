@@ -44,6 +44,25 @@ Broader Claude Code, OpenCode and Hermes validation, non-synthetic external
 cases, second-OS reproducibility and remaining latency work stay explicit open
 proof until demonstrated.
 
+## kernel_chat public-release boundary
+
+Allowed when kept specific:
+
+- `kernel_chat` is the primary portable kernel for cloud chats and small
+  conversational systems without a durable project workspace.
+- Version 0.4.0 implements a ChatGPT host adapter, GitHub persistence adapter,
+  user-owned state, configuration and structural validation.
+- The kernel can preserve source-aware reentry, situated competence and
+  revisable evolution through the capabilities actually available to the host.
+
+Do not generalise this into:
+
+- all cloud-chat providers being currently supported;
+- repository structure proving assimilation or host behavior;
+- a chat becoming a daemon, scheduler or local agent runtime;
+- automatic connector access or independent authority over external effects;
+- ChatGPT or GitHub being the final boundary of the kernel.
+
 ## Demonstrated research-system evidence
 
 Use when backed by the relevant surface:

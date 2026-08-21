@@ -16,11 +16,21 @@ MAIOS is presented first because it is the current operational/public
 convergence. This is a review-order choice, not a claim that MAIOS is the total
 system or owns the projects below.
 
+## Primary kernel surfaces
+
+- [kernel_chat](kernel-chat/README.md) — primary portable kernel for cloud
+  chats and small conversational systems without a durable project workspace.
+  It extends the project harness into the chat through a host adapter and
+  user-owned persistence. Public source:
+  https://github.com/GrazianoGuiducci/kernel_chat
+- **Project Kernel** — situated, target-owned operating form for a project,
+  generated from reviewed intent and sources.
+- [RepoKernel](repokernel/README.md) — generative metakernel that composes
+  Project Kernel structures; it is neither `kernel_chat` nor the owner of the
+  generated project.
+
 ## Reusable infrastructure and competences
 
-- [RepoKernel](repokernel/README.md) — generative project-kernel source for
-  context, source atlas, gates, receipts, update awareness and reentry across
-  AI/coder sessions.
 - [d-nd-seed](dnd-seed/README.md) — portable seed for AI coders: hooks, memory,
   compact recovery, safety, skills and Lab patterns.
 - **Agentic UX Skill / UX-AI Seed** — portable AI-native UX behavior contracts
@@ -96,7 +106,7 @@ containment.
 PUBLIC REVIEW
 current operational convergence
 -> usable capability / entry route
--> inspectable evidence and reusable components
+-> kernel_chat / Project Kernel / inspectable evidence and reusable components
 -> total-system and deeper research context
 -> historical lineage
 

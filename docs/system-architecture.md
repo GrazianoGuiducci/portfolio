@@ -64,7 +64,7 @@ MAIOS — current operational/public convergence
         ↓
 Project Kernel + setup + models + tools + memory + competences
         ↓
-reusable components and inspectable evidence
+kernel_chat for conversational hosts / reusable components / inspectable evidence
         ↓
 Labs / Seed / Agentic UX / Business Skill / RepoKernel
         ↓
@@ -116,6 +116,34 @@ RepoKernel
         ↓
 Project Kernel
   situated project owner / operating seed
+```
+
+## kernel_chat — conversational kernel
+
+`kernel_chat` is the primary kernel for cloud chats and small conversational
+systems that do not own a persistent project filesystem. It extends the
+project harness normally available to a local application or agentic system
+into a turn-reactive host through two replaceable edges:
+
+```text
+portable conversational kernel
+        ↓
+host adapter       persistence adapter
+ChatGPT today      GitHub today
+```
+
+The current adapters are implementations, not the identity or future limit of
+the kernel. Version 0.4.0 provides present-first work, source-aware reentry,
+situated competence and metacompetence, FDLA self-observation, durable state
+and reversible evolution. It does not create a daemon, background worker,
+connector access or authority over external effects.
+
+The three kernel identities therefore remain distinct:
+
+```text
+kernel_chat   = portable conversational kernel
+Project Kernel = situated kernel owned by one project
+RepoKernel    = generative metakernel for Project Kernel structures
 ```
 
 ## THIA — total system

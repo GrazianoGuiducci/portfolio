@@ -33,7 +33,10 @@ person / organisation / project
         ↓
 MAIOS
         ↓
-Project Kernel + context + models + tools + memory + competences
+local or agentic project → Project Kernel
+cloud chat / small conversational host → kernel_chat
+        ↓
+context + sources + models + tools + memory + competences
         ↓
 setup / integration / continued work / review
         ↓
@@ -89,6 +92,11 @@ Portfolio card:
 
 ### Evidence, infrastructure and reusable components
 
+- **kernel_chat** — the primary conversational kernel: a public, user-owned
+  harness that extends durable project context, source-aware reentry, situated
+  competence and reversible learning into cloud chats that do not own a
+  persistent workspace. ChatGPT is the first adapter; GitHub is the first
+  persistence adapter, not the product boundary.
 - **RepoKernel** — generative project-kernel source for continuity, source
   mapping, gates, receipts and reentry.
 - **AI Lab / D-ND Lab** — self-maintaining research cycles with field
@@ -173,6 +181,7 @@ Project Kernels, skills, seeds, contracts and procedures.
 
 Public examples:
 
+- kernel_chat: https://github.com/GrazianoGuiducci/kernel_chat
 - RepoKernel: https://github.com/GrazianoGuiducci/RepoKernel
 - d-nd-seed: https://github.com/GrazianoGuiducci/d-nd-seed
 - Agentic UX Skill: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
@@ -184,6 +193,7 @@ Public examples:
 | --- | --- | --- |
 | MAIOS public surface | demonstrated / evolving | current operational convergence and AI setup/consulting surface |
 | MAIOS self-configuring Project Kernel package | demonstrated on current Codex evidence / evolving | project-specific operating seed; broader host validation remains open |
+| kernel_chat 0.4.0 | public source / first integrated release | primary kernel for cloud chats and small conversational systems; ChatGPT adapter implemented, real-use assimilation still open |
 | RepoKernel | public source / generative infrastructure | creates project-kernel structures; not itself the generated project owner |
 | AI Lab cycle | demonstrated | inspectable self-maintaining research cycle |
 | lab.d-nd.com | demonstrated / prototype | public Lab transfer surface and dashboard |

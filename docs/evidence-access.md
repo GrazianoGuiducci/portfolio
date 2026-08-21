@@ -28,6 +28,8 @@ Public evidence includes:
 - Lab dashboard: https://lab.d-nd.com/dashboard/
 - seed surface: https://seed.d-nd.com/
 - Agentic UX Skill / UX-AI Seed surface: https://seed.d-nd.com/ux-ai/
+- kernel_chat repository: https://github.com/GrazianoGuiducci/kernel_chat
+- kernel_chat MAIOS page: https://maios.it/conversation-kernel.html
 - RepoKernel repository: https://github.com/GrazianoGuiducci/RepoKernel
 - d-nd-seed repository: https://github.com/GrazianoGuiducci/d-nd-seed
 - Agentic UX Skill repository: https://github.com/GrazianoGuiducci/d-nd-ux-ai-seed
@@ -62,6 +64,16 @@ route.
 Owner-native evidence can support bounded statements about demonstrated Codex
 setup/reentry behavior, but private details and broader host compatibility are
 not public proof by default.
+
+## kernel_chat boundary
+
+`kernel_chat` is public evidence for a portable conversational kernel, its
+ChatGPT host adapter, GitHub persistence adapter, configurator and structural
+validator. Version 0.4.0 is a first integrated release.
+
+Repository structure is not proof of real-use assimilation, a second host
+adapter or autonomous background operation. ChatGPT and GitHub are the first
+implemented edges, not the product's final identity or architectural ceiling.
 
 ## THIA boundary
 
@@ -122,14 +134,15 @@ A technical reviewer should start with public evidence:
 
 1. MAIOS;
 2. technical portfolio;
-3. RepoKernel / Project Kernel evidence;
-4. AI Lab;
-5. Lab surface and dashboard;
-6. d-nd-seed and Agentic UX Skill;
-7. D-ND Business Skill where business-operating competence is relevant;
-8. THIA as total-system context;
-9. applied Physics/Math Lab as stress test;
-10. D-ND Papers / formal and deeper research anchor.
+3. kernel_chat as the primary conversational-kernel surface;
+4. RepoKernel / Project Kernel evidence;
+5. AI Lab;
+6. Lab surface and dashboard;
+7. d-nd-seed and Agentic UX Skill;
+8. D-ND Business Skill where business-operating competence is relevant;
+9. THIA as total-system context;
+10. applied Physics/Math Lab as stress test;
+11. D-ND Papers / formal and deeper research anchor.
 
 Private or internal material is discussed only if a serious review requires
 deeper detail and an appropriate disclosure boundary exists.
